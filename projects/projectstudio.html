@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="../style.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+    <div id="header">
+        <p id="name">Allie Mahaffey</p>
+        <h1 class="title">11th Grade Project Studio</h1>
+        <div>
+            <ul id="navigation">
+                <li>
+                    <a href="../index.html">Home</a>
+                </li>
+                <li>
+                    <a href="../blog.html">Blog</a>
+                </li>
+                <li>
+                    <a href="../projects.html">Projects</a>
+                </li>
+                <li>
+                    <a href="../maps.html">Maps</a>
+                </li>
+                <li>
+                    <a href="../about.html">About</a>
+                </li>
+                <li>
+                    <a href="../links.html">Links</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div id="content">
+        <p>During my junior year of high school, I spent one of my class slots independently doing graphics programming projects.</p>
+        <p>
+            I took the assignment specifications from MIT's <a href="https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/">Fall 2012 Computer Graphics</a> course,
+            timeless exercises covering a range of basic graphics programming concepts.
+        </p>
+        <p>
+            The graphics stack the assignments prescribed (OpenGL 2, C++03) is heavily out of date. I used their assets so that I wouldn't have to
+            create new ones, but I didn't use their sample code, and just did the projects from scratch with Rust and wgpu.
+            Annoyingly, this meant I had to write several bespoke parsers.
+        </p>
+        <p>
+            Not all of my implementations meet the specifications exactly, and several are incomplete, but they all do the spirit of what they're supposed to.
+        </p>
+        <p>
+            The code is <a href="https://github.com/allie-m/projectstudio">available on GitHub</a>. Instructions for how to run the code are there. Below are short synopses of the assignments.
+        </p>
+        <h3>Obj Parser and Renderer</h3>
+        <p>
+            This program parses and render obj files, drawing their normals as their color.
+            Very straightforward.
+        </p>
+        <h3>Swept Surfaces Renderer</h3>
+        <p>
+            This program creates and renders triangle meshes from swept surfaces.
+            The swept surfaces are defined from bezier curves or B-splines, specified in
+            a bespoke format made for the course.
+        </p>
+        <h3>Skeletal Modeling</h3>
+        <p>
+            This program animates and renders skeletal models with joint hierarchies.
+            It is hardcoded to swing the legs of the input model (all the sample models have the same bone structure),
+            although the shader can handle any transformation of the hierarchy.
+        </p>
+        <h3>Particle-Based Cloth Simulation</h3>
+        <p>
+            This program models the physics of a cloth -- specifically, a flag flapping in the breeze -- with a particle based simulation.
+        </p>
+        <p>
+            Each particle is acted on by forces (gravity, wind, and springs binding the cloth together), and an
+            <a href="https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods">rk4 numerical integrator</a>,
+            implemented in compute shaders, turns the forces into velocities that allow the cloth's motion to be simulated in real time.
+        </p>
+        <img src="flagrainbow.png" width="290" height="290">
+        <img src="flagtrans.png" width="290" height="290">
+        <h3>Basic Raytracer</h3>
+        <p>
+            This program renders basic scenes with a custom raytracer implemented in a compute shader.
+            It does not use the Monte Carlo method, using only one sample per pixel.
+            I considered trying to implement global illumination, but realized I would have to rearchitect the program
+            and so decided against it, as it is not in the course specification.
+        </p>
+        <img src="spheres.png" width="290" height="290">
+        <img src="bunny.png" width="290" height="290">
+        <h3>Terrain Renderer</h3>
+        <p>
+            This was not an assignment specification, but something I did because I had extra time.
+            I found ultra-high resolution heightmap data for Alameda County and used
+            <a href="https://github.com/heremaps/tin-terrain">tin-terrain</a> to convert it into
+            chunked meshes at varying levels of detail, which my program then rendered.
+        </p>
+        <p>
+            You can't actually see all of Alameda County at once, only the slice of it I processed.
+            Still, the detail is remarkable. Too bad they didn't have data underneath Lake Chabot's waters.
+        </p>
+    </div>
+</body>
+</html>
