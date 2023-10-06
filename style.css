@@ -31,6 +31,10 @@ table {
     border-spacing: 16px;
 }
 
+ul#navigation {
+    padding: 0em 0em 0em 0em;
+}
+
 ul#navigation li {
     font-size: 20px;
     display: inline;
