@@ -32,15 +32,21 @@
         </div>
     </div>
     <div id="content">
-        <p>
+        <!-- TODO deprecate? -->
+        <!-- <p>
             In the last few weeks of my 11th grade machine learning class,
-            we had the opportunity to pursue independent projects.
+            we had the opportunity to pursue brief two-week independent projects.
             I decided to make a simple neural net on the GPU from scratch:
-            a fully connected, one layer net with a softmax loss function,
-            training on MNIST.
+            a fully connected one layer softmax net, trained on MNIST.
         </p>
-        <p>The code is <a href="https://github.com/allie-m/vulkan-fcnet">available on GitHub</a>.</p>
         <p>
+            See my <a href="../blogposts/vlkfcnet.html">blog post</a>, for the full story.
+            The short version is that it wasn't very good, but
+        </p>
+        <p>
+            The code is <a href="https://github.com/allie-m/vulkan-fcnet">available on GitHub</a>.
+        </p> -->
+        <!-- <p>
             In hindsight, I should have just learned OpenCL, would've taken less time than what I did.
             I initially used wgpu until I found it didn't have support for floating point atomics at which point I rewrote it all in Vulkan,
             which had access to floating point atomics on my GPU (after trying unsuccessfully to hack support into wgpu).
@@ -52,7 +58,7 @@
         </p>
         <p>
             Not a great result, and my code is really terrible, but it has made me more comfortable writing (and also wary of) Vulkan.
-        </p>
+        </p> -->
     </div>
 </body>
 </html>
