@@ -264,6 +264,38 @@
         </p>
         <img src="assets/vlkfcnet/takethatcpu.png">
         <p>
+            So... what did we learn?
+        </p>
+        <p>
+            Well, for one thing, my GPU implementation was bad.
+            I'm not really sure what I should have done instead of this
+            but there are a lot of obviously suboptimal things.
+        </p>
+        <p>
+            My workgroup sizes are not optimal for utilization,
+            I pay no mind to cache,
+            I make a lot of use of slow atomic operations
+            and barriers, even with shared memory it's bad.
+            Maybe for a larger model with more and larger
+            matrix multiplications even my naive approach
+            would pay off. But the project was also massively overcomplicated
+            by using Vulkan instead of a compute API.
+            It's not like it really mattered, since it was a
+            school project with only my grade riding on it.
+            But it's a lesson!
+        </p>
+        <p>
+            TODO reexamine
+        </p>
+        <p>
+            Appreciate the work that goes into
+            developing GPU acceleration for libraries like PyTorch and
+            applications like game engines. Also don't saddle yourself
+            with a ton of unnecessary work when you're trying to finish
+            your junior year of high school that's another good
+            takeaway I think.
+        </p>
+        <p>
             Placeholder
         </p>
     </div>
