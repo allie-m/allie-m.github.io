@@ -33,7 +33,7 @@
     </div>
     <div id="content">
         <p>
-            It was nearing the end of my junior year.
+            It was nearing the end of my junior year of high school.
             For the last 4 weeks of my Machine Learning class,
             we each worked on independent projects of our choice.
             This was the project I decided to take on:
@@ -46,12 +46,99 @@
             on the GPU, from scratch.
         </p>
         <p>
+            MNIST is a collection of grayscale 28x28 images of
+            handdrawn numbers -- given such an image, the model
+            should determine what number it represents.
             Theoretically it should have been very simple:
             it's only one layer, no frills,
             and I'm training it on the simplest data set out there.
-            It wouldn't perform well or be anything but a
-            proof-of-concept exercise, but it *seemed* like it
-            was the right scope of project.
+            A good proof-of-concept exercise, nothing too ambitious
+            for just 4 weeks.
+        </p>
+        <p>
+            Implementing the net on the CPU was very straightforward.
+            The code for it is not especially complicated,
+            <a href="https://github.com/allie-m/vulkan-fcnet/blob/main/src/cpu.rs">you can read it</a>
+            if you are interested in how it actually works.
+        </p>
+        <p>
+            The short of it is that training this model consists in these steps:
+        </p>
+        <ul>
+            <li>
+                Multiplying a (batch_size x 784) matrix with a (784 x 10) matrix,
+                then adding to it a (1 x 10) matrix and exponentiating the elements.
+            </li>
+            <li>
+                Normalizing the values in a (784 x 10) matrix by columnwise vector.
+            </li>
+            <li>
+                Subtracting a value from each row of a (batch_size x 10) matrix,
+                then dividing every element by a constant.
+            </li>
+            <li>
+                Transposing a (batch_size x 784) matrix, multiplying it by a (batch_size x 10) matrix,
+                then adding a (784 x 10) matrix.
+            </li>
+            <li>
+                Summing the rows of a (784 x 10) matrix.
+            </li>
+            <li>
+                Adding/multiplying elementwise two (784 x 10) matrices and two (10 x 1) matrices.
+            </li>
+        </ul>
+        <p>for (arbitrarily chosen) batch_sizes 256 or 512.</p>
+        <p>
+            I'm sure that an off-the-shelf library could have micro-optimized
+            every aspect of this into something which runs pretty efficiently
+            on any GPU, but I had little GPU compute experience outside of
+            graphics-oriented compute shaders.
+        </p>
+        <p>
+            So, I decided to tackle everything naively and without looking at actual implementations,
+            using <a href="https://github.com/gfx-rs/wgpu">wgpu</a>
+            and writing it all in WGSL compute shaders. This way, I wouldn't
+            have to spend weeks learning a new technology. I made a provisional sketch
+            of the architecture.
+        </p>
+        <p>
+            Matrix multiplications would be handled by running shaders elementwise
+            on the output matrix, writing to each node the dot product of the multiplicands'
+            row and column vectors corresponding to that element. The most naive
+            approach there is.
+        </p>
+        <p>
+            It would use four buffer bind groups:
+            one for the model (weight + bias buffers),
+            two for batches: one in flight, one being copied to (each with separate image and index buffers),
+            one for the current scores/gradients,
+            and one to output the current loss.
+            In push constants (for convenience) we have the step size,
+            batch size, and regularization constants.
+        </p>
+        <p>
+            It would have four sequential passes: calculate the scores, the loss, the gradient, and finally do the
+            backpropagation. In the background we have a pending CPU-GPU transfer op to move the latest
+            randomized batch onto the GPU. So, I started programming.
+        </p>
+        <img src="assets/vlkfcnet/matmulattempt.png">
+        <p>
+            As it turned out, WGSL did not support atomic floating point arithmetic,
+            not even behind a feature gate. I asked the wgpu developers on their matrix chat,
+            and they said that it was a thing they intended to eventually get around to doing.
+        </p>
+        <p>
+            Briefly I considered using fixed radix numbers -- but the bitshifts and CPU-GPU conversions
+            alone made dealing with fixed radix numbers too annoying.
+        </p>
+        <p>
+            So, instead, I rewrote my test shader in GLSL, which does have support by way of Vulkan extensions
+            for atomic floating point numbers, and used direct SPIR-V passthrough to send it to wgpu.
+        </p>
+        <p>
+            Thing is, naga's validator refused to accept the SPIR-V as valid, containing an instruction for
+            which it had no support. I forked naga and removed the check -- surprise surprise the program
+            segmentation faulted.
         </p>
     </div>
 </body>
