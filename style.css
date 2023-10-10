@@ -26,12 +26,17 @@
     padding: 1em 2em 1em 2em;
 }
 
-/* ul li {
-    list-style-type: none;
-} */
-
-table {
+.maptable {
     border-spacing: 16px;
+}
+
+.blogtable>tr>td {
+    padding-right: 32px;
+}
+
+.blogtable>tr {
+    padding-bottom: 0px;
+    line-height: 0.0;
 }
 
 ul#navigation {

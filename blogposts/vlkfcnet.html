@@ -53,7 +53,7 @@
             it's only one layer, no frills,
             and I'm training it on the simplest data set out there.
             A good proof-of-concept exercise, nothing too ambitious
-            for just 4 weeks.
+            for just 4 weeks. Should be quick.
         </p>
         <p>
             Implementing the net on the CPU was very straightforward.
@@ -124,21 +124,118 @@
         <img src="assets/vlkfcnet/matmulattempt.png">
         <p>
             As it turned out, WGSL did not support atomic floating point arithmetic,
-            not even behind a feature gate. I asked the wgpu developers on their matrix chat,
-            and they said that it was a thing they intended to eventually get around to doing.
+            which were necessary for my matrix multiplication. I asked the
+            wgpu developers on their matrix chat, and they said that it was a thing
+            they intended to eventually get around to doing.
         </p>
         <p>
-            Briefly I considered using fixed radix numbers -- but the bitshifts and CPU-GPU conversions
-            alone made dealing with fixed radix numbers too annoying.
-        </p>
-        <p>
-            So, instead, I rewrote my test shader in GLSL, which does have support by way of Vulkan extensions
-            for atomic floating point numbers, and used direct SPIR-V passthrough to send it to wgpu.
+            So, instead, I rewrote my test shader in GLSL, which does have support
+            for atomic floating point numbers (GL_EXT_shader_atomic_float), and I
+            used direct SPIR-V passthrough to send it to wgpu.
         </p>
         <p>
             Thing is, naga's validator refused to accept the SPIR-V as valid, containing an instruction for
             which it had no support. I forked naga and removed the check -- surprise surprise the program
             segmentation faulted.
+        </p>
+        <p>
+            Yeah, Vulkan extensions need to be enabled before they can be used. So I forked wgpu,
+            and manually added the extensions to the Vulkan path to see what would happen.
+            Note that I had been running my project in release mode this whole time.
+            The CPU implementation only performed well in this mode, and I had forgot to remove the flag.
+            A side effect of release mode is that wgpu removes all the Vulkan validation layers,
+            so I was getting no helpful error messaging as I tried to track down everything that I
+            needed to tweak to get it to work.
+        </p>
+        <p>
+            Having eventually figured out that I needed to turn off release mode,
+            I realized that Vulkan was telling me that my GPU didn't support
+            shaderBufferFloat32AtomicAdd. This made me wonder whether my GPU didn't actually
+            support shaderBufferFloat32AtomicAdd.
+        </p>
+        <img src="assets/vlkfcnet/shaderfeatures.png" class="map">
+        <p>
+            Keen-eyed readers may notice that shaderSharedFloat32AtomicAdd *was* supported.
+            I did not notice this in my heightened state. Had I noticed this, I could have continued to
+            leverage my wgpu and naga forks and simply write my shaders to only use shared memory floating point ops.
+            This did not occur to me.
+        </p>
+        <p>
+            So, what were my other options?
+            I could use fixed radix numbers... but the bitshifts and CPU-GPU conversions
+            alone made dealing with fixed radix numbers too annoying.
+            I could use OpenCL, a library which supported atomic floating point addition, and which
+            was specifically designed for computing. But I also had never really used OpenCL before,
+            and I only had 3 weeks so best stick to a technology I know.
+        </p>
+        <p>
+            So, I made the completely wrongheaded and insane decision to scrap my work and rewrite it
+            all in Vulkan compute shaders, to leverage the shared memory float atomics.
+            In even worse judgement, I decided to use <a href="https://github.com/ash-rs/ash">ash</a>,
+            Rust's raw thin bindings to Vulkan, instead of something higher level like
+            <a href="https://github.com/vulkano-rs/vulkano">vulkano</a>. Whoops.
+        </p>
+        <p>
+            It was after I had deleted my forks and gotten about 3/4ths the way through the boilerplate
+            necessary to compile a single shader that I realized I could have used shared memory
+            float atomics with just wgpu. But, sunk cost fallacy. So I kept going.
+        </p>
+        <img src="assets/vlkfcnet/shaderfeatures2.png">
+        <p>
+            As it turned out, I had two different Vulkan drivers installed: AMD's amdvlk, and Mesa's vulkan-radeon.
+            Only vulkan-radeon had support for any floating point atomic addition, but amdvlk was being used by
+            default because it came first alphabetically. Thankfully this was fixed by just adding an environment
+            variable to override which driver gets used.
+        </p>
+        <p>
+            Recognize that by now I had far exceeded the amount of time it was reasonably expected I spend on this project,
+            just dealing with the Vulkan boilerplate needed to assemble and allocate the buffers and pipelines and shaders
+            and bind groups (descriptor sets in Vulkan).
+            But I was committed now.
+        </p>
+        <p>
+            I was working on the first shader: scores.comp, which computes what guesses the model makes
+            for the current batch. It effectively does one matrix multiplication with some other stuff
+            sprinkled on top.
+        </p>
+        <p>
+            I spent a day dealing with an inscrutable bug: sometimes it would give the right results,
+            sometimes partially right results, sometimes total garbage.
+        </p>
+        <img src="assets/vlkfcnet/uninitializedmemory.png">
+        <p>
+            Yeah shared memory is by default uninitialized, not zeroed :P
+        </p>
+        <p>
+            That embarrassing indiscretion fixed, I had one shader down, 3 to go.
+            Theoretically. I actually ended up needing 5 shaders:
+            I needed a second scores shader to do the columnwise normalization,
+            then a loss shader, then two gradient shaders, one to normalize the
+            scores and the other to do all the backpropagation.
+        </p>
+        <p>
+            I should note that by now the idea of batch size being encoded in push constants
+            had flown out the window. Because I was using shared memory, I needed to
+            hardcode certain matrix dimensions into the shaders' workgroup sizes,
+            and I just did not have the wherewithal for conditional compiling or
+            dynamically inserting stuff or anything. If I wanted to change the
+            batch size I'd just have to manually go change the values (which I did).
+        </p>
+        <p>
+            But, after several more hours, I had implemented all the shaders.
+        </p>
+        <img src="assets/vlkfcnet/notcorrectlytransposing.png">
+        <p>Oh.</p>
+        <p>
+            Two excruciating days of debugging later, I was able to get it to work.
+        </p>
+        <img src="assets/vlkfcnet/foundthebug.png">
+        <p>
+            It turned out the problem was in my second gradient shader, I was not
+            transposing a matrix correctly.
+        </p>
+        <p>
+            There were still problems, though.
         </p>
     </div>
 </body>
