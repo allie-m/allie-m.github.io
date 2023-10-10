@@ -35,7 +35,7 @@
         <p>
             Documented here is a brief period of madness I slipped into
             last May, a completely unnecessary and self-inflicted source of stress
-            at a time when I really didn't need any.
+            at a time when I really didn't need one.
         </p>
         <p>
             It was nearing the end of my junior year of high school.
@@ -48,7 +48,7 @@
             with <a href="https://en.wikipedia.org/wiki/Softmax_function">softmax loss</a>
             and <a href="https://en.wikipedia.org/wiki/Stochastic_gradient_descent">stochastic gradient descent</a>
             trained on <a href="https://en.wikipedia.org/wiki/MNIST_database">MNIST</a>
-            on the GPU, from scratch.
+            to run on the GPU, from scratch.
         </p>
         <p>
             MNIST is a collection of grayscale 28x28 images of
@@ -58,7 +58,7 @@
             it's only one layer, no frills,
             and I'm training it on the simplest data set out there.
             A good proof-of-concept exercise, nothing too ambitious
-            for just 4 weeks. Should be quick, right?
+            for just 3 weeks. Should be quick, right?
         </p>
         <p>
             Implementing the net on the CPU was very straightforward.
@@ -115,7 +115,7 @@
         <p>
             It would use four buffer bind groups:
             one for the model (weight + bias buffers),
-            two for batches: one in flight, one being copied to (each with separate image and index buffers),
+            two for batches: one in flight, one being copied to (each with separate image and label buffers),
             one for the current scores/gradients,
             and one to output the current loss.
             In push constants (for convenience) we have the step size,
@@ -128,8 +128,8 @@
         </p>
         <img src="assets/vlkfcnet/matmulattempt.png">
         <p>
-            As it turned out, WGSL did not support atomic floating point arithmetic,
-            which were necessary for my matrix multiplication. I asked the
+            As it turned out, WGSL did not support atomic floating point addition,
+            which was necessary for my matrix multiplication. I asked the
             wgpu developers on their matrix chat, and they said that it was a thing
             they intended to eventually get around to doing.
         </p>
@@ -178,7 +178,7 @@
             all in Vulkan compute shaders, to leverage the shared memory float atomics.
             In even worse judgement, I decided to use <a href="https://github.com/ash-rs/ash">ash</a>,
             Rust's raw thin bindings to Vulkan, instead of something higher level like
-            <a href="https://github.com/vulkano-rs/vulkano">vulkano</a>. Whoops.
+            <a href="https://github.com/vulkano-rs/vulkano">vulkano</a>.
         </p>
         <p>
             It was after I had deleted my forks and gotten about 3/4ths the way through the boilerplate
@@ -193,10 +193,10 @@
             variable to override which driver gets used.
         </p>
         <p>
-            Recognize that by now I had far exceeded the amount of time it was reasonably expected I spend on this project,
-            just dealing with the Vulkan boilerplate needed to assemble and allocate the buffers and pipelines and shaders
+            By now I had far exceeded the amount of time it was reasonably expected I spend on this project,
+            just dealing with the boilerplate needed to assemble and allocate the buffers and pipelines and shaders
             and bind groups (descriptor sets in Vulkan).
-            But I was committed now.
+            But I was committed.
         </p>
         <p>
             I was working on the first shader: scores.comp, which computes what guesses the model makes
@@ -240,10 +240,31 @@
             transposing a matrix correctly.
         </p>
         <p>
-            There were still problems, though.
+            Finally! The model was working, and it had only taken like
+            two weeks.
         </p>
         <p>
-            [Placeholder]
+            Except, well, one problem. It performed much worse than the
+            CPU version. Also it was getting a 10% lower validation accuracy
+            so that would make it two problems--
+        </p>
+        <p>
+            Anyways, after a bunch of profiling I managed to get the GPU
+            performance closer to the CPU's -- 130 milliseconds slower
+            to train for 5000 iterations with batch size 256 on the GPU.
+            More detailed profiling showed that the GPU's core loop
+            took over twice as long as the CPU's, it was only the fact
+            it could shuffle new batches while it processed previous ones
+            which made the performance not so garbage.
+        </p>
+        <p>
+            By finagling the hyperparameters (changing the batch size to 512),
+            I eked out a win of 260 milliseconds for the GPU for 5000
+            iterations.
+        </p>
+        <img src="assets/vlkfcnet/takethatcpu.png">
+        <p>
+            Placeholder
         </p>
     </div>
 </body>

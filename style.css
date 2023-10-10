@@ -26,11 +26,12 @@
     padding: 1em 2em 1em 2em;
 }
 
-.maptable {
-    border-spacing: 16px;
+.maptable>tbody>tr>td {
+    /* border-spacing: 16px; */
+    padding-right: 16px;
 }
 
-.blogtable>tr>td {
+.blogtable>tbody>tr>td {
     padding-right: 32px;
 }
 
