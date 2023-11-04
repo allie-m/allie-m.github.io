@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.5318081"
-     inkscape:cx="-30.356283"
-     inkscape:cy="1284.7562"
+     inkscape:cx="56.469214"
+     inkscape:cy="1220.7795"
      inkscape:window-width="1870"
      inkscape:window-height="976"
      inkscape:window-x="20"
@@ -264,16 +264,6 @@
        style="fill:none;stroke:#5fd3bc;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
        d="m 220.92708,1.3229167 6.61458,0.0438 33.07292,-0.0438"
        id="path1-7-2"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#5fd3bc;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
-       d="m 38.364582,254.00001 h -9.260417 c 0,0 -2.645833,0 -5.291666,-2.64584"
-       id="path1-0"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#5fd3bc;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
-       d="m 35.71875,254.00001 c -2.645834,0 -2.645834,2.64583 -2.645834,2.64583 v 1.32292 c 0,0 0,2.64583 2.645833,5.29167"
-       id="path1-0-8"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#a02c2c;stroke-width:0.75;stroke-dasharray:none;paint-order:fill markers stroke"
@@ -1051,72 +1041,38 @@
          y="267.81204">R</tspan></text>
     <circle
        style="fill:#5fd3bc;stroke:none;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="path2-8-1-4-3-3"
-       cx="33.072914"
-       cy="256.64584"
-       r="1.3229166" />
-    <text
-       xml:space="preserve"
-       style="font-size:1.76389px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="33.074829"
-       y="257.2287"
-       id="text3-92-1-1-8-7"><tspan
-         sodipodi:role="line"
-         id="tspan3-6-0-2-3-1"
-         style="fill:#000000;stroke-width:1.5"
-         x="33.074829"
-         y="257.2287">R</tspan></text>
-    <circle
-       style="fill:#5fd3bc;stroke:none;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
        id="path2-8-1-4-3-3-2"
-       cx="29.104166"
-       cy="256.64584"
-       r="1.3229166" />
-    <text
-       xml:space="preserve"
-       style="font-size:1.76389px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="29.106081"
-       y="257.2287"
-       id="text3-92-1-1-8-7-0"><tspan
-         sodipodi:role="line"
-         id="tspan3-6-0-2-3-1-6"
-         style="fill:#000000;stroke-width:1.5"
-         x="29.106081"
-         y="257.2287">R</tspan></text>
-    <circle
-       style="fill:#5fd3bc;stroke:none;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="path2-8-5-8-8-7-4"
-       cx="38.364582"
-       cy="250.03127"
-       r="1.3229166" />
-    <text
-       xml:space="preserve"
-       style="font-size:1.76389px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="38.366497"
-       y="250.61412"
-       id="text3-92-0-5-8-9-1"><tspan
-         sodipodi:role="line"
-         id="tspan3-6-4-0-9-3-9"
-         style="fill:#000000;stroke-width:1.5"
-         x="38.366497"
-         y="250.61412">Y</tspan></text>
-    <circle
-       style="fill:#5fd3bc;stroke:none;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="path2-8-5-8-8-7-4-3"
        cx="30.427082"
-       cy="254.00002"
+       cy="257.96875"
        r="1.3229166" />
     <text
        xml:space="preserve"
        style="font-size:1.76389px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
        x="30.428997"
-       y="254.58287"
+       y="258.55161"
+       id="text3-92-1-1-8-7-0"><tspan
+         sodipodi:role="line"
+         id="tspan3-6-0-2-3-1-6"
+         style="fill:#000000;stroke-width:1.5"
+         x="30.428997"
+         y="258.55161">R</tspan></text>
+    <circle
+       style="fill:#5fd3bc;stroke:none;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path2-8-5-8-8-7-4-3"
+       cx="25.135416"
+       cy="248.70834"
+       r="1.3229166" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="25.137331"
+       y="249.2912"
        id="text3-92-0-5-8-9-1-6"><tspan
          sodipodi:role="line"
          id="tspan3-6-4-0-9-3-9-1"
          style="fill:#000000;stroke-width:1.5"
-         x="30.428997"
-         y="254.58287">Y</tspan></text>
+         x="25.137331"
+         y="249.2912">Y</tspan></text>
     <circle
        style="fill:#5fd3bc;stroke:none;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
        id="path2-8-9-6-2"
@@ -1542,23 +1498,6 @@
          style="fill:#000000;stroke-width:1.5"
          x="228.86649"
          y="195.05161">B</tspan></text>
-    <circle
-       style="fill:#5fd3bc;stroke:none;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="path2-8-1-4-3-9"
-       cx="38.364582"
-       cy="247.38542"
-       r="1.3229166" />
-    <text
-       xml:space="preserve"
-       style="font-size:1.76389px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="38.366497"
-       y="247.96828"
-       id="text3-92-1-1-8-79"><tspan
-         sodipodi:role="line"
-         id="tspan3-6-0-2-3-9"
-         style="fill:#000000;stroke-width:1.5"
-         x="38.366497"
-         y="247.96828">R</tspan></text>
     <circle
        style="fill:#ffcc00;stroke:none;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
        id="path2-8-7-6"
@@ -2511,8 +2450,8 @@
     <circle
        style="fill:#5fd3bc;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
        id="path2-61-2-4-8-0-2-4-4-6-2-3-3-6-2-9"
-       cx="38.364582"
-       cy="254.00002"
+       cx="25.135416"
+       cy="252.67709"
        r="1.3229166" />
     <circle
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
@@ -3148,19 +3087,19 @@
          y="245.95993">San Bruno</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
-       x="41.778625"
-       y="253.09927"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;text-anchor:end;fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="22.037592"
+       y="252.45618"
        id="text2-1-9-3-6-65-0-9-0-9-9-6-4-6-6"><tspan
          sodipodi:role="line"
          id="tspan2-0-7-3-2-6-7-0-81-1-4-7-7-4-4"
-         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
-         x="41.778625"
-         y="253.09927">San Francisco</tspan><tspan
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="22.037592"
+         y="252.45618">San Francisco</tspan><tspan
          sodipodi:role="line"
-         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
-         x="41.778625"
-         y="255.74512"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="22.03759"
+         y="255.10202"
          id="tspan8">International Airport (SFO)</tspan></text>
     <text
        xml:space="preserve"
@@ -4486,7 +4425,7 @@
          id="tspan19-1-6-1"
          style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke-width:2"
          x="-53.05188"
-         y="324.9097">Richmond - Millbrae - SFO Airport</tspan><tspan
+         y="324.9097">Richmond - SFO Airport - Millbrae</tspan><tspan
          sodipodi:role="line"
          style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke-width:2"
          x="-53.05188"
