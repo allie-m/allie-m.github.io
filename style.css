@@ -26,9 +26,20 @@
     padding: 1em 2em 1em 2em;
 }
 
-.maptable>tbody>tr>td {
-    /* border-spacing: 16px; */
+.projectentry>tbody>tr>td {
     padding-right: 16px;
+}
+
+.maptable {
+    align-self: center;
+}
+
+.maptable>tbody>tr>td {
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 200px;
+    height: 275px;
+    vertical-align: top;
 }
 
 .blogtable>tbody>tr>td {
