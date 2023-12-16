@@ -27,15 +27,15 @@
      inkscape:deskcolor="#7d7d7d"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.36298149"
-     inkscape:cx="417.37665"
-     inkscape:cy="611.60143"
+     inkscape:zoom="1.451926"
+     inkscape:cx="891.57439"
+     inkscape:cy="1039.3092"
      inkscape:window-width="1870"
      inkscape:window-height="976"
      inkscape:window-x="20"
      inkscape:window-y="55"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer6"
      showguides="true">
     <inkscape:grid
        id="grid1"
@@ -188,6 +188,25 @@
          d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
          style="fill:context-stroke;fill-rule:evenodd;stroke:none"
          id="path8-0-2-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-2-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="0.30000001"
+       markerHeight="0.30000001"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-3-0" />
     </marker>
   </defs>
   <rect
@@ -470,15 +489,15 @@
        id="path2-53-2-7-35"
        sodipodi:nodetypes="cccsccccscsccccscscccc" />
     <path
-       style="fill:none;stroke:#93aca7;stroke-width:0.75;stroke-dasharray:none;paint-order:fill markers stroke"
-       d="m 3.9687499,107.15625 0,62.1771 c 0,0 0,2.64583 2.6458332,5.29166 l 6.6145829,6.61458"
-       id="path2-53-2-7-35-9-3"
-       sodipodi:nodetypes="ccsc" />
-    <path
        style="fill:none;stroke:#c83737;stroke-width:1.5;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0;paint-order:fill markers stroke"
        d="m 39.687501,145.52084 v -2.64583 -11.90625 c 0,0 1e-6,-2.64583 -2.645834,-5.29167 l -7.937499,-7.9375 c 0,0 -2.645834,-2.64583 -5.291667,-2.64583 H -5.2916651 c 0,0 -2.6458322,-1e-5 -5.2916659,-2.64584 L -23.812498,99.218752"
        id="path2-53-2-7-3-3"
        sodipodi:nodetypes="cscscscsc" />
+    <path
+       style="fill:none;stroke:#93aca7;stroke-width:0.75;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 3.9687499,107.15625 0,62.1771 c 0,0 0,2.64583 2.6458332,5.29166 l 6.6145829,6.61458"
+       id="path2-53-2-7-35-9-3"
+       sodipodi:nodetypes="ccsc" />
     <path
        style="fill:none;stroke:#b3b3b3;stroke-width:1.5;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#RoundedArrow);paint-order:fill markers stroke"
        d="m 54.239582,166.68751 v 1.32291 10.58334 88.63542 66.14583 c 0,0 0,2.64583 2.645833,5.29167 l 21.166666,21.16666"
@@ -500,10 +519,15 @@
        id="path2-53-2-7-3-3-0-0-3-9-5"
        sodipodi:nodetypes="cccsc" />
     <path
-       style="fill:none;stroke:#b3b3b3;stroke-width:1.5;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#RoundedArrow-2-3);paint-order:fill markers stroke"
-       d="m 252.67708,243.41667 5.29166,5.29167 c 0,0 2.64584,2.64583 2.64584,5.29166 v 5.29167"
-       id="path2-53-2-7-3-3-0-0-3-9-5-6"
+       style="fill:none;stroke:#b3b3b3;stroke-width:1.5;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#RoundedArrow-2-2);paint-order:fill markers stroke"
+       d="m 259.29166,48.947918 v 6.614584 c 0,0 0,2.645833 2.64583,5.291667 l 10.58334,10.583333"
+       id="path2-53-2-7-3-3-0-0-3-9-5-3"
        sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:1.5;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#RoundedArrow-2-3);paint-order:fill markers stroke"
+       d="m 252.67708,243.41667 5.29166,5.29167 c 0,0 2.64584,2.64583 2.64584,5.29166 l 0,2.64584"
+       id="path2-53-2-7-3-3-0-0-3-9-5-6"
+       sodipodi:nodetypes="ccsc" />
     <path
        style="fill:none;stroke:#5fbcd3;stroke-width:1.5;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0;paint-order:fill markers stroke"
        d="m -11.906249,149.48958 41.010415,1e-5 c 0,0 10.583333,0 13.229166,-2.64584 l 2.645834,-2.64583"
@@ -524,6 +548,11 @@
        d="m 112.44791,129.64584 v -11.90625 -13.22917 c 0,0 0,-3.96875 2.64584,-5.291667 l 5.29166,-2.645833 c 0,0 2.64584,-1.322917 2.64584,-3.96875 V 72.760419 c 0,0 -1e-5,-2.64583 -2.64584,-5.291667 l -6.61458,-6.614584 c 0,0 -2.64583,-2.645833 -2.64583,-5.291666 V 27.781251 c 0,0 0,-2.645834 -2.64584,-5.291667 L 96.572914,10.583334 c 0,0 -2.645833,-2.6458337 -5.291667,-2.6458337 l -6.614583,0"
        id="path1"
        sodipodi:nodetypes="cccccscscsc" />
+    <path
+       style="fill:none;stroke:#93aca7;stroke-width:0.75;stroke-dasharray:none;marker-start:url(#RoundedArrow-5-7);paint-order:fill markers stroke"
+       d="m 222.24999,218.28126 0,-2.64583 c 0,0 0,-2.64584 -2.64583,-5.29167"
+       id="path2-53-2-7-35-9-5-1-2"
+       sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#ff6600;stroke-width:1.5;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
        d="m 173.30207,140.22917 22.48959,22.48959 c 0,0 2.64583,2.64583 2.64583,5.29166 v 21.16667 c 0,0 0,2.64583 2.64584,5.29167 l 11.90625,11.90625 37.04166,37.04166"
@@ -747,11 +776,6 @@
        d="m -44.979165,14.552084 0,-18.5208341"
        id="path2-53-2-7-3-3-0-0-3-9-6"
        sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#93aca7;stroke-width:0.75;stroke-dasharray:none;marker-start:url(#RoundedArrow-5-7);paint-order:fill markers stroke"
-       d="m 222.24999,218.28126 0,-2.64583 c 0,0 0,-2.64584 -2.64583,-5.29167"
-       id="path2-53-2-7-35-9-5-1-2"
-       sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#93aca7;stroke-width:0.75;stroke-dasharray:none;marker-start:url(#RoundedArrow-5-7-8);paint-order:fill markers stroke"
        d="m 211.66666,164.04167 h -3.96875 c 0,0 -1.32292,0 -2.64583,-1.32291"
@@ -1853,6 +1877,12 @@
     <circle
        style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
        id="path2-61-2-4-8-0-2-4-4-6-2-3-3-6-2-9-3-0-3-0-0-6-10-6-7-5"
+       cx="259.29166"
+       cy="48.947918"
+       r="1.3229166" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path2-61-2-4-8-0-2-4-4-6-2-3-3-6-2-9-3-0-3-0-0-6-10-6-7-5-6"
        cx="256.64581"
        cy="48.947918"
        r="1.3229166" />
@@ -2487,12 +2517,12 @@
     <text
        xml:space="preserve"
        style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="259.54346"
+       x="262.1893"
        y="49.932087"
        id="text1-0-9-8-0-0-6-8-4-3-5-8"><tspan
          sodipodi:role="line"
          style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1.5"
-         x="259.54346"
+         x="262.1893"
          y="49.932087"
          id="tspan4-8-4-7-8-9-9-4">Walnut Creek</tspan></text>
     <text
@@ -2902,7 +2932,7 @@
          id="tspan23-7-4-2"
          style="fill:#b3b3b3;stroke:none;stroke-width:1"
          x="287.38565"
-         y="227.08151">to Dublin,</tspan><tspan
+         y="227.08151">to Walnut Creek,</tspan><tspan
          sodipodi:role="line"
          style="fill:#b3b3b3;stroke:none;stroke-width:1"
          x="287.38565"
@@ -2911,14 +2941,25 @@
     <text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#b3b3b3;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
-       x="262.5148"
-       y="260.46039"
+       x="275.03284"
+       y="71.818962"
+       id="text23-8-90-1-2"><tspan
+         sodipodi:role="line"
+         style="fill:#b3b3b3;stroke:none;stroke-width:1"
+         x="275.03284"
+         y="71.818962"
+         id="tspan35-8">to Hayward</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#b3b3b3;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="262.87497"
+       y="256.46768"
        id="text23-8-90-1-3"><tspan
          sodipodi:role="line"
          id="tspan23-7-4-2-9"
          style="fill:#b3b3b3;stroke:none;stroke-width:1"
-         x="262.5148"
-         y="260.46039">to San Jose</tspan></text>
+         x="262.87497"
+         y="256.46768">to San Jose</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#8dd35f;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
@@ -3365,23 +3406,23 @@
        style="fill:#999999;stroke:none;stroke-width:2;stroke-dasharray:none;paint-order:fill markers stroke"
        id="rect6"
        width="198.4375"
-       height="100.54174"
+       height="105.8334"
        x="108.47916"
-       y="269.875" />
+       y="264.58334" />
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:2;stroke-dasharray:none;paint-order:fill markers stroke"
        id="rect11"
        width="198.4375"
        height="5.2916584"
        x="108.47916"
-       y="264.58334" />
+       y="259.29169" />
     <rect
        style="fill:#4d4d4d;stroke:none;stroke-width:2;stroke-dasharray:none;paint-order:fill markers stroke"
        id="rect12"
-       width="5.2916732"
-       height="105.83334"
+       width="5.2916746"
+       height="111.12502"
        x="103.1875"
-       y="264.58334" />
+       y="259.29169" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3391,6 +3432,24 @@
        style="fill:#ff6600;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
        id="path45"
        cx="224.8958"
+       cy="273.84372"
+       rx="2.6458426"
+       ry="2.6458347" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="229.24806"
+       y="275.01587"
+       id="text45"><tspan
+         sodipodi:role="line"
+         id="tspan45"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
+         x="229.24806"
+         y="275.01587">Richmond - Hayward (6 car, 4 tph)</tspan></text>
+    <ellipse
+       style="fill:#ff6600;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path45-6"
+       cx="224.8958"
        cy="280.45831"
        rx="2.6458426"
        ry="2.6458347" />
@@ -3399,15 +3458,15 @@
        style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
        x="229.24806"
        y="281.63046"
-       id="text45"><tspan
+       id="text45-1"><tspan
          sodipodi:role="line"
-         id="tspan45"
+         id="tspan45-5"
          style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
          x="229.24806"
-         y="281.63046">Richmond - Hayward (6 car, 4 tph)</tspan></text>
+         y="281.63046">Richmond - Millbrae (8 car, 4 tph)</tspan></text>
     <ellipse
        style="fill:#ff6600;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="path45-6"
+       id="path45-65"
        cx="224.8958"
        cy="287.07291"
        rx="2.6458426"
@@ -3417,33 +3476,33 @@
        style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
        x="229.24806"
        y="288.24506"
-       id="text45-1"><tspan
+       id="text45-6"><tspan
          sodipodi:role="line"
-         id="tspan45-5"
+         id="tspan45-9"
          style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
          x="229.24806"
-         y="288.24506">Richmond - Millbrae (8 car, 4 tph)</tspan></text>
+         y="288.24506">Concord - Millbrae (8 car, 4 tph)</tspan></text>
     <ellipse
        style="fill:#ff6600;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="path45-65"
+       id="path45-5"
        cx="224.8958"
-       cy="293.6875"
+       cy="293.68747"
        rx="2.6458426"
        ry="2.6458347" />
     <text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
        x="229.24806"
-       y="294.85965"
-       id="text45-6"><tspan
+       y="294.85962"
+       id="text45-2"><tspan
          sodipodi:role="line"
-         id="tspan45-9"
+         id="tspan45-54"
          style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
          x="229.24806"
-         y="294.85965">Concord - Millbrae (8 car, 4 tph)</tspan></text>
+         y="294.85962">Broadmoor - Daly City (6 car, 4 tph)</tspan></text>
     <ellipse
        style="fill:#ff6600;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="path45-5"
+       id="path45-3"
        cx="224.8958"
        cy="300.30206"
        rx="2.6458426"
@@ -3453,87 +3512,116 @@
        style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
        x="229.24806"
        y="301.47421"
-       id="text45-2"><tspan
-         sodipodi:role="line"
-         id="tspan45-54"
-         style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
-         x="229.24806"
-         y="301.47421">Broadmoor - Daly City (6 car, 4 tph)</tspan></text>
-    <ellipse
-       style="fill:#ff6600;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="path45-3"
-       cx="224.8958"
-       cy="306.91666"
-       rx="2.6458426"
-       ry="2.6458347" />
-    <text
-       xml:space="preserve"
-       style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="229.24806"
-       y="308.08881"
        id="text45-0"><tspan
          sodipodi:role="line"
          id="tspan45-7"
          style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
          x="229.24806"
-         y="308.08881">Hayward - Daly City (8 car, 6 tph)</tspan></text>
+         y="301.47421">Hayward - Daly City (8 car, 6 tph)</tspan></text>
     <ellipse
        style="fill:#c83737;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
        id="path45-3-8"
        cx="224.8958"
-       cy="313.53125"
+       cy="306.91666"
        rx="2.6458426"
        ry="2.6458347" />
     <ellipse
        style="fill:#93aca7;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
        id="path45-3-8-6"
        cx="116.41666"
-       cy="359.83334"
+       cy="353.21875"
        rx="2.6458426"
        ry="2.6458347" />
     <text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
        x="229.24518"
-       y="314.25571"
+       y="307.64111"
        id="text45-0-4"><tspan
          sodipodi:role="line"
          id="tspan45-7-3"
          style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
          x="229.24518"
-         y="314.25571">Montgomery - San Rafael (6 car, 4 tph)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="120.9712"
-       y="361.02444"
-       id="text45-0-4-5"><tspan
-         sodipodi:role="line"
-         id="tspan45-7-3-9"
-         style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
-         x="120.9712"
-         y="361.02444">Van Ness (47, 49)</tspan></text>
+         y="307.64111">Montgomery - San Rafael (6 car, 4 tph)</tspan></text>
     <ellipse
-       style="fill:#93aca7;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="path45-3-8-6-7"
-       cx="116.41666"
-       cy="366.44791"
+       style="fill:#c83737;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path45-3-8-5"
+       cx="224.89583"
+       cy="313.53125"
        rx="2.6458426"
        ry="2.6458347" />
     <text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="120.9712"
-       y="367.63901"
+       x="229.24521"
+       y="314.25571"
+       id="text45-0-4-3"><tspan
+         sodipodi:role="line"
+         id="tspan45-7-3-5"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
+         x="229.24521"
+         y="314.25571">Montgomery - Presidio (6 car, 6 tph)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="120.97121"
+       y="354.40985"
+       id="text45-0-4-5"><tspan
+         sodipodi:role="line"
+         id="tspan45-7-3-9"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
+         x="120.97121"
+         y="354.40985">Van Ness (47, 49)</tspan></text>
+    <ellipse
+       style="fill:#93aca7;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path45-3-8-6-7"
+       cx="116.41666"
+       cy="359.83331"
+       rx="2.6458426"
+       ry="2.6458347" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="120.97121"
+       y="361.02441"
        id="text45-0-4-5-8"><tspan
          sodipodi:role="line"
          id="tspan45-7-3-9-5"
          style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
-         x="120.9712"
-         y="367.63901">Telegraph/International (1, 10, 40, 97)</tspan></text>
+         x="120.97121"
+         y="361.02441">Telegraph/International (1, 10, 40, 97)</tspan></text>
     <ellipse
        style="fill:#5fbcd3;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
        id="path45-3-8-2"
+       cx="116.41666"
+       cy="306.91669"
+       rx="2.6458426"
+       ry="2.6458347" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="120.76892"
+       y="308.08884"
+       id="text45-0-4-0"><tspan
+         sodipodi:role="line"
+         id="tspan45-7-3-6"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
+         x="120.76892"
+         y="308.08884">Geary // Ocean Beach - Embarcadero (3 car, 5 tph)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="115.24998"
+       y="308.28088"
+       id="text45-0-4-0-6"><tspan
+         sodipodi:role="line"
+         id="tspan45-7-3-6-6"
+         style="font-size:3.52778px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
+         x="115.24998"
+         y="308.28088">B</tspan></text>
+    <ellipse
+       style="fill:#5fbcd3;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path45-3-8-2-0"
        cx="116.41666"
        cy="313.53128"
        rx="2.6458426"
@@ -3541,28 +3629,28 @@
     <text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="120.76891"
+       x="120.76892"
        y="314.70343"
-       id="text45-0-4-0"><tspan
+       id="text45-0-4-0-4"><tspan
          sodipodi:role="line"
-         id="tspan45-7-3-6"
+         id="tspan45-7-3-6-8"
          style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
-         x="120.76891"
-         y="314.70343">Geary // Ocean Beach - Embarcadero (3 car, 5 tph)</tspan></text>
+         x="120.76892"
+         y="314.70343">Geary-California // 33rd Ave - Embarcadero (3 car, 4 tph)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="115.24997"
+       x="115.24998"
        y="314.89548"
-       id="text45-0-4-0-6"><tspan
+       id="text45-0-4-0-6-7"><tspan
          sodipodi:role="line"
-         id="tspan45-7-3-6-6"
+         id="tspan45-7-3-6-6-1"
          style="font-size:3.52778px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
-         x="115.24997"
-         y="314.89548">B</tspan></text>
+         x="115.24998"
+         y="314.89548">C</tspan></text>
     <ellipse
        style="fill:#5fbcd3;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="path45-3-8-2-0"
+       id="path45-3-8-2-2"
        cx="116.41666"
        cy="320.14587"
        rx="2.6458426"
@@ -3570,57 +3658,57 @@
     <text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="120.76891"
+       x="120.76892"
        y="321.31802"
-       id="text45-0-4-0-4"><tspan
+       id="text45-0-4-0-2"><tspan
          sodipodi:role="line"
-         id="tspan45-7-3-6-8"
+         id="tspan45-7-3-6-61"
          style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
-         x="120.76891"
-         y="321.31802">Geary-California // 33rd Ave - Embarcadero (3 car, 4 tph)</tspan></text>
+         x="120.76892"
+         y="321.31802">Ingleside // Balboa Park - Embarcadero (2 car, 4 tph)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="115.24997"
+       x="115.24998"
        y="321.51007"
-       id="text45-0-4-0-6-7"><tspan
+       id="text45-0-4-0-6-0"><tspan
          sodipodi:role="line"
-         id="tspan45-7-3-6-6-1"
+         id="tspan45-7-3-6-6-6"
          style="font-size:3.52778px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
-         x="115.24997"
-         y="321.51007">C</tspan></text>
+         x="115.24998"
+         y="321.51007">K</tspan></text>
     <ellipse
        style="fill:#5fbcd3;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="path45-3-8-2-2"
+       id="path45-3-8-2-4"
        cx="116.41666"
-       cy="326.76047"
+       cy="326.76044"
        rx="2.6458426"
        ry="2.6458347" />
     <text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="120.76891"
-       y="327.93262"
-       id="text45-0-4-0-2"><tspan
+       x="120.76892"
+       y="327.93259"
+       id="text45-0-4-0-9"><tspan
          sodipodi:role="line"
-         id="tspan45-7-3-6-61"
+         id="tspan45-7-3-6-0"
          style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
-         x="120.76891"
-         y="327.93262">Ingleside // Balboa Park - Embarcadero (2 car, 4 tph)</tspan></text>
+         x="120.76892"
+         y="327.93259">Taraval // SF Zoo - Embarcadero (2 car, 4 tph)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="115.24997"
-       y="328.12466"
-       id="text45-0-4-0-6-0"><tspan
+       x="115.24998"
+       y="328.12463"
+       id="text45-0-4-0-6-9"><tspan
          sodipodi:role="line"
-         id="tspan45-7-3-6-6-6"
+         id="tspan45-7-3-6-6-17"
          style="font-size:3.52778px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
-         x="115.24997"
-         y="328.12466">K</tspan></text>
+         x="115.24998"
+         y="328.12463">L</tspan></text>
     <ellipse
        style="fill:#5fbcd3;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="path45-3-8-2-4"
+       id="path45-3-8-2-5"
        cx="116.41666"
        cy="333.37503"
        rx="2.6458426"
@@ -3628,75 +3716,64 @@
     <text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="120.76891"
+       x="120.76892"
        y="334.54718"
-       id="text45-0-4-0-9"><tspan
+       id="text45-0-4-0-97"><tspan
          sodipodi:role="line"
-         id="tspan45-7-3-6-0"
+         id="tspan45-7-3-6-7"
          style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
-         x="120.76891"
-         y="334.54718">Taraval // SF Zoo - Embarcadero (2 car, 4 tph)</tspan></text>
+         x="120.76892"
+         y="334.54718">Oceanview // Outer Mission - Embarcadero (2 car, 4 tph)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="115.24997"
+       x="115.24998"
        y="334.73923"
-       id="text45-0-4-0-6-9"><tspan
+       id="text45-0-4-0-6-6"><tspan
          sodipodi:role="line"
-         id="tspan45-7-3-6-6-17"
+         id="tspan45-7-3-6-6-7"
          style="font-size:3.52778px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
-         x="115.24997"
-         y="334.73923">L</tspan></text>
+         x="115.24998"
+         y="334.73923">M</tspan></text>
     <ellipse
        style="fill:#5fbcd3;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="path45-3-8-2-5"
-       cx="116.41666"
+       id="path45-3-8-2-5-6"
+       cx="116.41664"
        cy="339.98962"
        rx="2.6458426"
        ry="2.6458347" />
     <text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="120.76891"
+       x="120.76889"
        y="341.16177"
-       id="text45-0-4-0-97"><tspan
+       id="text45-0-4-0-97-3"><tspan
          sodipodi:role="line"
-         id="tspan45-7-3-6-7"
+         id="tspan45-7-3-6-7-9"
          style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
-         x="120.76891"
-         y="341.16177">Oceanview // Outer Mission - Embarcadero (2 car, 4 tph)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.52778px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="115.24997"
-       y="341.35382"
-       id="text45-0-4-0-6-6"><tspan
-         sodipodi:role="line"
-         id="tspan45-7-3-6-6-7"
-         style="font-size:3.52778px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
-         x="115.24997"
-         y="341.35382">M</tspan></text>
+         x="120.76889"
+         y="341.16177">Judah // Ocean Beach - Embarcadero (2 car, 6 tph)</tspan></text>
     <ellipse
-       style="fill:#5fbcd3;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="path45-3-8-2-5-6"
-       cx="116.41663"
-       cy="346.60422"
+       style="fill:#b3b3b3;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path45-3-8-2-5-6-5"
+       cx="224.89583"
+       cy="326.76041"
        rx="2.6458426"
        ry="2.6458347" />
     <text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="120.76888"
-       y="347.77637"
-       id="text45-0-4-0-97-3"><tspan
+       x="229.24808"
+       y="327.93256"
+       id="text45-0-4-0-97-3-3"><tspan
          sodipodi:role="line"
-         id="tspan45-7-3-6-7-9"
+         id="tspan45-7-3-6-7-9-8"
          style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
-         x="120.76888"
-         y="347.77637">Judah // Ocean Beach - Embarcadero (2 car, 6 tph)</tspan></text>
+         x="229.24808"
+         y="327.93256">Peninsula Express // San Jose - Montgomery</tspan></text>
     <ellipse
        style="fill:#b3b3b3;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="path45-3-8-2-5-6-5"
+       id="path45-3-8-2-5-6-5-8"
        cx="224.89583"
        cy="333.375"
        rx="2.6458426"
@@ -3704,17 +3781,35 @@
     <text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="229.24808"
+       x="229.24809"
        y="334.54715"
-       id="text45-0-4-0-97-3-3"><tspan
+       id="text45-0-4-0-97-3-3-9"><tspan
          sodipodi:role="line"
-         id="tspan45-7-3-6-7-9-8"
+         id="tspan45-7-3-6-7-9-8-6"
          style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
-         x="229.24808"
-         y="334.54715">Peninsula Express // San Jose - Montgomery</tspan></text>
+         x="229.24809"
+         y="334.54715">Capitol Corridor // San Jose - Sacramento</tspan></text>
     <ellipse
        style="fill:#b3b3b3;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="path45-3-8-2-5-6-5-8"
+       id="path45-3-8-2-5-6-5-8-3"
+       cx="224.89583"
+       cy="346.60419"
+       rx="2.6458426"
+       ry="2.6458347" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="229.24809"
+       y="347.77634"
+       id="text45-0-4-0-97-3-3-9-8"><tspan
+         sodipodi:role="line"
+         id="tspan45-7-3-6-7-9-8-6-6"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
+         x="229.24809"
+         y="347.77634">Tri-Valley Circuit // Walnut Creek - Hayward</tspan></text>
+    <ellipse
+       style="fill:#b3b3b3;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path45-3-8-2-5-6-5-8-3-1"
        cx="224.89583"
        cy="339.98959"
        rx="2.6458426"
@@ -3724,98 +3819,109 @@
        style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
        x="229.24809"
        y="341.16174"
-       id="text45-0-4-0-97-3-3-9"><tspan
+       id="text45-0-4-0-97-3-3-9-8-2"><tspan
          sodipodi:role="line"
-         id="tspan45-7-3-6-7-9-8-6"
+         id="tspan45-7-3-6-7-9-8-6-6-7"
          style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
          x="229.24809"
-         y="341.16174">Capitol Corridor // San Jose - Sacramento</tspan></text>
-    <ellipse
-       style="fill:#b3b3b3;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="path45-3-8-2-5-6-5-8-3"
-       cx="224.89583"
-       cy="346.60416"
-       rx="2.6458426"
-       ry="2.6458347" />
-    <text
-       xml:space="preserve"
-       style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="229.24809"
-       y="347.77631"
-       id="text45-0-4-0-97-3-3-9-8"><tspan
-         sodipodi:role="line"
-         id="tspan45-7-3-6-7-9-8-6-6"
-         style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
-         x="229.24809"
-         y="347.77631">Altamont // Stockton - Hayward</tspan></text>
+         y="341.16174">Altamont Express // Stockton - Hayward</tspan></text>
     <ellipse
        style="fill:#b3b3b3;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
        id="path45-3-8-2-5-6-5-8-3-5"
        cx="224.89583"
-       cy="353.21875"
+       cy="353.21878"
        rx="2.6458426"
        ry="2.6458347" />
     <text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
        x="229.24809"
-       y="354.3909"
+       y="354.39093"
        id="text45-0-4-0-97-3-3-9-8-4"><tspan
          sodipodi:role="line"
          id="tspan45-7-3-6-7-9-8-6-6-0"
          style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
          x="229.24809"
-         y="354.3909">East Bay Commuter // San Jose - Hayward</tspan></text>
+         y="354.39093">Fremont Flyer // San Jose - Hayward</tspan></text>
     <ellipse
        style="fill:#b3b3b3;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
        id="path45-3-8-2-5-6-5-8-8"
        cx="224.89583"
-       cy="359.83334"
+       cy="359.83337"
        rx="2.6458426"
        ry="2.6458347" />
     <text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
        x="229.24809"
-       y="361.00549"
+       y="361.00552"
        id="text45-0-4-0-97-3-3-9-89"><tspan
          sodipodi:role="line"
          id="tspan45-7-3-6-7-9-8-6-7"
          style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
          x="229.24809"
-         y="361.00549">San Joaquins // Stockton - Concord</tspan></text>
+         y="361.00552">San Joaquins // Merced - Stockton - Concord</tspan></text>
     <ellipse
        style="fill:#b3b3b3;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
        id="path45-3-8-2-5-6-5-8-8-3"
        cx="224.89584"
-       cy="366.44794"
+       cy="366.44797"
        rx="2.6458426"
        ry="2.6458347" />
     <text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
        x="229.24812"
-       y="367.62009"
+       y="367.62012"
        id="text45-0-4-0-97-3-3-9-89-0"><tspan
          sodipodi:role="line"
          id="tspan45-7-3-6-7-9-8-6-7-3"
          style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
          x="229.24812"
-         y="367.62009">Redwoods // Ukiah - Santa Rosa - San Rafael</tspan></text>
+         y="367.62012">Redwoods // Ukiah - Santa Rosa - San Rafael</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
        x="115.24995"
-       y="347.96841"
+       y="341.35382"
        id="text45-0-4-0-6-6-4"><tspan
          sodipodi:role="line"
          id="tspan45-7-3-6-6-7-8"
          style="font-size:3.52778px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
          x="115.24995"
-         y="347.96841">N</tspan></text>
+         y="341.35382">N</tspan></text>
     <ellipse
        style="fill:#8dd35f;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
        id="path45-3-8-2-0-3"
+       cx="116.41666"
+       cy="273.84375"
+       rx="2.6458426"
+       ry="2.6458347" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="120.76893"
+       y="275.0159"
+       id="text45-0-4-0-4-9"><tspan
+         sodipodi:role="line"
+         id="tspan45-7-3-6-8-0"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
+         x="120.76893"
+         y="275.0159">Trestle Glen // Creed Rd - Montgomery (2 car, 5 tph)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="115.24998"
+       y="275.20795"
+       id="text45-0-4-0-6-7-8"><tspan
+         sodipodi:role="line"
+         id="tspan45-7-3-6-6-1-8"
+         style="font-size:3.52778px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
+         x="115.24998"
+         y="275.20795">B</tspan></text>
+    <ellipse
+       style="fill:#8dd35f;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path45-3-8-2-2-5"
        cx="116.41666"
        cy="280.45834"
        rx="2.6458426"
@@ -3823,57 +3929,57 @@
     <text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="120.76892"
+       x="120.76893"
        y="281.63049"
-       id="text45-0-4-0-4-9"><tspan
+       id="text45-0-4-0-2-0"><tspan
          sodipodi:role="line"
-         id="tspan45-7-3-6-8-0"
+         id="tspan45-7-3-6-61-9"
          style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
-         x="120.76892"
-         y="281.63049">Trestle Glen // Creed Rd - Montgomery (2 car, 5 tph)</tspan></text>
+         x="120.76893"
+         y="281.63049">Piedmont // Oakland Ave - Montgomery (2 car, 5 tph)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
        x="115.24998"
        y="281.82254"
-       id="text45-0-4-0-6-7-8"><tspan
-         sodipodi:role="line"
-         id="tspan45-7-3-6-6-1-8"
-         style="font-size:3.52778px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
-         x="115.24998"
-         y="281.82254">B</tspan></text>
-    <ellipse
-       style="fill:#8dd35f;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="path45-3-8-2-2-5"
-       cx="116.41666"
-       cy="287.07294"
-       rx="2.6458426"
-       ry="2.6458347" />
-    <text
-       xml:space="preserve"
-       style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="120.76892"
-       y="288.24509"
-       id="text45-0-4-0-2-0"><tspan
-         sodipodi:role="line"
-         id="tspan45-7-3-6-61-9"
-         style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
-         x="120.76892"
-         y="288.24509">Piedmont // Oakland Ave - Montgomery (2 car, 5 tph)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.52778px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="115.24998"
-       y="288.43713"
        id="text45-0-4-0-6-0-6"><tspan
          sodipodi:role="line"
          id="tspan45-7-3-6-6-6-3"
          style="font-size:3.52778px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
          x="115.24998"
-         y="288.43713">C</tspan></text>
+         y="281.82254">C</tspan></text>
     <ellipse
        style="fill:#8dd35f;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
        id="path45-3-8-2-4-8"
+       cx="116.41666"
+       cy="287.07291"
+       rx="2.6458426"
+       ry="2.6458347" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="120.76893"
+       y="288.24506"
+       id="text45-0-4-0-9-5"><tspan
+         sodipodi:role="line"
+         id="tspan45-7-3-6-0-6"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
+         x="120.76893"
+         y="288.24506">Claremont // Claremont Hotel - Montgomery (2 car, 5 tph)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="115.24998"
+       y="288.4371"
+       id="text45-0-4-0-6-9-1"><tspan
+         sodipodi:role="line"
+         id="tspan45-7-3-6-6-17-1"
+         style="font-size:3.52778px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
+         x="115.24998"
+         y="288.4371">E</tspan></text>
+    <ellipse
+       style="fill:#8dd35f;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path45-3-8-2-5-5"
        cx="116.41666"
        cy="293.6875"
        rx="2.6458426"
@@ -3881,109 +3987,80 @@
     <text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="120.76892"
+       x="120.76893"
        y="294.85965"
-       id="text45-0-4-0-9-5"><tspan
+       id="text45-0-4-0-97-9"><tspan
          sodipodi:role="line"
-         id="tspan45-7-3-6-0-6"
+         id="tspan45-7-3-6-7-8"
          style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
-         x="120.76892"
-         y="294.85965">Claremont // Claremont Hotel - Montgomery (2 car, 5 tph)</tspan></text>
+         x="120.76893"
+         y="294.85965">Berkeley // Albany - Montgomery (2 car, 8 tph)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
        x="115.24998"
        y="295.0517"
-       id="text45-0-4-0-6-9-1"><tspan
-         sodipodi:role="line"
-         id="tspan45-7-3-6-6-17-1"
-         style="font-size:3.52778px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
-         x="115.24998"
-         y="295.0517">E</tspan></text>
-    <ellipse
-       style="fill:#8dd35f;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="path45-3-8-2-5-5"
-       cx="116.41666"
-       cy="300.30209"
-       rx="2.6458426"
-       ry="2.6458347" />
-    <text
-       xml:space="preserve"
-       style="font-size:2.82222px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="120.76892"
-       y="301.47424"
-       id="text45-0-4-0-97-9"><tspan
-         sodipodi:role="line"
-         id="tspan45-7-3-6-7-8"
-         style="font-size:2.82222px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
-         x="120.76892"
-         y="301.47424">Berkeley // Albany - Montgomery (2 car, 8 tph)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.52778px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="115.24998"
-       y="301.66629"
        id="text45-0-4-0-6-6-48"><tspan
          sodipodi:role="line"
          id="tspan45-7-3-6-6-7-1"
          style="font-size:3.52778px;text-align:start;text-anchor:start;fill:#000000;stroke-width:3"
          x="115.24998"
-         y="301.66629">F</tspan></text>
+         y="295.0517">F</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="113.47612"
-       y="275.51312"
+       x="113.15678"
+       y="269.73605"
        id="text46"><tspan
          sodipodi:role="line"
          id="tspan46"
          style="font-size:4.23333px;fill:#000000;stroke-width:3"
-         x="113.47612"
-         y="275.51312">Key (Transbay) Streetcars</tspan></text>
+         x="113.15678"
+         y="269.73605">Transbay Streetcars</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="113.44966"
-       y="308.88684"
+       x="113.44967"
+       y="302.27225"
        id="text46-6"><tspan
          sodipodi:role="line"
          id="tspan46-9"
          style="font-size:4.23333px;fill:#000000;stroke-width:3"
-         x="113.44966"
-         y="308.88684">Muni (San Francisco) Streetcars</tspan></text>
+         x="113.44967"
+         y="302.27225">West-Side Streetcars</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="113.42347"
-       y="355.20343"
+       x="113.42348"
+       y="348.58884"
        id="text46-6-6"><tspan
          sodipodi:role="line"
          id="tspan46-9-8"
          style="font-size:4.23333px;fill:#000000;stroke-width:3"
-         x="113.42347"
-         y="355.20343">Bus Rapid Transit Corridors</tspan></text>
+         x="113.42348"
+         y="348.58884">Bus Rapid Transit Corridors</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="221.94473"
-       y="276.4639"
+       x="221.9297"
+       y="269.83362"
        id="text46-6-7"><tspan
          sodipodi:role="line"
          id="tspan46-9-7"
          style="font-size:4.23333px;fill:#000000;stroke-width:3"
-         x="221.94473"
-         y="276.4639">Metro Lines</tspan></text>
+         x="221.9297"
+         y="269.83362">Metro Lines</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:3;stroke-dasharray:none;paint-order:fill markers stroke"
-       x="222.11974"
-       y="327.68427"
+       x="222.16072"
+       y="321.94733"
        id="text46-6-7-1"><tspan
          sodipodi:role="line"
          id="tspan46-9-7-2"
          style="font-size:4.23333px;fill:#000000;stroke-width:3"
-         x="222.11974"
-         y="327.68427">Commuter Lines</tspan></text>
+         x="222.16072"
+         y="321.94733">Heavy-Rail Lines</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
