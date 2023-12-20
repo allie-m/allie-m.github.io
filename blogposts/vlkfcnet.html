@@ -126,7 +126,10 @@
         <p>
             It would have four sequential passes: calculate the scores, the loss, the gradient, and finally do the
             backpropagation. In the background we have a pending CPU-GPU transfer op to move the latest
-            randomized batch onto the GPU. So, I started programming.
+            randomized batch onto the GPU.
+        </p>
+        <p>
+            This surely unassailable plan formed, I started programming.
         </p>
         <img src="assets/vlkfcnet/matmulattempt.png">
         <p>
@@ -183,7 +186,7 @@
             Instead, I made the completely wrongheaded and insane decision to scrap my work and rewrite it
             all in Vulkan, to leverage the shared memory float atomics.
             In even worse judgement, I decided to use <a href="https://github.com/ash-rs/ash">ash</a>,
-            Rust's raw thin bindings to Vulkan, instead of something higher level like
+            Rust's raw thin bindings to Vulkan, instead of the higher level
             <a href="https://github.com/vulkano-rs/vulkano">vulkano</a>.
         </p>
         <p>
@@ -236,7 +239,7 @@
             But, after several more hours, I had implemented all the shaders.
         </p>
         <img src="assets/vlkfcnet/notcorrectlytransposing.png">
-        <p>Oh.</p>
+        <p>Oh. It's not working.</p>
         <p>
             Two excruciating days of debugging later, I was able to get it to work.
         </p>
