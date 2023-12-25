@@ -27,15 +27,15 @@
      inkscape:deskcolor="#7d7d7d"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.451926"
-     inkscape:cx="891.57439"
-     inkscape:cy="1039.3092"
+     inkscape:zoom="3.1682293"
+     inkscape:cx="1081.8346"
+     inkscape:cy="971.83621"
      inkscape:window-width="1870"
      inkscape:window-height="976"
      inkscape:window-x="20"
      inkscape:window-y="55"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer5"
      showguides="true">
     <inkscape:grid
        id="grid1"
@@ -2866,20 +2866,20 @@
        y="232.36768"
        id="text23-8-90-5"><tspan
          sodipodi:role="line"
-         id="tspan23-7-4-5"
          style="fill:#b3b3b3;stroke:none;stroke-width:1"
          x="197.74602"
-         y="232.36768">to San Jose,</tspan><tspan
+         y="232.36768"
+         id="tspan29">to San Jose,</tspan><tspan
          sodipodi:role="line"
          style="fill:#b3b3b3;stroke:none;stroke-width:1"
          x="197.74602"
          y="234.13156"
-         id="tspan29">Monterey,</tspan><tspan
+         id="tspan30">Los Angeles,</tspan><tspan
          sodipodi:role="line"
          style="fill:#b3b3b3;stroke:none;stroke-width:1"
          x="197.74602"
          y="235.89545"
-         id="tspan30">Los Angeles</tspan></text>
+         id="tspan1">San Diego</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#b3b3b3;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
@@ -2895,12 +2895,7 @@
          style="fill:#b3b3b3;stroke:none;stroke-width:1"
          x="80.582893"
          y="361.88354"
-         id="tspan38">Gilroy,</tspan><tspan
-         sodipodi:role="line"
-         style="fill:#b3b3b3;stroke:none;stroke-width:1"
-         x="80.582893"
-         y="363.64743"
-         id="tspan39">Los Angeles</tspan></text>
+         id="tspan39">Monterey</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#b3b3b3;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
@@ -2948,7 +2943,7 @@
          style="fill:#b3b3b3;stroke:none;stroke-width:1"
          x="275.03284"
          y="71.818962"
-         id="tspan35-8">to Hayward</tspan></text>
+         id="tspan35-8">to Hayward, Redwood City</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#b3b3b3;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
