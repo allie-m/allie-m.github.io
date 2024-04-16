@@ -1,0 +1,3758 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="newpieintheskymetro.svg"
+   inkscape:export-filename="newpieintheskymetro.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#515151"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.4968176"
+     inkscape:cx="-105.22324"
+     inkscape:cy="577.89272"
+     inkscape:window-width="1870"
+     inkscape:window-height="976"
+     inkscape:window-x="20"
+     inkscape:window-y="55"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.26458333"
+       spacingy="0.26458334"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Terrain">
+    <rect
+       style="fill:#2c89a0;stroke:none;stroke-width:1.5;paint-order:fill markers stroke"
+       id="rect61"
+       width="656.16669"
+       height="772.58337"
+       x="-179.91667"
+       y="-95.25"
+       sodipodi:insensitive="true" />
+    <path
+       style="fill:#666666;stroke:none;stroke-width:1.5;paint-order:fill markers stroke"
+       d="m 54.239582,-63.500002 104.510418,5e-6 26.45833,18.520834 h 132.29166 158.75 V 677.33335 H 216.95833 L 190.49999,529.16668 h -5.29166 l -5.29167,-37.04166 V 285.75001 L 127,232.83334 v -60.85417 l -15.875,-19.84375 -9.26042,-7.9375 H 43.656249 L 37.041666,134.9375 V 87.312503 L 34.395832,68.791669 V 7.9375003 L 18.520833,-13.229167 15.875,-39.687501 42.333332,-52.916668"
+       id="path61"
+       sodipodi:nodetypes="ccccccccccccccccccccccc"
+       sodipodi:insensitive="true" />
+    <path
+       style="fill:#666666;stroke:none;stroke-width:1.5;paint-order:fill markers stroke"
+       d="m 55.562497,149.48959 h 43.656249 l 9.260414,3.96875 5.29167,9.26042 -50.270832,-1.32292 -6.614583,-6.61459"
+       id="path62"
+       sodipodi:nodetypes="cccccc"
+       sodipodi:insensitive="true" />
+    <path
+       style="fill:#666666;stroke:none;stroke-width:1.5;paint-order:fill markers stroke"
+       d="M 128.32291,207.69793 105.83332,183.88542 119.0625,170.65626 127,168.01042"
+       id="path63"
+       sodipodi:nodetypes="cccc"
+       sodipodi:insensitive="true" />
+    <path
+       style="fill:#666666;stroke:none;stroke-width:1.5;paint-order:fill markers stroke"
+       d="m -91.281246,116.41667 23.812499,-10.58334 44.979164,1.32292 21.1666664,10.58334 29.1041656,18.52083 v 14.55208 l -9.260416,17.19792 10.583333,64.82292 -2.645833,39.6875 -10.583333,34.39584 5.291666,68.79167 148.166664,145.52083 h 21.16666 l 31.75,156.10417 H 7.9374998 -84.666664 l -21.166666,-169.33333 -31.75,-21.16667 -21.16667,-182.56251 5.29167,-71.4375 -10.58333,-50.27083 5.29166,-52.91667 29.10417,-2.64584 34.395833,-5.29166"
+       id="path64"
+       sodipodi:nodetypes="cccccccccccccccccccccccc"
+       sodipodi:insensitive="true" />
+    <path
+       style="fill:#666666;stroke:none;stroke-width:1.5;paint-order:fill markers stroke"
+       d="m -150.8125,108.47917 15.875,1.32292 22.48959,-6.61459 14.55208,-15.874997 -3.96875,-7.9375 -1.32292,-34.395835 6.614586,-6.614583 10.583333,2.645833 5.291667,-7.9375 -9.260417,-10.583334 -3.96875,-18.5208339 7.9375,-6.6145835 3.96875,-10.5833336 -9.260416,-17.197917 5.291666,-11.906251 11.90625,-25.135417 119.062496,-11.906251 H 166.6875 l 13.22916,10.583334 H 476.24999 V -95.250003 H -179.91666 V 0 68.791669 l 10.58333,23.812501"
+       id="path65"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc"
+       sodipodi:insensitive="true" />
+    <path
+       style="fill:#666666;stroke:none;stroke-width:1.5;paint-order:fill markers stroke"
+       d="m 17.197916,95.250003 -0.661458,5.291667 2.645833,5.29166 5.291666,3.96876 2.645834,-2.64584 -2.645834,-3.96875 -0.661458,-7.937497 z"
+       id="path66"
+       sodipodi:nodetypes="cccccccc"
+       sodipodi:insensitive="true" />
+    <path
+       style="fill:#666666;stroke:none;stroke-width:1.5;paint-order:fill markers stroke"
+       d="m -82.020831,46.302084 2.645834,-7.9375 7.937498,2.645834 -5.291667,5.291667"
+       id="path67"
+       sodipodi:insensitive="true" />
+    <path
+       style="fill:#666666;stroke:none;stroke-width:4;paint-order:fill markers stroke"
+       d="m 121.70833,476.25002 21.16666,2.64583 7.93751,7.9375 1.32291,18.52083"
+       id="path14"
+       sodipodi:nodetypes="cccc"
+       sodipodi:insensitive="true" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Bridges">
+    <path
+       style="fill:none;stroke:#666666;stroke-width:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="M -79.374996,112.44792 -101.86458,89.958336"
+       id="path68"
+       sodipodi:nodetypes="cc"
+       sodipodi:insensitive="true" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 25.135416,141.55209 v -33.07292 -1.32291 c 0,0 0,-2.64584 2.645833,-5.29167 l 5.291667,-5.29167 c 0,0 2.645833,-2.645834 5.291666,-2.645834"
+       id="path69"
+       sodipodi:nodetypes="cccc"
+       sodipodi:insensitive="true" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="M 63.499998,420.68751 182.56249,333.37501"
+       id="path70"
+       sodipodi:nodetypes="cc"
+       sodipodi:insensitive="true" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="M 146.84375,486.83335 182.56249,451.1146"
+       id="path71"
+       sodipodi:nodetypes="cc"
+       sodipodi:insensitive="true" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="M -84.666663,-13.229167 H 21.166666"
+       id="path72"
+       sodipodi:insensitive="true" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 169.33333,-55.562502 13.22916,-15.875"
+       id="path73"
+       sodipodi:nodetypes="cc"
+       sodipodi:insensitive="true" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="IntercityLines"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#c8c4b7;stroke-width:1.5;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0;marker-end:url(#Triangle);paint-order:fill markers stroke"
+       d="m 203.72916,575.46877 c -2.64583,-2.64584 -2.64583,-5.29167 -2.64583,-5.29167 v -60.85417 c 0,-2.64583 -2.64584,-5.29166 -2.64584,-5.29166 l -9.26041,-9.26042 c -2.64584,-2.64583 -2.64584,-5.29167 -2.64584,-5.29167 V 281.78126 c 0,-2.64583 -2.64583,-5.29167 -2.64583,-5.29167 L 142.875,235.47917 c -2.64584,-2.64583 -2.64584,-5.29166 -2.64584,-5.29166 v -50.27084 c 0,-2.64583 -2.64583,-5.29166 -2.64583,-5.29166 l -31.75,-31.75001 c -2.64583,-2.64583 -5.29167,-2.64583 -5.29167,-2.64583 H 47.624998 c 0,0 -5.291666,0 -5.291666,-5.29167 V 21.166667 -41.010418 c 0,0 0,-2.645833 2.645833,-5.291667 l 11.90625,-11.90625 c 0,0 2.645833,-2.645834 5.291666,-2.645834 h 72.760419 18.52083 c 0,0 2.64583,-5e-6 5.29167,2.645834 l 3.96875,3.96875 c 0,0 2.64583,2.645834 5.29166,0 l 19.84375,-23.812501"
+       id="path7"
+       sodipodi:nodetypes="ccscscsccscccscscsccsccsccc" />
+    <path
+       style="fill:none;stroke:#c8c4b7;stroke-width:1.5;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0;marker-end:url(#Triangle);paint-order:fill markers stroke"
+       d="m -6.6145831,160.07292 1.3229167,1.32292 7.9374997,7.9375 c 0,0 2.6458332,2.64584 2.6458332,5.29167 v 14.55209 105.83333 79.375 c 0,0 -5.1e-6,2.64583 2.6458333,5.29167 l 59.5312482,59.53125 79.375002,79.375 79.37499,79.375 29.10417,29.10417 25.13542,25.13542"
+       id="path18"
+       sodipodi:nodetypes="cccccccsccc" />
+    <path
+       style="fill:none;stroke:#c8c4b7;stroke-width:1.5;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0;marker-end:url(#Triangle);paint-order:fill markers stroke"
+       d="M -111.125,-29.104168 V -67.468752 -80.697919"
+       id="path18-5"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#c8c4b7;stroke-width:1.5;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0;paint-order:fill markers stroke"
+       d="m 146.84374,518.58335 c 0,0 2.64583,2.64583 2.64583,5.29167 l 1e-5,42.33333 v 33.07292 23.8125 c 0,0 -1e-5,2.64583 2.64583,5.29167 l 15.875,15.875"
+       id="path6"
+       sodipodi:nodetypes="cscccsc" />
+    <path
+       style="fill:none;stroke:#c8c4b7;stroke-width:1.5;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0;marker-end:url(#Triangle);paint-order:fill markers stroke"
+       d="m 216.95833,588.69794 c 6.61458,6.61458 0,11.90625 0,11.90625 l -18.52084,18.52083 -23.81249,23.81251 -10.58334,10.58332 -1.32291,1.32292"
+       id="path6-6"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#c8c4b7;stroke-width:1.5;stroke-dasharray:0.750001, 0.750001;stroke-dashoffset:0;marker-end:url(#Triangle);paint-order:fill markers stroke"
+       d="m 133.61458,505.35418 c -2.64583,-2.64583 0,-5.29166 0,-5.29166 l 2.64583,-2.64583 25.13542,-25.13542 22.48958,-22.48959 c 1.1479,-1.1479 2.2779,-3.03692 2.64583,-3.96875 0.48012,-1.21599 0,-2.64583 0,-2.64583 0,0 0,-5.29166 5.29167,-5.29166 l 43.65625,-1e-5 c 0,0 2.64583,0 5.29167,-2.64583 l 46.30208,-46.30209 c 0,0 2.64583,-2.64583 2.64583,-5.29166 v -72.76043 c 0,0 0,-2.64583 2.64583,-5.29166 l 54.23959,-54.23959 14.55208,-14.55208 15.875,-15.875 80.69791,-80.69792 2.64584,-2.64583"
+       id="path13"
+       sodipodi:nodetypes="cccsccsccccsccccccc" />
+    <path
+       style="fill:none;stroke:#ffcc00;stroke-width:1.5;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0;paint-order:fill markers stroke"
+       d="m 182.56249,-15.875 v -10.583333 c 0,0 0,-5.291668 5.29167,-5.291668 l 137.58332,1e-6 c 0,0 2.64584,0 5.29167,2.645833 l 27.78125,27.7812509"
+       id="path15"
+       sodipodi:nodetypes="ccsc" />
+  </g>
+  <g
+     inkscape:label="Lines"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#c83737;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="M -10.583333,148.16667 V 134.9375 c 0,0 0,-2.64583 -2.645833,-5.29167 l -7.9375,-7.9375 -2.645833,-2.64583 c 0,0 -2.645833,-2.64583 -5.291666,-2.64583 l -43.656249,-1e-5 c 0,0 -2.645836,0 -5.291667,-2.64583 L -111.125,80.69792 c 0,0 -2.64583,-2.645834 -2.64583,-5.291667 V -29.104168"
+       id="path11"
+       sodipodi:nodetypes="ccsccccscsc" />
+    <path
+       style="fill:none;stroke:#2a7fff;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="M -35.718749,181.23959 -9.2604164,154.78125 5.2916665,140.22917 c 2.6458333,-2.64583 5.2916665,-2.64583 5.2916665,-2.64583 h 91.281247 c 0,0 2.64583,0 5.29167,2.64583 l 17.19791,17.19792 15.875,15.875 19.84375,19.84375 43.65625,43.65625 c 0,0 2.64583,2.64583 5.29167,2.64583 h 146.84374"
+       id="path1"
+       sodipodi:nodetypes="cccccscccccc" />
+    <path
+       style="fill:none;stroke:#93ac9d;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 44.979165,-35.718751 7.9375,10e-7 c 5.291667,0 5.291667,5.291666 5.291667,5.291666 v 44.979168 c 0,2.645833 2.645833,5.291667 2.645833,5.291667 l 13.229166,13.229167 c 2.645833,2.645833 2.645833,5.291667 2.645833,5.291667 V 152.13542 c 0,0 0,3.96875 3.96875,3.96875 h 74.083336 c 0,0 2.64583,0 5.29166,2.64584 l 35.71875,35.71875"
+       id="path5"
+       sodipodi:nodetypes="ccscscccsccc" />
+    <path
+       style="fill:none;stroke:#8dd35f;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 5.2916665,144.19792 -33.0729155,33.07292 c 0,0 -2.645833,2.64583 -2.645833,5.29167 v 58.20833 c 0,0 0,2.64583 -2.645834,5.29167 l -37.041665,37.04167 c 0,0 -2.645834,2.64583 -2.645834,5.29166 v 2.64584"
+       id="path12"
+       sodipodi:nodetypes="ccscccsc" />
+    <path
+       style="fill:none;stroke:#8dd35f;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m -26.458333,175.94792 -62.177081,62.17709 c 0,0 -2.645833,2.64583 -2.645833,5.29166 v 30.42709 c 0,0 3e-6,2.64583 2.645833,5.29166 l 14.552083,14.55209 31.749999,31.75 37.0416655,37.04167 58.2083315,58.20833"
+       id="path12-9"
+       sodipodi:nodetypes="ccccscccc" />
+    <path
+       style="fill:none;stroke:#8dd35f;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m -42.333331,191.82292 -2.757728,2.64499 c -2.645833,2.64584 -5.179772,2.64667 -5.179772,2.64667 l -67.468749,1e-5 c 0,0 -5.29167,0 -5.29167,5.29167 v 25.13541"
+       id="path12-9-0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:none;stroke:#ffcc00;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 55.562498,93.927086 h 1.322917 c 2.645833,0 5.291666,-3.96875 5.291666,-3.96875 l 2.645834,-5.291667 2.645833,-5.291666 3.96875,-7.937501 c 2.645833,-5.291667 2.645833,-7.9375 2.645833,-7.9375 V 39.687501 c 0,0 0,-2.645834 -2.645833,-5.291667 L 58.208332,21.166667 c 0,0 -2.645834,-2.645833 -2.645834,-5.291666 v -44.979169 c 0,0 0,-3.96875 -3.96875,-3.96875 h -6.614583"
+       id="path9"
+       sodipodi:nodetypes="ccscccscccscsc" />
+    <path
+       style="fill:none;stroke:#ffcc00;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 66.145831,82.020836 c 1.322917,-2.645833 3.96875,-2.645833 3.96875,-2.645833 h 15.875 c 0,0 2.645833,0 5.291666,-2.645834 L 104.51041,63.500002 c 0,0 2.64584,-2.645833 5.29167,-2.645833 l 46.30208,0 c 0,0 2.64583,0 5.29167,-2.645834 l 15.87499,-15.875 c 0,0 2.64584,-2.645834 2.64584,-5.291667 V 17.197917 -15.875001"
+       id="path10"
+       sodipodi:nodetypes="ccsccscccscc" />
+    <path
+       style="fill:none;stroke:#5fd3bc;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="M 55.562498,419.3646 10.583333,374.38543 C 7.9375028,371.7396 7.9374998,369.09376 7.9374998,369.09376 l 10e-8,-178.59376 -10e-8,-17.19792 c 0,-2.64583 -2.6458333,-5.29166 -2.6458333,-5.29166 l -10.583333,-10.58333"
+       id="path2"
+       sodipodi:nodetypes="csccsc" />
+    <path
+       style="fill:none;stroke:#b7b7c8;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m -33.072916,119.0625 v 120.38542 c 0,0 -3e-6,2.64584 -2.645833,5.29167 l -21.166666,21.16667"
+       id="path4-9"
+       sodipodi:nodetypes="ccsc" />
+    <path
+       style="display:inline;fill:none;stroke:#ffcc00;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="M -54.239582,150.8125 H -1.3229166 17.197916 c 2.645834,0 5.291667,-2.64583 5.291667,-2.64583 2.645833,-2.64583 2.645833,-5.29167 2.645833,-5.29167 v -35.71875 c 0,-2.64583 2.645833,-5.29166 2.645833,-5.29166 l 5.291667,-5.29167 c 2.645833,-2.645834 5.291666,-2.645834 5.291666,-2.645834 h 38.364582 10.583333 c 0,0 2.645834,0 5.291667,2.645834 L 111.125,115.09375 123.03125,127 c 0,0 2.64583,2.64584 5.29166,2.64584 h 3.96875 c 0,0 2.64584,0 5.29167,2.64583 l 23.8125,23.8125"
+       id="path8"
+       sodipodi:nodetypes="cccsccscscsccscccc" />
+    <path
+       style="display:inline;fill:none;stroke:#de87cd;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m -10.583333,153.45834 h -78.052081 c -5.291667,0 -5.291667,5.29167 -5.291667,5.29167 l 10e-7,56.88541 -10e-7,59.53125 c 0,0 0,2.64584 2.645834,5.29167 l 15.874999,15.875"
+       id="path4"
+       sodipodi:nodetypes="ccccscc" />
+    <path
+       style="fill:none;stroke:#de87cd;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="M -87.312496,153.45834 H -154.78125"
+       id="path35"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#2a7fff;stroke-width:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 203.72916,236.80209 10.58333,10.58333 c 0,0 2.64584,2.64584 2.64584,5.29167 v 154.78126 140.22917 38.36458"
+       id="path53"
+       sodipodi:nodetypes="ccsccc" />
+    <path
+       style="display:inline;fill:none;stroke:#bc5fd3;stroke-width:1.5;paint-order:fill markers stroke"
+       d="m 130.96875,506.6771 11.90625,11.90625 56.88541,56.88542 15.875,15.875 c 0,0 3.96876,2.64583 0,6.61458 l -30.42709,30.42708 -14.55208,14.55209"
+       id="path59"
+       sodipodi:nodetypes="ccccscc" />
+    <path
+       style="display:inline;fill:none;stroke:#ff6600;stroke-width:1.5;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       d="m 148.16666,591.34377 h 80.69792 c 0,0 2.64584,0 5.29167,-2.64583 l 18.52083,-18.52084 c 0,0 2.64584,-2.64583 5.29167,-2.64583 h 10.58333 c 0,0 2.64583,0 5.29166,2.64583 l 5.29167,5.29167"
+       id="path55"
+       sodipodi:nodetypes="ccscscsc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Stations"
+     style="display:inline">
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71"
+       cx="74.083328"
+       cy="140.22917"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-7"
+       cx="42.333332"
+       cy="-34.395836"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-7-9"
+       cx="161.39583"
+       cy="-55.5625"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8"
+       cx="5.2916665"
+       cy="367.77084"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3"
+       cx="14.552083"
+       cy="386.29169"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8"
+       cx="50.270832"
+       cy="422.01044"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-2"
+       cx="62.177082"
+       cy="433.91669"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-5"
+       cx="74.083336"
+       cy="445.82294"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-2-1"
+       cx="85.989586"
+       cy="457.72919"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-1"
+       cx="97.895836"
+       cy="469.63544"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-2-11"
+       cx="109.80209"
+       cy="481.54169"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-5-7"
+       cx="121.70834"
+       cy="493.44794"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-2-1-0"
+       cx="133.61458"
+       cy="505.35422"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-1-4"
+       cx="145.52083"
+       cy="517.26044"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-2-11-1"
+       cx="157.42708"
+       cy="529.16669"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-2-11-1-6"
+       cx="149.48958"
+       cy="537.10419"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-2-11-1-6-3"
+       cx="149.48958"
+       cy="554.30206"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-2-11-1-6-3-3"
+       cx="149.48958"
+       cy="571.5"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-2-11-1-6-8"
+       cx="149.48958"
+       cy="588.69794"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-2-11-1-6-8-3"
+       cx="149.48958"
+       cy="613.83337"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-5-7-5"
+       cx="169.33333"
+       cy="541.07294"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-5-7-5-48"
+       cx="201.08333"
+       cy="531.8125"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-5-7-5-4"
+       cx="214.3125"
+       cy="437.88544"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-5-7-5-4-6"
+       cx="186.53125"
+       cy="443.17709"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-5-7-5-4-7"
+       cx="316.17706"
+       cy="281.78125"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-5-7-5-4-9"
+       cx="358.51041"
+       cy="239.44792"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-5-7-5-4-9-6"
+       cx="400.84375"
+       cy="197.11459"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-2-1-0-4"
+       cx="181.23958"
+       cy="552.97925"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-5-7-5-3"
+       cx="193.14583"
+       cy="564.88544"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-2-1-0-4-5"
+       cx="205.05208"
+       cy="576.79175"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-2-1-0-4-5-5"
+       cx="216.95833"
+       cy="588.69794"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-2-1-0-4-5-5-4"
+       cx="228.86458"
+       cy="600.60413"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-2-1-0-4-5-5-4-3"
+       cx="244.73958"
+       cy="616.47919"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-2-1-0-4-5-5-4-3-8"
+       cx="260.61456"
+       cy="632.35425"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-2-1-0-4-5-5-3-0-7"
+       cx="171.97916"
+       cy="645.58337"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-2-1-0-4-5-5-3-0-7-4"
+       cx="169.33333"
+       cy="645.58337"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-17"
+       cx="-111.125"
+       cy="-28.442707"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-17-1"
+       cx="-111.125"
+       cy="-56.885418"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-2"
+       cx="-6.614583"
+       cy="160.07292"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3"
+       cx="91.281242"
+       cy="137.58334"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c83737;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-3"
+       cx="-10.583333"
+       cy="148.16667"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c83737;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-3-5"
+       cx="-13.229166"
+       cy="129.64584"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c83737;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-3-5-0"
+       cx="-21.166666"
+       cy="121.70834"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c83737;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-3-5-0-9-3"
+       cx="-47.624996"
+       cy="116.41668"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c83737;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-3-5-0-9-3-5"
+       cx="-62.177078"
+       cy="116.41668"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c83737;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-3-5-0-9-3-5-3"
+       cx="-107.15625"
+       cy="84.666672"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c83737;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-3-5-0-9-3-5-3-4"
+       cx="-113.77083"
+       cy="56.885418"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c83737;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-3-5-0-9-3-5-3-4-4"
+       cx="-113.77081"
+       cy="28.442707"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-1"
+       cx="121.70833"
+       cy="158.75"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-1-6"
+       cx="136.26041"
+       cy="173.30209"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7"
+       cx="74.083328"
+       cy="137.58334"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78"
+       cx="54.239582"
+       cy="137.58334"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6"
+       cx="2.6458333"
+       cy="142.875"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4"
+       cx="5.2916665"
+       cy="144.19792"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1"
+       cx="-5.2916665"
+       cy="154.78125"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-0"
+       cx="-7.9375"
+       cy="153.45834"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2"
+       cx="-14.552084"
+       cy="164.04167"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4"
+       cx="-23.8125"
+       cy="173.30208"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1"
+       cx="-30.427082"
+       cy="179.91667"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9"
+       cx="-43.656246"
+       cy="193.14583"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-9"
+       cx="-54.239578"
+       cy="203.72916"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-9-0"
+       cx="-67.468742"
+       cy="216.95833"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-9-0-6"
+       cx="-80.697906"
+       cy="230.1875"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-9-0-6-6"
+       cx="-91.28125"
+       cy="250.03127"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8"
+       cx="-62.177082"
+       cy="197.11459"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8"
+       cx="-79.375"
+       cy="197.11459"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4"
+       cx="-96.572929"
+       cy="197.11459"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#de87cd;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3"
+       cx="-93.927086"
+       cy="198.43752"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#de87cd;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-9"
+       cx="-93.927078"
+       cy="212.98959"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#de87cd;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-3"
+       cx="-93.927078"
+       cy="175.94792"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-3-8"
+       cx="-35.71875"
+       cy="181.23959"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#b7b7c8;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-3-8-0"
+       cx="-33.072914"
+       cy="181.23959"
+       r="1.3229166" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#b7b7c8;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-3-8-2-3"
+       cx="-33.072914"
+       cy="156.10417"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#de87cd;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-3-8-2"
+       cx="-34.395832"
+       cy="153.45834"
+       r="1.3229166" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-5-8-7-6-6"
+       cx="-34.395832"
+       cy="150.8125"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#de87cd;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-3-8-2-92"
+       cx="-54.239582"
+       cy="153.45834"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#de87cd;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-3-8-2-5"
+       cx="-68.791664"
+       cy="153.45834"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#de87cd;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-3-8-2-5-2"
+       cx="-83.34375"
+       cy="153.45834"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#de87cd;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-3-8-2-5-2-8"
+       cx="-107.15625"
+       cy="153.45834"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#de87cd;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-3-8-2-5-2-8-1"
+       cx="-130.96875"
+       cy="153.45834"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#de87cd;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-3-8-2-5-2-8-1-6"
+       cx="-154.78125"
+       cy="153.45834"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#de87cd;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-3-8-2-7"
+       cx="-10.583333"
+       cy="153.45834"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#b7b7c8;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-3-8-2-91"
+       cx="-33.072914"
+       cy="140.22917"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#b7b7c8;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-3-8-2-0"
+       cx="-33.072914"
+       cy="166.68752"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#b7b7c8;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-3-8-2-1"
+       cx="-33.072914"
+       cy="129.64584"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#b7b7c8;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-3-8-2-9"
+       cx="-33.072914"
+       cy="119.0625"
+       r="1.3229166" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#c83737;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-3-5-0-9"
+       cx="-33.072914"
+       cy="116.41668"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#de87cd;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-9-7"
+       cx="-93.927078"
+       cy="227.54169"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#de87cd;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-9-7-4"
+       cx="-93.927078"
+       cy="250.03127"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-9-0-6-6-6"
+       cx="-91.28125"
+       cy="269.875"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#de87cd;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-9-7-4-2"
+       cx="-93.927078"
+       cy="269.875"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-0"
+       cx="-113.77085"
+       cy="197.11459"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-0-3"
+       cx="-123.03125"
+       cy="212.98959"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-0-3-7"
+       cx="-123.03125"
+       cy="227.54167"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-1"
+       cx="-30.427082"
+       cy="193.14584"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-1-1"
+       cx="-30.427082"
+       cy="206.375"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-1-1-9"
+       cx="-30.427082"
+       cy="219.60416"
+       r="1.3229166" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#b7b7c8;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-3-8-6"
+       cx="-33.072914"
+       cy="193.14584"
+       r="1.3229166" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#b7b7c8;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-3-8-6-0"
+       cx="-33.072914"
+       cy="206.375"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-1-1-9-9"
+       cx="-30.427082"
+       cy="232.83333"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-1-1-9-9-0"
+       cx="-41.010418"
+       cy="254.00002"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-1-1-9-9-0-8"
+       cx="-54.239582"
+       cy="267.22919"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-1-1-9-9-0-8-1"
+       cx="-67.46875"
+       cy="280.45834"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-1-1-9-9-0-8-1-2"
+       cx="-72.760414"
+       cy="291.04169"
+       r="1.3229166" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#b7b7c8;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-3-8-6-0-1"
+       cx="-33.072914"
+       cy="219.60416"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-1-1-9-9-0-8-1-2-0"
+       cx="-51.59375"
+       cy="316.17709"
+       r="1.3229166" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#b7b7c8;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-3-8-6-0-1-3"
+       cx="-33.072914"
+       cy="232.83334"
+       r="1.3229166" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#b7b7c8;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-3-8-6-0-1-3-5"
+       cx="-43.65625"
+       cy="252.67709"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-1-1-9-9-0-8-1-0"
+       cx="-74.083328"
+       cy="293.6875"
+       r="1.3229166" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#de87cd;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-9-7-4-2-2-4"
+       cx="-75.40625"
+       cy="296.33331"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-1-1-9-9-0-8-1-2-0-8"
+       cx="-22.489582"
+       cy="345.28125"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-0-9"
+       cx="-17.197916"
+       cy="162.71877"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-0-9-9"
+       cx="-26.458332"
+       cy="171.97917"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#93ac9d;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7"
+       cx="76.729164"
+       cy="136.26042"
+       r="1.3229166" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#b7b7c8;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-9-8-8-4-3-3-8-6-0-1-3-5-9"
+       cx="-56.885414"
+       cy="265.90625"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#93ac9d;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-0"
+       cx="76.729164"
+       cy="152.13542"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#93ac9d;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3"
+       cx="76.729164"
+       cy="123.03126"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#93ac9d;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0"
+       cx="76.729164"
+       cy="109.80209"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#93ac9d;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6"
+       cx="76.729164"
+       cy="96.572922"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#93ac9d;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-6"
+       cx="76.729164"
+       cy="82.020836"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#93ac9d;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-6-5"
+       cx="76.729164"
+       cy="62.177086"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9"
+       cx="75.40625"
+       cy="93.927086"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-5"
+       cx="52.916664"
+       cy="93.927086"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-5-8"
+       cx="25.135416"
+       cy="109.80209"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-5-8-7"
+       cx="22.489582"
+       cy="148.16667"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-5-8-7-6"
+       cx="-9.260416"
+       cy="150.8125"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-5-8-7-6-9"
+       cx="-54.239582"
+       cy="150.8125"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-3"
+       cx="75.40625"
+       cy="79.375"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-3-8"
+       cx="96.572914"
+       cy="71.4375"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-3-8-1"
+       cx="133.61458"
+       cy="60.854168"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-3-2"
+       cx="74.083328"
+       cy="62.177086"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#93ac9d;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-6-5-8"
+       cx="76.729164"
+       cy="44.979168"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#93ac9d;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-6-5-8-0"
+       cx="67.46875"
+       cy="26.458334"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#93ac9d;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-6-5-8-0-1"
+       cx="58.208332"
+       cy="9.260417"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-3-2-8"
+       cx="74.083328"
+       cy="44.979168"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-3-2-8-4"
+       cx="64.822914"
+       cy="27.781252"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-3-2-8-4-1"
+       cx="55.5625"
+       cy="9.260417"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#93ac9d;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-6-5-8-0-1-9"
+       cx="58.208332"
+       cy="-6.6145835"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-3-2-8-4-1-4"
+       cx="55.5625"
+       cy="-6.6145835"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-4"
+       cx="96.572914"
+       cy="100.54167"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-4-9"
+       cx="107.15625"
+       cy="111.125"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-4-9-8"
+       cx="117.73958"
+       cy="121.70833"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-4-9-8-1"
+       cx="129.64583"
+       cy="129.64584"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-4-9-8-1-1-1"
+       cx="146.84375"
+       cy="141.55209"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2"
+       cx="108.47916"
+       cy="141.55209"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6"
+       cx="120.38541"
+       cy="153.45834"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7"
+       cx="137.58333"
+       cy="170.65625"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1"
+       cx="165.36456"
+       cy="198.43752"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4"
+       cx="193.14583"
+       cy="226.21875"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3"
+       cx="216.95833"
+       cy="272.52084"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4"
+       cx="216.95833"
+       cy="328.08334"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-4"
+       cx="236.80208"
+       cy="239.44792"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-0"
+       cx="276.48956"
+       cy="239.44792"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-0-7"
+       cx="316.17706"
+       cy="239.44792"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-0-7-3"
+       cx="355.86456"
+       cy="239.44792"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#93ac9d;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-61"
+       cx="120.38541"
+       cy="156.10417"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#93ac9d;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-61-9"
+       cx="105.83332"
+       cy="156.10417"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#93ac9d;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-61-9-9"
+       cx="160.07291"
+       cy="158.75"
+       r="1.3229166" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-4-9-8-1-3"
+       cx="161.39583"
+       cy="156.10417"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#93ac9d;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-61-9-9-2"
+       cx="171.97916"
+       cy="170.65625"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#93ac9d;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-61-9-9-2-9"
+       cx="183.88541"
+       cy="182.5625"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#93ac9d;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-61-9-9-2-9-5"
+       cx="195.79166"
+       cy="194.46875"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#93ac9d;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-61-9-7"
+       cx="91.28125"
+       cy="156.10417"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#5fd3bc;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-61-9-7-31-5"
+       cx="3.96875"
+       cy="166.6875"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#5fd3bc;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-61-9-7-31-5-5"
+       cx="7.9375"
+       cy="187.85417"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#5fd3bc;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-61-9-7-31-5-5-0"
+       cx="7.9375"
+       cy="211.66667"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#5fd3bc;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-61-9-7-31-5-5-0-4"
+       cx="7.9375"
+       cy="235.47917"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#5fd3bc;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-61-9-7-31-5-4"
+       cx="-5.2916665"
+       cy="157.42709"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#5fd3bc;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-61-9-7-31-5-5-0-1"
+       cx="7.9375"
+       cy="259.29166"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#5fd3bc;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-61-9-7-31-5-5-0-1-9"
+       cx="7.9375"
+       cy="283.10419"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#5fd3bc;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-61-9-7-31-5-5-0-1-6"
+       cx="7.9375"
+       cy="325.4375"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#5fd3bc;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-61-9-7-31-5-5-0-1-9-0"
+       cx="7.9375"
+       cy="367.77084"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-1-1-9-9-0-8-1-2-0-3"
+       cx="2.6458333"
+       cy="370.41669"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-1-1-9-9-0-8-1-2-0-3-8"
+       cx="17.197918"
+       cy="384.96875"
+       r="1.3229166" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#5fd3bc;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-61-9-7-31-5-5-0-1-9-0-6"
+       cx="19.84375"
+       cy="383.64584"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-1-1-9-9-0-8-1-2-0-3-8-5"
+       cx="29.104166"
+       cy="396.875"
+       r="1.3229166" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#5fd3bc;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-61-9-7-31-5-5-0-1-9-0-6-8"
+       cx="31.749998"
+       cy="395.55209"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-1-1-9-9-0-8-1-2-0-3-8-5-4"
+       cx="41.010414"
+       cy="408.78125"
+       r="1.3229166" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#5fd3bc;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-61-9-7-31-5-5-0-1-9-0-6-8-6"
+       cx="43.656246"
+       cy="407.45834"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#5fd3bc;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-61-9-7-31-5-5-0-1-9-0-6-8-6-0"
+       cx="55.562504"
+       cy="419.36459"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#8dd35f;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-1-2-4-1-1-1-9-9-0-8-1-2-0-3-8-5-4-7"
+       cx="52.916664"
+       cy="420.6875"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c8c4b7;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-71-8-3-8-5-7-5-4-9-7"
+       cx="443.17709"
+       cy="154.78127"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ff6600;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-4-6-5-3-6-9"
+       cx="148.16666"
+       cy="591.34375"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-3-8-1-4-7-9-4-4-9-2"
+       cx="275.16666"
+       cy="-31.750004"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-3-8-1-4-7-9-4-4-9-2-3"
+       cx="312.20831"
+       cy="-31.750002"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-3-8-1-4-7-9-4-4-9-2-3-1"
+       cx="341.31247"
+       cy="-18.520834"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-3-8-1-4-7-9-4-4-9-2-3-1-0"
+       cx="358.51041"
+       cy="-1.322916"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c83737;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-3-5-0-9-3-5-3-4-4-9"
+       cx="-113.77083"
+       cy="-8.1827608e-08"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#c83737;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-78-6-4-3-5-0-9-3-5-3-4-4-9-2"
+       cx="-113.77084"
+       cy="-28.442707"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3"
+       cx="216.95833"
+       cy="383.64584"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-2"
+       cx="216.95833"
+       cy="439.20834"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9"
+       cx="216.95833"
+       cy="494.77084"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-6"
+       cx="216.95833"
+       cy="566.20837"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-4"
+       cx="216.95833"
+       cy="586.05212"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ff6600;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-4-6-4"
+       cx="239.44791"
+       cy="583.40625"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ff6600;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-4-6-4-6"
+       cx="248.70833"
+       cy="574.14587"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ff6600;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-4-6-4-6-2"
+       cx="263.26041"
+       cy="567.53125"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ff6600;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-4-6-4-6-2-7"
+       cx="279.13541"
+       cy="575.46875"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ff6600;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-4-6-5"
+       cx="199.76041"
+       cy="591.34375"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#bc5fd3;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-4-6-5-5"
+       cx="206.37498"
+       cy="607.21875"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#bc5fd3;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-4-6-5-5-9"
+       cx="216.95833"
+       cy="593.98962"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#bc5fd3;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-4-6-5-5-9-7"
+       cx="202.40625"
+       cy="578.11462"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#bc5fd3;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-4-6-5-5-9-85"
+       cx="154.78125"
+       cy="530.48962"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#bc5fd3;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-4-6-5-5-9-38"
+       cx="142.875"
+       cy="518.58337"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#bc5fd3;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-4-6-5-5-9-1"
+       cx="130.96875"
+       cy="506.67709"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#bc5fd3;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-4-6-5-5-9-6"
+       cx="190.5"
+       cy="566.20837"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#bc5fd3;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-4-6-5-5-9-8"
+       cx="178.59375"
+       cy="554.30212"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#bc5fd3;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-4-6-5-5-9-3"
+       cx="166.6875"
+       cy="542.39587"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ff6600;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-4-6"
+       cx="216.95833"
+       cy="591.34375"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#bc5fd3;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-4-6-5-5-0"
+       cx="187.85416"
+       cy="625.73956"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#bc5fd3;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-4-6-5-5-0-7"
+       cx="170.65623"
+       cy="642.9375"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ff6600;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-4-6-5-3"
+       cx="182.56248"
+       cy="591.34375"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ff6600;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-4-6-5-3-6"
+       cx="165.36458"
+       cy="591.34375"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-6-4"
+       cx="216.95833"
+       cy="546.36462"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-2-6-7-1-4-3-4-3-9-6-4-1"
+       cx="216.95833"
+       cy="526.52087"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-3-8-1-4"
+       cx="169.33331"
+       cy="50.270836"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-3-8-1-4-7"
+       cx="179.91666"
+       cy="29.104168"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-3-8-1-4-7-9"
+       cx="179.91666"
+       cy="6.614584"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-3-8-1-4-7-9-3"
+       cx="179.91666"
+       cy="-15.875"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-3-8-1-4-7-9-4-4"
+       cx="182.56248"
+       cy="-15.875"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-3-8-1-4-7-9-4-4-0"
+       cx="201.08331"
+       cy="-31.750002"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-3-8-1-4-7-9-4-4-9"
+       cx="238.12497"
+       cy="-31.750004"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#93ac9d;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-6-5-8-0-1-9-2"
+       cx="58.208332"
+       cy="-22.489584"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#93ac9d;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-6-5-8-0-1-9-2-2"
+       cx="44.979164"
+       cy="-35.71875"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-3-2-8-4-1-4-5"
+       cx="55.5625"
+       cy="-22.489584"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;stroke:#ffcc00;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path3-7-7-3-0-6-9-3-2-8-4-1-4-5-0"
+       cx="44.979164"
+       cy="-33.072918"
+       r="1.3229166" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Names"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="70.293991"
+       y="131.73695"
+       id="text3"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="70.293991"
+         y="131.73695"
+         id="tspan4">Oakland</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="70.293991"
+         y="134.3828"
+         id="tspan7">Station</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="79.345856"
+       y="123.7243"
+       id="text3-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="79.345856"
+         y="123.7243"
+         id="tspan7-8">12th St Oakland</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="85.238602"
+       y="110.66271"
+       id="text3-9-0"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="85.238602"
+         y="110.66271"
+         id="tspan7-8-9">Grand Ave</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="83.722206"
+       y="82.88958"
+       id="text3-9-0-8"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="83.722206"
+         y="82.88958"
+         id="tspan7-8-9-8">55th St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="100.14157"
+       y="71.114609"
+       id="text3-9-0-8-0"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="100.14157"
+         y="71.114609"
+         id="tspan7-8-9-8-5">College Ave/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="100.14157"
+         y="73.760445"
+         id="tspan45">Rockridge</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="82.750015"
+       y="62.758701"
+       id="text3-9-0-8-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="82.750015"
+         y="62.758701"
+         id="tspan7-8-9-8-8">Ashby</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="133.81555"
+       y="65.392723"
+       id="text3-9-0-8-2-5"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="133.81555"
+         y="65.392723"
+         id="tspan7-8-9-8-8-4">Orinda</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="177.88649"
+       y="51.314526"
+       id="text3-9-0-8-2-5-7"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="177.88649"
+         y="51.314526"
+         id="tspan7-8-9-8-8-4-4">Lafayette</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="182.82648"
+       y="29.974926"
+       id="text3-9-0-8-2-5-7-8"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="182.82648"
+         y="29.974926"
+         id="tspan7-8-9-8-8-4-4-4">Walnut Creek</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="183.31474"
+       y="6.6782088"
+       id="text3-9-0-8-2-5-7-8-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="183.31474"
+         y="6.6782088"
+         id="tspan7-8-9-8-8-4-4-4-0">Pleasant Hill/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="183.31474"
+         y="9.3240471"
+         id="tspan39">Contra Costa Centre</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="90.210121"
+       y="45.693333"
+       id="text3-9-0-8-2-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="90.210121"
+         y="45.693333"
+         id="tspan7-8-9-8-8-6">Downtown Berkeley</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="75.614471"
+       y="26.723372"
+       id="text3-9-0-8-2-9-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="75.614471"
+         y="26.723372"
+         id="tspan7-8-9-8-8-6-2">Westbrae</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="61.247753"
+       y="8.7360287"
+       id="text3-9-0-8-2-9-9-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="61.247753"
+         y="8.7360287"
+         id="tspan7-8-9-8-8-6-2-5">Solano/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="61.247753"
+         y="11.381866"
+         id="tspan51">Albany</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="60.973789"
+       y="-5.6378694"
+       id="text3-9-0-8-2-9-9-2-5"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="60.973789"
+         y="-5.6378694"
+         id="tspan51-0">Central Ave</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="61.176476"
+       y="-21.884457"
+       id="text3-9-0-8-2-9-9-2-5-3"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="61.176476"
+         y="-21.884457"
+         id="tspan51-0-4">Cutting Blvd</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="29.105434"
+       y="-33.626442"
+       id="text3-9-0-8-2-9-9-2-5-3-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="29.105434"
+         y="-33.626442"
+         id="tspan51-0-4-0">Richmond</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="106.54144"
+       y="100.73226"
+       id="text3-9-0-6"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="106.54144"
+         y="100.73226"
+         id="tspan7-8-9-3">Oakland Ave</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="116.01111"
+       y="111.34889"
+       id="text3-9-0-6-7"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="116.01111"
+         y="111.34889"
+         id="tspan7-8-9-3-8">Lakeshore</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="126.06035"
+       y="121.96651"
+       id="text3-9-0-6-7-5"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="126.06035"
+         y="121.96651"
+         id="tspan7-8-9-3-8-3">Park Blvd</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="130.14192"
+       y="133.84132"
+       id="text3-9-0-6-7-5-4"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="130.14192"
+         y="133.84132"
+         id="tspan7-8-9-3-8-3-3">Lower</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="130.14192"
+         y="136.48717"
+         id="tspan32">Dimond</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="69.682625"
+       y="97.585548"
+       id="text3-9-0-1"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="69.682625"
+         y="97.585548"
+         id="tspan7-8-9-0">40th St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="53.798302"
+       y="98.430664"
+       id="text3-9-0-1-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="53.798302"
+         y="98.430664"
+         id="tspan7-8-9-0-4">San Pablo Ave</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;text-anchor:end;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="22.04047"
+       y="109.17393"
+       id="text3-9-0-1-9-4"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="22.04047"
+         y="109.17393"
+         id="tspan75">Harvey Milk</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="22.040468"
+         y="111.81976"
+         id="tspan76">International Airport (HMK)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-10.206202"
+       y="127.58343"
+       id="text3-9-0-1-9-4-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-10.206202"
+         y="127.58343"
+         id="tspan11-5">Portsmouth Square/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-10.206202"
+         y="130.22926"
+         id="tspan13">Chinatown</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="7.9262109"
+       y="145.02855"
+       id="text3-9-0-1-9-4-2-1"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="7.9262109"
+         y="145.02855"
+         id="tspan13-9">Embarcadero</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-23.597055"
+       y="162.68289"
+       id="text3-9-0-1-9-4-2-1-3"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-23.597055"
+         y="162.68289"
+         id="tspan19">Powell</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-42.181786"
+       y="167.46761"
+       id="text3-9-0-1-9-4-2-1-3-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-42.181786"
+         y="167.46761"
+         id="tspan19-6">McAllister</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;text-anchor:end;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-5.7469525"
+       y="174.40405"
+       id="text3-9-0-1-9-4-2-1-3-3"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="-5.746953"
+         y="174.40405"
+         id="tspan19-0">Civic Center</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;text-anchor:end;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-38.602867"
+       y="180.81322"
+       id="text3-9-0-1-9-4-2-1-3-3-6"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="-38.602867"
+         y="180.81322"
+         id="tspan19-0-8">Van Ness</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="-38.602867"
+         y="183.45906"
+         id="tspan28">Market</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;text-anchor:end;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-46.365574"
+       y="193.10841"
+       id="text3-9-0-1-9-4-2-1-3-3-6-8"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="-46.365574"
+         y="193.10841"
+         id="tspan19-0-8-3">Church</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;text-anchor:end;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-43.886932"
+       y="204.60832"
+       id="text3-9-0-1-9-4-2-1-3-3-6-8-4"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="-43.886932"
+         y="204.60832"
+         id="tspan19-0-8-3-9">Castro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;text-anchor:end;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-63.69315"
+       y="231.25409"
+       id="text3-9-0-1-9-4-2-1-3-3-6-8-4-7"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="-63.69315"
+         y="231.25409"
+         id="tspan19-0-8-3-9-6">West Portal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-88.367966"
+       y="249.5945"
+       id="text3-9-0-1-9-4-2-1-3-3-6-8-4-7-3"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-88.367966"
+         y="249.5945"
+         id="tspan19-0-8-3-9-6-7">Ocean Ave/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-88.367966"
+         y="252.24034"
+         id="tspan12">Stonestown</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-88.23764"
+       y="269.31345"
+       id="text3-9-0-1-9-4-2-1-3-3-6-8-4-7-3-5"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-88.23764"
+         y="269.31345"
+         id="tspan19-0-8-3-9-6-7-9">Parkmerced/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-88.23764"
+         y="271.95929"
+         id="tspan9">SF State</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-62.273457"
+       y="191.4211"
+       id="text3-9-0-1-9-4-2-1-3-3-6-8-4-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-62.273457"
+         y="191.4211"
+         id="tspan19-0-8-3-9-3">Cole</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-62.273457"
+         y="194.06694"
+         id="tspan25">Valley</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-79.073418"
+       y="191.44626"
+       id="text3-9-0-1-9-4-2-1-3-3-6-8-4-9-7"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-79.073418"
+         y="191.44626"
+         id="tspan26">Inner Sunset/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-79.073418"
+         y="194.0921"
+         id="tspan65">UCSF Parnassus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;text-anchor:end;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-96.535912"
+       y="200.96736"
+       id="text3-9-0-1-9-4-2-1-3-3-6-8-4-9-7-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="-96.535912"
+         y="200.96736"
+         id="tspan30">19th Ave</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="-96.535912"
+         y="203.6132"
+         id="tspan66">Judah</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-85.561005"
+       y="176.75241"
+       id="text3-9-0-1-9-4-2-1-3-3-6-8-4-9-7-2-8"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-85.561005"
+         y="176.75241"
+         id="tspan30-4">Fulton St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-114.37146"
+       y="191.68718"
+       id="text3-9-0-1-9-4-2-1-3-3-6-8-4-9-7-2-3"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-114.37146"
+         y="191.68718"
+         id="tspan30-3">30th Ave Judah/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-114.37146"
+         y="194.33302"
+         id="tspan49">Outer Sunset</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-143.44386"
+       y="213.70824"
+       id="text3-9-0-1-9-4-2-1-3-3-6-8-4-9-7-2-3-5"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-143.44386"
+         y="213.70824"
+         id="tspan30-3-9">Sunset Noriega</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;text-anchor:end;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-96.756607"
+       y="212.59039"
+       id="text3-9-0-1-9-4-2-1-3-3-6-8-4-9-7-2-3-5-6"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="-96.756607"
+         y="212.59039"
+         id="tspan8">19th Ave</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="-96.756607"
+         y="215.23624"
+         id="tspan67">Noriega</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-143.45164"
+       y="228.34901"
+       id="text3-9-0-1-9-4-2-1-3-3-6-8-4-9-7-2-3-5-1"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-143.45164"
+         y="228.34901"
+         id="tspan30-3-9-3">Sunset Taraval</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;text-anchor:end;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-96.770615"
+       y="227.06465"
+       id="text3-9-0-1-9-4-2-1-3-3-6-8-4-9-7-2-3-5-1-0"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="-96.770615"
+         y="227.06465"
+         id="tspan5">19th Ave</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="-96.770615"
+         y="229.71049"
+         id="tspan68">Taraval</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;text-anchor:end;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-8.6193495"
+       y="194.00401"
+       id="text3-9-0-1-9-4-2-1-3-3-4"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="-8.6193495"
+         y="194.00401"
+         id="tspan19-0-2">16th St Mission</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;text-anchor:end;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-8.7740221"
+       y="220.36893"
+       id="text3-9-0-1-9-4-2-1-3-3-4-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="-8.7740221"
+         y="220.36893"
+         id="tspan19-0-2-2">24th St Mission</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;text-anchor:end;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-8.7414408"
+       y="233.55139"
+       id="text3-9-0-1-9-4-2-1-3-3-4-9-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="-8.7414408"
+         y="233.55139"
+         id="tspan19-0-2-2-3">30th St Mission</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-38.053757"
+       y="255.04819"
+       id="text3-9-0-1-9-4-2-1-3-3-4-9-9-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-38.053757"
+         y="255.04819"
+         id="tspan79">O'Shaughnessy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-50.785191"
+       y="267.5954"
+       id="text3-9-0-1-9-4-2-1-3-3-4-9-9-2-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-50.785191"
+         y="267.5954"
+         id="tspan43-9">Balboa Park/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-50.785191"
+         y="270.24124"
+         id="tspan44">Ingleside</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-64.168732"
+       y="280.72702"
+       id="text3-9-0-1-9-4-2-1-3-3-4-9-9-2-2-0"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-64.168732"
+         y="280.72702"
+         id="tspan44-5">Outer Mission/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-64.168732"
+         y="283.37286"
+         id="tspan20">Oceanview</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-69.968018"
+       y="291.54501"
+       id="text3-9-0-1-9-4-2-1-3-3-4-9-9-2-2-0-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-69.968018"
+         y="291.54501"
+         id="tspan44-5-0">Daly City</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;text-anchor:end;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-8.7747927"
+       y="207.18646"
+       id="text3-9-0-1-9-4-2-1-3-3-4-9-1"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="-8.7747927"
+         y="207.18646"
+         id="tspan19-0-2-2-0">20th St Mission</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="6.7854872"
+       y="166.83272"
+       id="text3-9-0-1-9-4-2-1-1"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="6.7854872"
+         y="166.83272"
+         id="tspan18">Mission Bay/Oracle Park</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="10.552435"
+       y="188.54626"
+       id="text3-9-0-1-9-4-2-1-1-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="10.552435"
+         y="188.54626"
+         id="tspan18-9">16th St/Chase Center</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="10.695486"
+       y="212.35535"
+       id="text3-9-0-1-9-4-2-1-1-2-0"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="10.695486"
+         y="212.35535"
+         id="tspan18-9-6">22nd St/Dogpatch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="10.697245"
+       y="236.31487"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="10.697245"
+         y="236.31487"
+         id="tspan18-9-6-2">Palou Ave/Silver Terrace</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="10.922886"
+       y="259.89175"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="10.922886"
+         y="259.89175"
+         id="tspan18-9-6-2-2">Williams Ave/Bayview</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="10.883562"
+       y="282.59189"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="10.883562"
+         y="282.59189"
+         id="tspan18-9-6-2-2-1">San Bruno Ave/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="10.883562"
+         y="285.23773"
+         id="tspan41">Visitacion Valley</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="10.860123"
+       y="326.03842"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="10.860123"
+         y="326.03842"
+         id="tspan41-3">South San Francisco</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-48.605053"
+       y="316.32739"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-48.605053"
+         y="316.32739"
+         id="tspan41-3-3-4">Colma</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="29.613152"
+       y="148.05508"
+       id="text3-9-0-1-9-4-2-1-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="29.613152"
+         y="148.05508"
+         id="tspan13-9-1">Rincon</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="29.613152"
+         y="150.70093"
+         id="tspan15">Hill</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="6.7637777"
+       y="154.28139"
+       id="text3-9-0-1-9-4-2-1-9-8"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="6.7637777"
+         y="154.28139"
+         id="tspan15-0">Montgomery/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="6.7637777"
+         y="156.92723"
+         id="tspan16">San Francisco</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="6.7637777"
+         y="159.57306"
+         id="tspan17">Station</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-18.255596"
+       y="121.73018"
+       id="text3-9-0-1-9-4-2-7"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-18.255596"
+         y="121.73018"
+         id="tspan11-5-2">Washington Square</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-48.410107"
+       y="130.43799"
+       id="text3-9-0-1-9-4-2-7-5"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-48.410107"
+         y="130.43799"
+         id="tspan11-5-2-63">Polk Gulch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-52.131832"
+       y="141.07655"
+       id="text3-9-0-1-9-4-2-7-5-1"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-52.131832"
+         y="141.07655"
+         id="tspan11-5-2-63-2">California St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-104.095"
+       y="84.985626"
+       id="text3-9-0-1-9-4-2-7-79"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-104.095"
+         y="84.985626"
+         id="tspan11-5-2-3">Marin Headlands</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-110.84031"
+       y="29.173565"
+       id="text3-9-0-1-9-4-2-7-79-3"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-110.84031"
+         y="29.173565"
+         id="tspan11-5-2-3-80">Alto/Mill Valley</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-110.8403"
+       y="0.73085779"
+       id="text3-9-0-1-9-4-2-7-79-3-3"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-110.8403"
+         y="0.73085779"
+         id="tspan11-5-2-3-80-2">Corte Madera/Larkspur</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-108.24101"
+       y="-27.776695"
+       id="text3-9-0-1-9-4-2-7-79-3-3-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-108.24101"
+         y="-27.776695"
+         id="tspan11-5-2-3-80-2-0">San Rafael</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-108.30829"
+       y="-56.102032"
+       id="text3-9-0-1-9-4-2-7-79-3-3-2-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-108.30829"
+         y="-56.102032"
+         id="tspan11-5-2-3-80-2-0-7">Santa Venetia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-110.78481"
+       y="56.320087"
+       id="text3-9-0-1-9-4-2-7-79-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-110.78481"
+         y="56.320087"
+         id="tspan11-5-2-3-8">Sausalito/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-110.78481"
+         y="58.965923"
+         id="tspan31">Manzanita</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-32.930229"
+       y="110.99944"
+       id="text3-9-0-1-9-4-2-7-7"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-32.930229"
+         y="110.99944"
+         id="tspan11-5-2-6">Russian</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-32.930229"
+         y="113.64528"
+         id="tspan14">Hill</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;text-anchor:end;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-35.764965"
+       y="157.10194"
+       id="text3-9-0-1-9-4-2-7-7-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="-35.764965"
+         y="157.10194"
+         id="tspan14-2">Van Ness</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="-35.764965"
+         y="159.74779"
+         id="tspan27">Geary</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-54.115437"
+       y="144.80359"
+       id="text3-9-0-1-9-4-2-7-7-9-6"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-54.115437"
+         y="144.80359"
+         id="tspan27-1">Fillmore</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-54.115437"
+         y="147.44943"
+         id="tspan29">Japantown</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-68.978172"
+       y="147.98805"
+       id="text3-9-0-1-9-4-2-7-7-9-6-6"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-68.978172"
+         y="147.98805"
+         id="tspan29-8">Masonic/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-68.978172"
+         y="150.6339"
+         id="tspan22">USF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-84.157951"
+       y="147.9478"
+       id="text3-9-0-1-9-4-2-7-7-9-6-6-7"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-84.157951"
+         y="147.9478"
+         id="tspan34">10th Ave/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-84.157951"
+         y="150.59364"
+         id="tspan35">Inner Richmond</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-106.94865"
+       y="147.94035"
+       id="text3-9-0-1-9-4-2-7-7-9-6-6-7-8"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-106.94865"
+         y="147.94035"
+         id="tspan35-2">22nd Ave/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-106.94865"
+         y="150.5862"
+         id="tspan36">Central Richmond</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-130.39482"
+       y="147.93196"
+       id="text3-9-0-1-9-4-2-7-7-9-6-6-7-8-0"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-130.39482"
+         y="147.93196"
+         id="tspan36-4">32nd Ave/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-130.39482"
+         y="150.5778"
+         id="tspan37">Outer Richmond</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-154.81288"
+       y="147.29515"
+       id="text3-9-0-1-9-4-2-7-7-9-6-6-7-8-0-7"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-154.81288"
+         y="147.29515"
+         id="tspan37-4">Sutro</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-154.81288"
+         y="149.94099"
+         id="tspan38">Heights</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-47.395885"
+       y="111.10435"
+       id="text3-9-0-1-9-4-2-7-7-8"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-47.395885"
+         y="111.10435"
+         id="tspan14-9">Fillmore</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-47.395885"
+         y="113.75018"
+         id="tspan21">Marina</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-61.894073"
+       y="108.3763"
+       id="text3-9-0-1-9-4-2-7-7-8-1"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-61.894073"
+         y="108.3763"
+         id="tspan21-8">Presidio/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-61.894073"
+         y="111.02213"
+         id="tspan23">Palace of</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="-61.894073"
+         y="113.66797"
+         id="tspan24">Fine Arts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="91.548065"
+       y="134.92902"
+       id="text3-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="91.548065"
+         y="134.92902"
+         id="tspan4-2">Estuary</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="54.277412"
+       y="132.32501"
+       id="text3-2-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="54.277412"
+         y="132.32501"
+         id="tspan4-2-6">West</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="54.277412"
+         y="134.97086"
+         id="tspan6">Oakland</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="106.1519"
+       y="160.43802"
+       id="text3-2-6"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="106.1519"
+         y="160.43802"
+         id="tspan4-2-3">Park St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="91.767982"
+       y="160.54965"
+       id="text3-2-6-1"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="91.767982"
+         y="160.54965"
+         id="tspan4-2-3-5">Grand St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="66.641464"
+       y="152.97392"
+       id="text3-2-6-1-6"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="66.641464"
+         y="152.97392"
+         id="tspan4-2-3-5-5">West Alameda</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="128.96915"
+       y="153.93765"
+       id="text3-2-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="128.96915"
+         y="153.93765"
+         id="tspan4-2-2">Fruitvale</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="164.41978"
+       y="156.16595"
+       id="text3-2-9-70"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="164.41978"
+         y="156.16595"
+         id="tspan4-2-2-4">Eastmont/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="164.41978"
+         y="158.8118"
+         id="tspan33">Havenscourt Blvd</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="179.87123"
+       y="171.16965"
+       id="text3-2-9-70-5"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="179.87123"
+         y="171.16965"
+         id="tspan4-2-2-4-6">82nd Ave</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="200.1217"
+       y="183.06377"
+       id="text3-2-9-70-5-1"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="200.1217"
+         y="183.06377"
+         id="tspan4-2-2-4-6-7">106th Ave/Oakland Zoo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="204.39067"
+       y="195.20245"
+       id="text3-2-9-70-5-1-1"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="204.39067"
+         y="195.20245"
+         id="tspan4-2-2-4-6-7-5">Broadmoor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="157.92094"
+       y="141.18237"
+       id="text3-2-9-70-8"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="157.92094"
+         y="141.18237"
+         id="tspan4-2-2-4-0">Mills College</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;text-anchor:end;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="133.19521"
+       y="173.35526"
+       id="text3-2-9-77"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="133.19521"
+         y="173.35526"
+         id="tspan70">Coliseum/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="133.19521"
+         y="176.0011"
+         id="tspan71">Oakland International</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="133.19521"
+         y="178.64693"
+         id="tspan73">Airport (OAK)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="118.25986"
+       y="141.59592"
+       id="text3-2-9-7"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="118.25986"
+         y="141.59592"
+         id="tspan4-2-2-3">San Antonio</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="175.35413"
+       y="198.91403"
+       id="text3-2-9-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="175.35413"
+         y="198.91403"
+         id="tspan4-2-2-9">San Leandro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="200.88675"
+       y="226.89323"
+       id="text3-2-9-9-8"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="200.88675"
+         y="226.89323"
+         id="tspan4-2-2-9-5">Bay Fair</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="236.79204"
+       y="233.84471"
+       id="text3-2-9-9-8-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="236.79204"
+         y="233.84471"
+         id="tspan4-2-2-9-5-8">Castro</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="236.79204"
+         y="236.49055"
+         id="tspan53">Valley</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="276.116"
+       y="233.69417"
+       id="text3-2-9-9-8-9-7"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="276.116"
+         y="233.69417"
+         id="tspan40">West Dublin/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="276.116"
+         y="236.34001"
+         id="tspan42">Pleasanton</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="316.14706"
+       y="233.46008"
+       id="text3-2-9-9-8-9-7-1"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="316.14706"
+         y="233.46008"
+         id="tspan40-0">Dublin/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="316.14706"
+         y="236.10593"
+         id="tspan42-6">Pleasanton</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="224.12108"
+       y="273.03595"
+       id="text3-2-9-9-8-4"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="224.12108"
+         y="273.03595"
+         id="tspan4-2-2-9-5-3">Hayward</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="228.04179"
+       y="328.68842"
+       id="text3-2-9-9-8-4-8"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="228.04179"
+         y="328.68842"
+         id="tspan4-2-2-9-5-3-0">South Hayward</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="219.6759"
+       y="384.34012"
+       id="text3-2-9-9-8-4-8-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="219.6759"
+         y="384.34012"
+         id="tspan4-2-2-9-5-3-0-4">Union City</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="205.76038"
+       y="441.97855"
+       id="text3-2-9-9-8-4-8-2-4"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="205.76038"
+         y="441.97855"
+         id="tspan4-2-2-9-5-3-0-4-7">Fremont</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="189.23804"
+       y="444.01474"
+       id="text3-2-9-9-8-4-8-2-4-6"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="189.23804"
+         y="444.01474"
+         id="tspan4-2-2-9-5-3-0-4-7-1">Newark</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="219.47525"
+       y="495.51047"
+       id="text3-2-9-9-8-4-8-2-4-0"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="219.47525"
+         y="495.51047"
+         id="tspan4-2-2-9-5-3-0-4-7-3">Irvington</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;text-anchor:end;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-50.779816"
+       y="217.82535"
+       id="text3-9-0-1-9-4-2-1-3-3-6-8-4-5"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="-50.779816"
+         y="217.82535"
+         id="tspan19-0-8-3-9-9">Forest Hill</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-19.517527"
+       y="345.82379"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-4"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="-19.517527"
+         y="345.82379"
+         id="tspan41-3-3-1">El Camino</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="10.690149"
+       y="368.62894"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="10.690149"
+         y="368.62894"
+         id="tspan41-3-3-8">Tanforan/San Bruno</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="23.195711"
+       y="379.66858"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="23.195711"
+         y="379.66858"
+         id="tspan41-3-3-8-2">Millbrae/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="23.195711"
+         y="382.31442"
+         id="tspan46">George Moscone</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="23.195711"
+         y="384.96027"
+         id="tspan78">International Airport (GMS)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="34.576454"
+       y="395.47595"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="34.576454"
+         y="395.47595"
+         id="tspan47-7">Broadway</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="46.432133"
+       y="407.51266"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-5"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="46.432133"
+         y="407.51266"
+         id="tspan47-7-2">Burlingame</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="58.412449"
+       y="419.60519"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="58.412449"
+         y="419.60519"
+         id="tspan47-7-9">San Mateo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="64.977226"
+       y="434.23199"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="64.977226"
+         y="434.23199"
+         id="tspan47-7-9-1">Hayward Park</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="76.821907"
+       y="446.11713"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="76.821907"
+         y="446.11713"
+         id="tspan47-7-9-1-9">Hillsdale</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="88.976059"
+       y="457.86963"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-0"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="88.976059"
+         y="457.86963"
+         id="tspan47-7-9-1-9-8">Belmont</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="100.71938"
+       y="469.83936"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="100.71938"
+         y="469.83936"
+         id="tspan47-7-9-1-9-9">San Carlos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="112.5526"
+       y="481.7305"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-4"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="112.5526"
+         y="481.7305"
+         id="tspan47-7-9-1-9-9-6">Redwood City</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="124.41926"
+       y="493.63104"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-7"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="124.41926"
+         y="493.63104"
+         id="tspan47-7-9-1-9-9-4">Menlo Park</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="136.54712"
+       y="505.54056"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="136.54712"
+         y="505.54056"
+         id="tspan47-7-9-1-9-9-60">Palo Alto</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="148.51442"
+       y="517.20288"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-4"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="148.51442"
+         y="517.20288"
+         id="tspan47-7-9-1-9-9-60-9">California Ave</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="160.39427"
+       y="529.3916"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-5"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="160.39427"
+         y="529.3916"
+         id="tspan47-7-9-1-9-9-60-2">San Antonio</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;text-anchor:end;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="198.5584"
+       y="531.2323"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-5-0"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="198.5584"
+         y="531.2323"
+         id="tspan63">North Santa Clara/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="198.5584"
+         y="533.87811"
+         id="tspan64">Levi Stadium</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="135.4958"
+       y="537.85956"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-5-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="135.4958"
+         y="537.85956"
+         id="tspan47-7-9-1-9-9-60-2-2">Alta Mesa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="135.48392"
+       y="555.0509"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-5-9-6"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="135.48392"
+         y="555.0509"
+         id="tspan47-7-9-1-9-9-60-2-2-5">Los Altos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="138.95944"
+       y="572.24225"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-5-9-6-7"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="138.95944"
+         y="572.24225"
+         id="tspan47-7-9-1-9-9-60-2-2-5-4">Loyola</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="172.31645"
+       y="541.2998"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-0"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="172.31645"
+         y="541.2998"
+         id="tspan47-7-9-1-9-9-60-3">Mountain View</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="183.96669"
+       y="552.93188"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-6"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="183.96669"
+         y="552.93188"
+         id="tspan47-7-9-1-9-9-60-33">Sunnyvale</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="177.58012"
+       y="567.47192"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-6-1"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="177.58012"
+         y="567.47192"
+         id="tspan47-7-9-1-9-9-60-33-2">Lawrence</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;text-anchor:end;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="199.12279"
+       y="577.73364"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-6-1-3"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="199.12279"
+         y="577.73364"
+         id="tspan57">Santa Clara/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:1"
+         x="199.12279"
+         y="580.37946"
+         id="tspan74">San Jose International Airport (SJC)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="199.76863"
+       y="595.7135"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-6-1-3-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="199.76863"
+         y="595.7135"
+         id="tspan47-7-9-1-9-9-60-33-2-6-91">Burbank</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="247.78311"
+       y="583.39233"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-6-1-3-2-6"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="247.78311"
+         y="583.39233"
+         id="tspan58">Downtown</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="247.78311"
+         y="586.03815"
+         id="tspan61">San Jose</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="182.51488"
+       y="595.66278"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-6-1-3-2-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="182.51488"
+         y="595.66278"
+         id="tspan47-7-9-1-9-9-60-33-2-6-91-2">Saratoga</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="182.51488"
+         y="598.30859"
+         id="tspan10">Ave</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="165.60425"
+       y="595.36938"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-6-1-3-2-9-7"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="165.60425"
+         y="595.36938"
+         id="tspan47-7-9-1-9-9-60-33-2-6-91-2-5">Tantau Ave/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="165.60425"
+         y="598.0152"
+         id="tspan2">Apple Park</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="139.47745"
+       y="589.9668"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-6-1-3-2-9-7-7"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="139.47745"
+         y="589.9668"
+         id="tspan47-7-9-1-9-9-60-33-2-6-91-2-5-3">Cupertino/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="139.47745"
+         y="592.61261"
+         id="tspan1">De Anza</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="141.96841"
+       y="614.42627"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-6-1-3-2-9-7-7-6"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="141.96841"
+         y="614.42627"
+         id="tspan1-8">Saratoga</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="187.28247"
+       y="607.53674"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-6-1-3-1"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="187.28247"
+         y="607.53674"
+         id="tspan47-7-9-1-9-9-60-33-2-6-2">Fruitdale Ave</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="175.22812"
+       y="625.54395"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-6-1-3-1-0"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="175.22812"
+         y="625.54395"
+         id="tspan47-7-9-1-9-9-60-33-2-6-2-9">Campbell</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="174.6469"
+       y="646.27863"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-6-1-3-1-0-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="174.6469"
+         y="646.27863"
+         id="tspan47-7-9-1-9-9-60-33-2-6-2-9-1">Los Gatos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="224.9734"
+       y="586.86371"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-6-1-3-8"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="224.9734"
+         y="586.86371"
+         id="tspan47-7-9-1-9-9-60-33-2-6-9">San Jose</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="224.9734"
+         y="589.50952"
+         id="tspan55">Station</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="231.74083"
+       y="600.70117"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-6-1-3-8-97"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="231.74083"
+         y="600.70117"
+         id="tspan47-7-9-1-9-9-60-33-2-6-9-5">Tamien</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="251.4547"
+       y="574.88843"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-6-1-3-8-97-0"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="251.4547"
+         y="574.88843"
+         id="tspan47-7-9-1-9-9-60-33-2-6-9-5-48">Roosevelt Park</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="260.70657"
+       y="562.41748"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-6-1-3-8-97-0-6"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="260.70657"
+         y="562.41748"
+         id="tspan47-7-9-1-9-9-60-33-2-6-9-5-48-1">Alum</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="260.70657"
+         y="565.06329"
+         id="tspan3">Rock</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="281.69733"
+       y="576.27924"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-6-1-3-8-97-0-6-7"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="281.69733"
+         y="576.27924"
+         id="tspan47-7-9-1-9-9-60-33-2-6-9-5-48-1-5">East San Jose</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="247.62965"
+       y="616.46594"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-6-1-3-8-97-6"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="247.62965"
+         y="616.46594"
+         id="tspan47-7-9-1-9-9-60-33-2-6-9-5-4">Capitol</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="219.51958"
+       y="565.54742"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-6-1-3-8-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="219.51958"
+         y="565.54742"
+         id="tspan48">San Jose</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="219.51958"
+         y="568.19324"
+         id="tspan52">Japantown</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="219.7661"
+       y="546.87695"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-6-1-3-8-9-0"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="219.7661"
+         y="546.87695"
+         id="tspan52-8">Milpitas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="219.76125"
+       y="527.06055"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-6-1-3-8-9-0-0"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="219.76125"
+         y="527.06055"
+         id="tspan52-8-6">Warm Springs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="185.19646"
+       y="-15.264874"
+       id="text3-9-0-8-2-5-7-8-6"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="185.19646"
+         y="-15.264874"
+         id="tspan7-8-9-8-8-4-4-4-6">Concord</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="344.30057"
+       y="-18.148838"
+       id="text3-9-0-8-2-5-7-8-6-8"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="344.30057"
+         y="-18.148838"
+         id="tspan7-8-9-8-8-4-4-4-6-4">Arbor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="148.39667"
+       y="-53.892689"
+       id="text3-9-0-8-2-5-7-8-6-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="148.39667"
+         y="-53.892689"
+         id="tspan7-8-9-8-8-4-4-4-6-2">Martinez</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="200.90945"
+       y="-34.892639"
+       id="text3-9-0-8-2-5-7-8-6-0"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="200.90945"
+         y="-34.892639"
+         id="tspan7-8-9-8-8-4-4-4-6-5">Clyde</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="237.95111"
+       y="-34.811543"
+       id="text3-9-0-8-2-5-7-8-6-0-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="237.95111"
+         y="-34.811543"
+         id="tspan7-8-9-8-8-4-4-4-6-5-6">Bay Point</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="274.9928"
+       y="-34.811546"
+       id="text3-9-0-8-2-5-7-8-6-0-2-0"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="274.9928"
+         y="-34.811546"
+         id="tspan7-8-9-8-8-4-4-4-6-5-6-2">Pittsburg</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="361.37192"
+       y="-0.56149828"
+       id="text3-9-0-8-2-5-7-8-6-8-6"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="361.37192"
+         y="-0.56149828"
+         id="tspan7-8-9-8-8-4-4-4-6-4-1">Brentwood</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="312.03445"
+       y="-34.811546"
+       id="text3-9-0-8-2-5-7-8-6-0-2-0-6"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="312.03445"
+         y="-34.811546"
+         id="tspan7-8-9-8-8-4-4-4-6-5-6-2-1">Antioch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="367.06039"
+       y="240.31517"
+       id="text3-2-9-9-8-9-7-4"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="367.06039"
+         y="240.31517"
+         id="tspan42-0">Livermore</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="404.23892"
+       y="197.28522"
+       id="text3-2-9-9-8-9-7-4-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="404.23892"
+         y="197.28522"
+         id="tspan42-0-37">Lawrence Livermore Labs/</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="404.23892"
+         y="199.93106"
+         id="tspan54">Vasco Road</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="446.16736"
+       y="155.50516"
+       id="text3-2-9-9-8-9-7-4-9-5"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="446.16736"
+         y="155.50516"
+         id="tspan54-7">Tracy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="325.12506"
+       y="282.59668"
+       id="text3-2-9-9-8-9-7-4-7"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1"
+         x="325.12506"
+         y="282.59668"
+         id="tspan42-0-3">Pleasanton</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#999999;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="263.5202"
+       y="632.36609"
+       id="text3-9-0-1-9-4-2-1-1-2-0-9-2-3-9-4-92-3-1-0-5-1-2-0-6-1-3-8-97-8"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1"
+         x="263.5202"
+         y="632.36609"
+         id="tspan47-7-9-1-9-9-60-33-2-6-9-5-6">Santa Teresa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:none;stroke:#deaa87;stroke-width:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="22.489584"
+       y="107.15625"
+       id="text69"><tspan
+         sodipodi:role="line"
+         id="tspan69"
+         style="stroke-width:4"
+         x="22.489584"
+         y="107.15625" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:center;text-anchor:middle;fill:#c8c4b7;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="-111.1824"
+       y="-87.320168"
+       id="text3-2-9-9-8-9-7-4-9-5-2-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#c8c4b7;stroke:none;stroke-width:1"
+         x="-111.1824"
+         y="-87.320168"
+         id="tspan54-7-0-7">to Santa Rosa,</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:center;text-anchor:middle;fill:#c8c4b7;stroke:none;stroke-width:1"
+         x="-111.1824"
+         y="-84.674332"
+         id="tspan80">Willits</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#c8c4b7;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="283.73517"
+       y="652.49585"
+       id="text3-2-9-9-8-9-7-4-9-5-2-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#c8c4b7;stroke:none;stroke-width:1"
+         x="283.73517"
+         y="652.49585"
+         id="tspan54-7-0-93">to Gilroy, Monterey</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#c8c4b7;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="143.5751"
+       y="655.28143"
+       id="text3-2-9-9-8-9-7-4-9-5-2-7"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#c8c4b7;stroke:none;stroke-width:1"
+         x="143.5751"
+         y="655.28143"
+         id="tspan54-7-0-8">to Santa Cruz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#c8c4b7;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="453.32999"
+       y="134.83249"
+       id="text3-2-9-9-8-9-7-4-9-5-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#c8c4b7;stroke:none;stroke-width:1"
+         x="453.32999"
+         y="134.83249"
+         id="tspan54-7-0">to Stockton</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:start;text-anchor:start;fill:#c8c4b7;stroke:#2a7fff;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+       x="178.11757"
+       y="-81.319649"
+       id="text3-2-9-9-8-9-7-4-9-5-2-5"><tspan
+         sodipodi:role="line"
+         style="font-size:2.11667px;text-align:start;text-anchor:start;fill:#c8c4b7;stroke:none;stroke-width:1"
+         x="178.11757"
+         y="-81.319649"
+         id="tspan54-7-0-9">to Sacramento</tspan></text>
+  </g>
+</svg>
