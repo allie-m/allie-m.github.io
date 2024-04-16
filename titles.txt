@@ -1,0 +1,8 @@
+index = home
+blog = blog
+maps = maps
+projects = projects
+
+projects/projectstudio = 11th Grade Project Studio
+
+blogposts/vlkfcnet = Misadventures in Vulkan Compute

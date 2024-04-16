@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- <link rel="icon" href="icon.ico"> -->
+    <title>11th Grade Project Studio</title>
+    <link href="../style.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+    <div id="header">
+        <h2 id="header-title">11th Grade Project Studio</h2>
+        <div id="menu">
+            <ul>
+                <li>
+                    <a href="../index.html">home</a>
+                </li>
+                <li>
+                    <a href="../blog.html">blog</a>
+                </li>
+                <li>
+                    <a href="../projects.html">projects</a>
+                </li>
+                <li>
+                    <a href="../maps.html">maps</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div id="content">
+        <p>During my junior year of high school, I spent one of my class slots
+independently doing graphics programming projects.</p>
+<p>I used the assignment specifications from MIT’s <a
+href="https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/pages/assignments/">Fall
+2012 Computer Graphics</a> course, timeless exercises covering a range
+of basic graphics programming concepts.</p>
+<p>The graphics stack the assignments prescribed (OpenGL 2, C++03) is
+heavily out of date. I used their assets so that I wouldn’t have to
+create new ones, but I wrote the projects from scratch with Rust and
+wgpu. Annoyingly, this meant I had to write several parsers for their
+bespoke formats.</p>
+<p>All of my implementations adhere to the spirit of the assignments,
+although a few don’t exactly fulfill the specifications.</p>
+<p>The code is <a
+href="%22https://github.com/allie-m/projectstudio%22">available on
+GitHub</a>, along with instructions for how to run it.</p>
+<h2 id="obj-parser-and-renderer">Obj Parser and Renderer</h2>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><img
+src="../assets/projects/projectstudio/garg.png" width="260" /></td>
+<td style="text-align: left;">Warmup exercise! This program parses obj
+files and renders their models interactively.<br><br>See the “garg”
+pictured left.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="swept-surfaces-renderer">Swept Surfaces Renderer</h2>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><img
+src="../assets/projects/projectstudio/flircle.png" width="260" /></td>
+<td style="text-align: left;">This program triangulates and
+interactively renders meshes based on a swept surface
+representation.<br><br>These swept surfaces are defined from bezier
+curves or B-splines.<br><br>See the “flircle” pictured left.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="skeletal-modeling">Skeletal Modeling</h2>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><img
+src="../assets/projects/projectstudio/skeletalmodel.png"
+width="260" /></td>
+<td style="text-align: left;">This program renders and animates skeletal
+models with bone hierarchies.<br><br>The shader is generic and can
+handle any transformation of any bone hierarchy. However, the program is
+hardcoded to swing the legs of the input model, since all the sample
+models have the same bone structure.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="particle-based-cloth-simulation">Particle-Based Cloth
+Simulation</h2>
+<p>This program models the physics of a cloth — specifically, a flag
+flapping in the breeze — with a particle based simulation.</p>
+<p>Each particle is acted on by forces (gravity, wind, and springs
+binding the cloth together), and an <a
+href="https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods">rk4
+numerical integrator</a>, implemented in compute shaders, turns the
+forces into velocities that allow the cloth’s motion to be simulated in
+real time.</p>
+<p><img src="../assets/projects/projectstudio/flagrainbow.png" width="290" height="290">
+<img src="../assets/projects/projectstudio/flagtrans.png" width="290" height="290"></p>
+<h2 id="basic-raytracer">Basic Raytracer</h2>
+<p>This program renders basic scenes with a custom raytracer implemented
+in a compute shader. It is direct illumination only, with one raycast
+per pixel. I considered trying to implement global illumination, but
+realized I would have to rearchitect the program and so decided against
+it, as it is not in the course specification.</p>
+<p><img src="../assets/projects/projectstudio/spheres.png" width="290" height="290">
+<img src="../assets/projects/projectstudio/bunny.png" width="290" height="290"></p>
+<h2 id="terrain-renderer">Terrain Renderer</h2>
+<p>This was not an assignment specification, but something I did because
+I had extra time. I found ultra-high resolution heightmap data for
+Alameda County and used
+<a href="https://github.com/heremaps/tin-terrain">tin-terrain</a> to
+convert it into chunked meshes at varying levels of detail, which my
+program then rendered.</p>
+<p>You can’t actually see all of Alameda County at once, only the slice
+of it I processed. Still, the detail is remarkable. Too bad they didn’t
+have data underneath the waters of Lake Chabot (featured below), it
+would have been nice to do some water rendering.</p>
+<p><img src="../assets/projects/projectstudio/alamedacounty.png" width="100%"></p>
+
+    </div>
+</body>
