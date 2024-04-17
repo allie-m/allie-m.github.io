@@ -34,7 +34,7 @@ In short:
 - In the mid 60s, to alleviate streetcar congestion, the Market subway is deepened, and another set of tracks is built below the original. These tracks are extended to meet the Twin Peaks tunnel, the KLM are rerouted to use it; the JNP continue to run in the original level, which continues to emerge onto the street at Valencia.
 - BART does NOT get built; the vote for a modern rapid transit system fails because Muni/Key exist, and people don't see a need.
 - In the 90s, California pours large amounts of funding into intercity and commuter rail construction; the result is a robust commuter rail network that perfectly complements the inner-bay streetcar network.
-- Minor tweaks over time to the streetcar network, slightly extending the F/K/M (SF) and F (East Bay).
+- Minor tweaks over time to the streetcar network, slightly extending the F/J/K/M/P (SF) and F (East Bay).
 - The operational characteristics of the bus network is fairly underspecified in these maps, but in my head I picture we have East Bay trolleybuses on the legacy local Key streetcars, tentatively the 1/3/4R/5/6/9/11/18.
 
-It may be a little utopian, but can't a girl fantasize about the what-could-have-been? It's grounded in an interesting historical what-if :)
+It may be a little utopian, but can't a girl fantasize about what could have been? At least it's grounded in an interesting historical what-if :)
