@@ -16,4 +16,4 @@ Feel free to reach out!
 | | |
 |--|--|
 | email  | \| `allielmahaffey@gmail.com` |
-| github | \| [allie-m](https://github.com/allie-m/allie-m.github.io) |
+| github | \| [allie-m](https://github.com/allie-m) |

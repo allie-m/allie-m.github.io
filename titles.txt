@@ -4,5 +4,6 @@ maps = maps
 projects = projects
 
 projects/projectstudio = 11th Grade Project Studio
+projects/some2 = My SoME2 Entry
 
 blogposts/vlkfcnet = Misadventures in Vulkan Compute
