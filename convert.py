@@ -1,10 +1,32 @@
 import os
 
+# TODO: implement RSS for my blog posts
+#
+# '''
+# <rss version="2.0">
+#     <channel>
+#         <title>allie-m</title>
+#         <link>https://allie-m.github.io/blog.html</link>
+#         <description>Graphics,</description>
+#         <language>en</language>
+#         %s
+#     </channel>
+# </rss>
+# '''
+# '''
+# <item>
+#     <title>%s</title>
+#     <link>%s</link>
+#     <description>%s</description>
+#     <pubDate>%s</pubDate>
+# </item>
+# '''
+
 template = '''<!DOCTYPE html>
 <html lang="en">
 <head>
     <!-- <link rel="icon" href="icon.ico"> -->
-    <title>%s</title>
+    <title>allie-m // %s</title>
     <link href="%sstyle.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>

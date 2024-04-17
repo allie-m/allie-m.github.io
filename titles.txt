@@ -1,9 +1,11 @@
 index = home
 blog = blog
-maps = maps
 projects = projects
+maps = maps
+
+blogposts/vlkfcnet = Misadventures in Vulkan Compute
 
 projects/projectstudio = 11th Grade Project Studio
 projects/some2 = My SoME2 Entry
 
-blogposts/vlkfcnet = Misadventures in Vulkan Compute
+maps/1937subways = Alt History: 1937 Subways Plan
