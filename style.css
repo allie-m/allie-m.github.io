@@ -1,4 +1,4 @@
-:root {
+/*:root {
     --page-bg: #2b2b2b;
     --header-bg: #4b4b4b;
     --content-bg: #2b2b2b;
@@ -6,10 +6,10 @@
     --alt-foreground: #a9b7c6;
     --link: #cc7832;
     --alert: #e53935;
-}
+}*/
 
 /* inspired by https://github.com/charliegerard/pride-vscode-themes */
-/* :root {
+:root {
     --page-bg: #202020;
     --header-bg: #4b4b4b;
     --content-bg: #202020;
@@ -17,7 +17,7 @@
     --alt-foreground: #2fbef1;
     --link:#f5a7b7;
     --alert: #e53935;
-} */
+}
 
 body {
     font-family: 'Courier New', Courier, monospace;
