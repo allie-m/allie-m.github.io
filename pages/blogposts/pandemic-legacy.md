@@ -2,6 +2,8 @@ Over the past 5 months, I have played a game of Pandemic Legacy (Season 1) with 
 
 It's critically acclaimed, and you should definitely play it with a reliable group if you haven't.
 
+It's certainly earned its rave reviews.
+
 This is an account of our playthrough.
 
 <details>
@@ -22,12 +24,20 @@ Here's a glossary of the names we chose for the character cards:
 
 ### January
 
-We opened our game in January with Aliana, Natasha, and Jules.
+We opened our game in January with Aliana, Natasha, and Jules [TODO was it them?].
 
-Our \#1 opening priority was establishing permanent research stations -- freedom of movement is very important, and we didn't know if we would ever get the operations expert.u
+Our \#1 opening priority was establishing permanent research stations -- freedom of movement is very important, and we didn't know if we would ever get the operations expert.
 
 We added research stations to Cairo and Hong Kong, and were successfully eliminating the diseases -- that is, the yellow disease mutated into the scary sounding CoDA [TODO].
 
-We didn't stress about it. One less disease to eliminate. We [TODO]
+We didn't stress about it. It's just one less disease to eliminate. For our game end upgrades, we made our research stations permanent. This way, we could maneuver the board easily from the start of the game.
+
+### February
+
+Since we won January, we entered February with only 2 funded events.
+
+We didn't know what to expect. And then... zombies!! Or Faded, rather, they're not really zombies as such. But they're scary!
+
+[TODO]
 
 </details>
