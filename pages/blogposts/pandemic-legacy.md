@@ -8,7 +8,7 @@ This is an account of our playthrough.
 
 <details>
 <summary>The Story (Spoilers!!)</summary>
-Here's a glossary of the names we chose for the character cards:
+To start, here's a glossary of the names we chose for the character cards:
 
 - Aliana as the scientist
 - Natasha as the researcher
@@ -28,15 +28,15 @@ We opened our game in January with Aliana, Natasha, and Jules [TODO was it them?
 
 Our \#1 opening priority was establishing permanent research stations -- freedom of movement is very important, and we didn't know if we would ever get the operations expert.
 
-We added research stations to Cairo and Hong Kong, and were successfully eliminating the diseases -- that is, the yellow disease mutated into the scary sounding CoDA [TODO].
+We added research stations to Cairo and Hong Kong, and were successfully eliminating the diseases -- that is, until the yellow disease mutated into the scary sounding COdA-403a.
 
-We didn't stress about it. It's just one less disease to eliminate. For our game end upgrades, we made our research stations permanent. This way, we could maneuver the board easily from the start of the game.
+We didn't stress about it. It's just one less disease to eliminate. We won relatively easily and, for our game end upgrades, we made our research stations permanent. This way, we could maneuver the board easily from the start of the game.
 
 ### February
 
 Since we won January, we entered February with only 2 funded events.
 
-We didn't know what to expect. And then... zombies!! Or Faded, rather, they're not really zombies as such. But they're scary!
+We didn't know what to expect. This month
 
 [TODO]
 
