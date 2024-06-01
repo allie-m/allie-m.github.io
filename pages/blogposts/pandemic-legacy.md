@@ -14,7 +14,7 @@ To start, here's a glossary of the names we chose for the character cards:
 - Natasha as the researcher
 - Jules as the dispatcher
 - Derek as the medic
-- [We did not use the generalist]
+- [We did not use the generalist, so she was never named]
 - Bobby as the quarantine specialist
 - Jimmy as the operations expert
 - Park as the colonel
@@ -24,19 +24,31 @@ To start, here's a glossary of the names we chose for the character cards:
 
 ### January
 
-We opened our game in January with Aliana, Natasha, and Jules [TODO was it them?].
+We opened our game in January with Aliana, Natasha, and Derek.
 
-Our \#1 opening priority was establishing permanent research stations -- freedom of movement is very important, and we didn't know if we would ever get the operations expert.
+Our \#1 opening priority was establishing research stations -- freedom of movement is very important, and we didn't know if we would ever get an operations expert.
 
-We added research stations to Cairo and Hong Kong, and were successfully eliminating the diseases -- that is, until the yellow disease mutated into the scary sounding COdA-403a.
+We added research stations to Cairo and Hong Kong, and were cruising to a relatively easy victory.
 
-We didn't stress about it. It's just one less disease to eliminate. We won relatively easily and, for our game end upgrades, we made our research stations permanent. This way, we could maneuver the board easily from the start of the game.
+And then, oh no! The yellow disease mutated into the scary sounding COdA-403a: untreatable and incurable!
+
+Thankfully, we were already quite close to victory, and we managed to squeak by with no unstable cities or scarred characters.
+
+As our game end upgrades, we made our research stations permanent. This way, we could maneuver the board easily from the start of the game -- again, we're big believers in the importance of freedom of movement in Pandemic.
 
 ### February
 
 Since we won January, we entered February with only 2 funded events.
 
-We didn't know what to expect. This month
+And a quarantine specialist!? Hooray, we have a way to manage this untreatable illness.
+
+For this game, we selected Aliana, Natasha, and Bobby -- we left Derek behind, since he's not able to manage COdA.
+
+We managed to win without any scars and with only minor damage to a few cities on the board.
+
+### March
+
+An operations expert!!
 
 [TODO]
 
