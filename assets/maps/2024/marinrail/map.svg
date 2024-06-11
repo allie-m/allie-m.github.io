@@ -1,0 +1,1649 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="227.54166mm"
+   height="296.33334mm"
+   viewBox="0 0 227.54166 296.33334"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="marinlightrail.svg"
+   inkscape:export-filename="marinlightrail.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#4f4f4f"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.68595679"
+     inkscape:cx="403.08661"
+     inkscape:cy="574.3802"
+     inkscape:window-width="1870"
+     inkscape:window-height="976"
+     inkscape:window-x="20"
+     inkscape:window-y="55"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer4">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="10.583333"
+       originy="0"
+       spacingx="0.26458333"
+       spacingy="0.26458334"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="0.30000001"
+       markerHeight="0.30000001"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path10" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="0.30000001"
+       markerHeight="0.30000001"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path10-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-3-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="0.30000001"
+       markerHeight="0.30000001"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path10-8-0" />
+    </marker>
+  </defs>
+  <rect
+     style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+     id="rect32"
+     width="227.54166"
+     height="296.33334"
+     x="1.7763568e-15"
+     y="0"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:label="Lines"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(10.583333)">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ffcc00;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       d="m 138.90624,156.10417 -2.64583,-2.64583 -19.84375,-19.84375 c -2.64584,-2.64584 -2.64584,-5.29167 -2.64584,-5.29167 V 88.635419 c 0,-2.645834 -2.64583,-5.291667 -2.64583,-5.291667 L 97.895824,70.114585 c 0,0 -2.645833,-2.645834 -5.291666,-2.645834 H 78.052075 66.145826 46.302076 c 0,0 -2.645833,0 -5.291666,-2.645833 -2.645834,-2.645833 -5.291667,-5.291667 -5.291667,-5.291667 l -11.90625,-11.90625"
+       id="path6"
+       sodipodi:nodetypes="ccscsccsccc" />
+    <path
+       style="fill:none;fill-opacity:0;stroke:#71c837;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       d="M 115.09374,187.85417 96.572914,169.33334 83.343742,156.10417 71.437492,144.19792 67.468742,140.22917"
+       id="path1"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;fill-opacity:0;stroke:#80b3ff;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       d="m 117.73957,186.53126 -19.843746,-19.84375 -6.614583,-6.61459 c 0,0 -2.645833,-2.64584 -2.645833,-5.29167 v -17.19791 -21.16667 -9.26042 c 0,0 10e-7,-2.64583 -2.645833,-5.29166 l -15.875,-15.875004 -6.614583,-6.614584 -6.614583,-6.614584 c 0,0 -2.645833,-2.645833 -5.291666,-2.645833 h -6.614584 c 0,0 -2.645833,0 -5.291666,-2.645834 L 21.16666,48.947918"
+       id="path2"
+       sodipodi:nodetypes="cccscccscccscsc" />
+    <path
+       style="fill:none;fill-opacity:0;stroke:#d35f5f;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       d="m 120.38541,185.20834 -19.84375,-19.84375 -6.614589,-6.61458 c 0,0 -2.64583,-2.64584 -2.64583,-5.29167 v -15.875 -14.55209 -6.61458 c 0,0 0,-5.29167 5.291673,-5.29167 h 9.260406 c 0,0 5.29167,0 5.29167,-5.29166 V 92.604169 89.958335 c 0,0 0,-2.645833 -2.64584,-5.291667 -2.64583,-2.645833 -7.9375,-7.9375 -7.9375,-7.9375 l -3.968736,-3.96875"
+       id="path2-4"
+       sodipodi:nodetypes="cccscccscsccscc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#RoundedArrow);paint-order:fill markers stroke"
+       d="m 23.812493,46.302084 c 0,-1.322917 -1.322916,-2.645833 -1.322916,-2.645833 L 21.16666,42.333334 18.520827,39.6875 17.19791,38.364584"
+       id="path8"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#RoundedArrow);paint-order:fill markers stroke"
+       d="m 100.54166,70.114585 13.22917,13.229169 c 0,0 2.64583,2.645834 5.29167,2.645834 l 3.96874,-3e-6 h 6.61458 1.32292"
+       id="path9"
+       sodipodi:nodetypes="cscccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#RoundedArrow-3);paint-order:fill markers stroke"
+       d="m 175.94788,38.364617 c -1.32291,-1.322916 -1.32291,-2.645833 -1.32291,-2.645833 v -3.968751 l -1e-5,-5.291666"
+       id="path9-7"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#RoundedArrow-3-2);paint-order:fill markers stroke"
+       d="m 175.94788,182.56254 c 0,1.32292 1.32291,2.64583 1.32291,2.64583 l 3.96875,3.96875"
+       id="path9-7-1"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ff6600;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#RoundedArrow);paint-order:fill markers stroke"
+       d="m 101.86457,70.114583 -3.968746,-3.96875 c 0,0 -2.645833,-2.645833 -2.645833,-5.291666 V 47.625001"
+       id="path11"
+       sodipodi:nodetypes="ccsc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ff6600;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       d="m 175.94788,181.23962 1e-5,-55.56253"
+       id="path12"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ffcc00;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow);paint-order:fill markers stroke"
+       d="m 170.65621,190.50004 2e-5,-9.2604 -2e-5,-2.64586 c 0,0 0,-2.64584 -2.64583,-5.29167"
+       id="path26"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#d35f5f;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#RoundedArrow);paint-order:fill markers stroke"
+       d="m 173.30205,181.23963 v 9.26041"
+       id="path27"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e6e6e6;stroke-width:2;stroke-dasharray:1, 1;stroke-dashoffset:0;marker-end:url(#RoundedArrow);paint-order:fill markers stroke"
+       d="m 119.72393,188.51564 7.9375,7.9375 5.95313,5.95312 c 0,0 7.9375,6.61459 7.9375,13.22918 v 9.26041"
+       id="path30"
+       sodipodi:nodetypes="cccsc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e6e6e6;stroke-width:2;stroke-dasharray:1, 1;stroke-dashoffset:0;paint-order:fill markers stroke"
+       d="m 141.55206,214.31251 v -52.91667 c 0,0 0,-2.64583 -2.64584,-5.29167"
+       id="path31"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ff6600;stroke-width:1.2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       d="M 175.94789,125.67709 V 38.36459"
+       id="path32" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Stops"
+     transform="translate(10.583333)">
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3"
+       cx="117.73956"
+       cy="186.53127"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-5"
+       cx="120.38539"
+       cy="185.20834"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1"
+       cx="115.09373"
+       cy="179.91667"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-7"
+       cx="115.09373"
+       cy="187.85417"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-2"
+       cx="112.44789"
+       cy="181.23958"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-7-9"
+       cx="109.80209"
+       cy="182.56248"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7"
+       cx="109.80206"
+       cy="174.62502"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-2-4"
+       cx="107.15626"
+       cy="175.94792"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-7-9-5"
+       cx="104.51039"
+       cy="177.27083"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7"
+       cx="104.51039"
+       cy="169.33334"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-2-4-8"
+       cx="101.86459"
+       cy="170.65625"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-7-9-5-6"
+       cx="99.218735"
+       cy="171.97916"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0"
+       cx="99.218735"
+       cy="164.04167"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-2-4-8-6"
+       cx="96.572899"
+       cy="165.36458"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-7-9-5-6-8"
+       cx="93.927048"
+       cy="166.68748"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4"
+       cx="93.927063"
+       cy="158.75002"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-1"
+       cx="88.635406"
+       cy="140.22916"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15"
+       cx="91.281235"
+       cy="140.22916"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-1-1"
+       cx="88.635406"
+       cy="127"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0"
+       cx="91.281235"
+       cy="127"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-1-1-3"
+       cx="88.635406"
+       cy="119.0625"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-1-1-3-5"
+       cx="88.635406"
+       cy="109.80209"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-1-1-3-5-3"
+       cx="84.666656"
+       cy="100.54167"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-1-1-3-5-3-7"
+       cx="76.729156"
+       cy="92.604172"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-1-1-3-5-3-7-9"
+       cx="68.791656"
+       cy="84.666672"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-1-1-3-5-3-7-9-2"
+       cx="60.85416"
+       cy="76.729172"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1"
+       cx="91.281235"
+       cy="119.0625"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3"
+       cx="113.77084"
+       cy="103.18751"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6"
+       cx="111.12498"
+       cy="103.18751"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0"
+       cx="113.77081"
+       cy="124.35416"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5"
+       cx="119.06248"
+       cy="136.26041"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2"
+       cx="125.67708"
+       cy="142.875"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2-9"
+       cx="132.29167"
+       cy="149.48959"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2-9-3"
+       cx="138.90625"
+       cy="156.10417"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2-9-3-2"
+       cx="175.94789"
+       cy="181.23959"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2-9-3-2-3"
+       cx="173.30205"
+       cy="181.23962"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2-9-3-2-7"
+       cx="170.6562"
+       cy="181.23962"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2-9-3-6"
+       cx="175.94789"
+       cy="173.30209"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2-9-3-3-9"
+       cx="175.94789"
+       cy="165.36461"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2-9-3-2-6"
+       cx="175.94789"
+       cy="157.42711"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2-9-3-6-0"
+       cx="175.94789"
+       cy="149.48962"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2-9-3-3-4"
+       cx="175.94789"
+       cy="141.55212"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2-9-3-2-8"
+       cx="175.94789"
+       cy="133.61462"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2-9-3-6-7"
+       cx="175.94789"
+       cy="125.67713"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2-9-3-3-9-0"
+       cx="175.94789"
+       cy="117.73962"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2-9-3-2-6-8"
+       cx="175.94789"
+       cy="109.80213"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2-9-3-6-0-6"
+       cx="175.94789"
+       cy="101.86462"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2-9-3-6-0-6-0"
+       cx="175.94788"
+       cy="93.927132"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2-9-3-3-9-0-7"
+       cx="175.94788"
+       cy="85.989624"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2-9-3-2-6-8-4"
+       cx="175.94788"
+       cy="78.052124"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2-9-3-6-0-6-06"
+       cx="175.94788"
+       cy="70.114616"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2-9-3-6-0-6-0-4"
+       cx="175.94786"
+       cy="62.177128"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2-9-3-6-0-6-0-4-5"
+       cx="175.94788"
+       cy="54.239616"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2-9-3-6-0-6-0-4-5-8"
+       cx="175.94788"
+       cy="46.302116"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-6-0-5-2-9-3-6-0-6-0-4-5-8-9"
+       cx="175.94788"
+       cy="38.36462"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-4"
+       cx="111.12498"
+       cy="91.281258"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-48"
+       cx="88.635406"
+       cy="67.46875"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-48-6"
+       cx="80.697906"
+       cy="67.46875"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-48-6-1"
+       cx="64.822906"
+       cy="67.46875"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-48-6-0"
+       cx="48.947914"
+       cy="67.46875"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-48-6-7"
+       cx="48.947914"
+       cy="70.114586"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-48-6-7-3"
+       cx="37.041664"
+       cy="64.822914"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-48-6-7-3-2"
+       cx="39.687496"
+       cy="63.499996"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-48-6-7-3-9"
+       cx="31.749992"
+       cy="59.531246"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-48-6-7-3-9-3"
+       cx="26.458323"
+       cy="54.239578"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-48-6-7-3-9-4"
+       cx="29.10416"
+       cy="52.91666"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-48-6-7-3-9-4-6"
+       cx="23.81249"
+       cy="47.624996"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-48-6-7-3-9-4-6-8"
+       cx="21.166658"
+       cy="48.947914"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-48-6-7-3-2-9"
+       cx="34.395828"
+       cy="58.208332"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-8"
+       cx="113.77084"
+       cy="91.281258"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-8-0-8"
+       cx="96.572899"
+       cy="72.760422"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-8-0-9"
+       cx="99.218719"
+       cy="71.437508"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-1-7-7-0-4-15-0-1-3-8-0-9-7"
+       cx="101.86456"
+       cy="70.114586"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-2-4-8-6-8"
+       cx="91.281227"
+       cy="160.07291"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-7-9-5-6-8-7"
+       cx="88.635376"
+       cy="161.39581"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-7-9-5-6-8-7-0"
+       cx="83.343735"
+       cy="156.10417"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-7-9-5-6-8-7-0-6"
+       cx="78.052071"
+       cy="150.8125"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-7-9-5-6-8-7-0-8"
+       cx="72.760406"
+       cy="145.52084"
+       r="1.3229166" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="path3-7-9-5-6-8-7-0-8-5"
+       cx="67.468735"
+       cy="140.22916"
+       r="1.3229166" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Names"
+     transform="translate(10.583333)">
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="122.92647"
+       y="184.38356"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="122.92647"
+         y="184.38356">Sausalito</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="122.92647"
+         y="186.58842"
+         id="tspan5">Waterfront</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="117.73692"
+       y="179.78575"
+       id="text3-6"><tspan
+         sodipodi:role="line"
+         id="tspan3-5"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="117.73692"
+         y="179.78575">Old Town</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="112.53327"
+       y="174.6109"
+       id="text3-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="112.53327"
+         y="174.6109">City Hall</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="107.3291"
+       y="169.3298"
+       id="text3-6-7-3"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="107.3291"
+         y="169.3298">Waldo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="101.75874"
+       y="163.64021"
+       id="text3-6-7-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="101.75874"
+         y="163.64021">Manzanita</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="96.467064"
+       y="158.7359"
+       id="text3-6-7-3-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="96.467064"
+         y="158.7359">Almonte</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="97.086685"
+       y="140.87033"
+       id="text3-6-7-3-6-7-6"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7"
+         style="font-size:1.76389px;text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="97.086685"
+         y="140.87033">Alto</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="102.40482"
+       y="127.6991"
+       id="text3-6-7-3-6-7-6-4"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4"
+         style="font-size:1.76389px;text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="102.40482"
+         y="127.6991">Chapman Dr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="104.14226"
+       y="119.75452"
+       id="text3-6-7-3-6-7-6-4-6"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2"
+         style="font-size:1.76389px;text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="104.14226"
+         y="119.75452">Corte Madera</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="116.39848"
+       y="103.83574"
+       id="text3-6-7-3-6-7-6-4-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="116.39848"
+         y="103.83574">Greenbrae</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="116.35966"
+       y="125.00241"
+       id="text3-6-7-3-6-7-6-4-6-1-5"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="116.35966"
+         y="125.00241">Meadowsweet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="121.68965"
+       y="136.62131"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-2"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="121.68965"
+         y="136.62131">Reed</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="128.22301"
+       y="142.86089"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-2-4"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="128.22301"
+         y="142.86089">Little Reed Heights</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="134.85103"
+       y="149.58643"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-2-4-3"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="134.85103"
+         y="149.58643">Hilarita</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="141.44356"
+       y="156.75682"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-2-4-3-1"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="141.44356"
+         y="156.75682">Tiburon</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="178.50545"
+       y="173.95035"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-2-4-3-1-3"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="178.50545"
+         y="173.95035">Marin Civic Center</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="178.50545"
+       y="181.89223"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9-0"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-2-4-3-1-3-9"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="178.50545"
+         y="181.89223">San Rafael</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="172.48343"
+       y="195.57384"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9-0-8"><tspan
+         sodipodi:role="line"
+         style="font-size:1.76389px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="172.48343"
+         y="195.57384"
+         id="tspan20">to Tiburon,</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.76389px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="172.48343"
+         y="197.7787"
+         id="tspan21">Sausalito,</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.76389px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="172.48343"
+         y="199.98357"
+         id="tspan25">San Francisco</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="158.21742"
+       y="222.2971"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9-0-8-0"><tspan
+         sodipodi:role="line"
+         style="font-size:1.76389px;text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="158.21742"
+         y="222.2971"
+         id="tspan25-8">to San Francisco</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="188.20947"
+       y="190.01112"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9-0-8-7"><tspan
+         sodipodi:role="line"
+         style="font-size:1.76389px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="188.20947"
+         y="190.01112"
+         id="tspan29">to Richmond</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="165.09131"
+       y="173.27213"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9-0-8-2"><tspan
+         sodipodi:role="line"
+         style="font-size:1.76389px;text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="165.09131"
+         y="173.27213"
+         id="tspan25-7">to Manor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="178.50545"
+       y="166.01724"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9-3"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-2-4-3-1-3-0"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="178.50545"
+         y="166.01724">Ignacio</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="116.32494"
+       y="91.79808"
+       id="text3-6-7-3-6-7-6-4-6-1-6"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-4"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="116.32494"
+         y="91.79808">California Park</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="104.3485"
+       y="70.401924"
+       id="text3-6-7-3-6-7-6-4-6-1-6-4"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-4-0"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="104.3485"
+         y="70.401924">San Rafael</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="88.588837"
+       y="65.030579"
+       id="text3-6-7-3-6-7-6-4-6-1-6-4-3"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-4-0-3"
+         style="font-size:1.76389px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="88.588837"
+         y="65.030579">B St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="80.651337"
+       y="65.030579"
+       id="text3-6-7-3-6-7-6-4-6-1-6-4-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-4-0-3-4"
+         style="font-size:1.76389px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="80.651337"
+         y="65.030579">G St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="64.776337"
+       y="65.030579"
+       id="text3-6-7-3-6-7-6-4-6-1-6-4-3-0-2"><tspan
+         sodipodi:role="line"
+         style="font-size:1.76389px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="64.776337"
+         y="65.030579"
+         id="tspan7">Highland</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="49.032581"
+       y="65.07515"
+       id="text3-6-7-3-6-7-6-4-6-1-6-4-3-0-0"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-4-0-3-4-4"
+         style="font-size:1.76389px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="49.032581"
+         y="65.07515">San Anselmo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="86.109879"
+       y="110.26952"
+       id="text3-6-7-3-6-7-6-4-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-5"
+         style="font-size:1.76389px;text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="86.109879"
+         y="110.26952">Larkspur</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="82.077698"
+       y="101.45156"
+       id="text3-6-7-3-6-7-6-4-6-8-6"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-5-0"
+         style="font-size:1.76389px;text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="82.077698"
+         y="101.45156">Escalle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="74.09594"
+       y="93.245346"
+       id="text3-6-7-3-6-7-6-4-6-8-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-5-0-7"
+         style="font-size:1.76389px;text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="74.09594"
+         y="93.245346">Kentfield</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="66.364807"
+       y="85.46138"
+       id="text3-6-7-3-6-7-6-4-6-8-6-8-2"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-5-0-7-7"
+         style="font-size:1.76389px;text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="66.364807"
+         y="85.46138">Ross</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="58.231979"
+       y="77.370346"
+       id="text3-6-7-3-6-7-6-4-6-8-6-8-2-9"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-5-0-7-7-1"
+         style="font-size:1.76389px;text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="58.231979"
+         y="77.370346">Bolinas Ave</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="34.471275"
+       y="65.839088"
+       id="text3-6-7-3-6-7-6-4-6-8-6-8-2-9-0"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-5-0-7-7-1-9"
+         style="font-size:1.76389px;text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="34.471275"
+         y="65.839088">Yolanda</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="29.31411"
+       y="60.827705"
+       id="text3-6-7-3-6-7-6-4-6-8-6-8-2-9-0-5"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-5-0-7-7-1-9-0"
+         style="font-size:1.76389px;text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="29.31411"
+         y="60.827705">Lansdale</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="23.958347"
+       y="55.536037"
+       id="text3-6-7-3-6-7-6-4-6-8-6-8-2-9-0-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-5-0-7-7-1-9-0-9"
+         style="font-size:1.76389px;text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="23.958347"
+         y="55.536037">Fairfax</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="18.698759"
+       y="49.589088"
+       id="text3-6-7-3-6-7-6-4-6-8-6-8-2-9-0-5-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-5-0-7-7-1-9-0-9-8"
+         style="font-size:1.76389px;text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="18.698759"
+         y="49.589088">Manor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="14.495409"
+       y="38.498138"
+       id="text3-6-7-3-6-7-6-4-6-8-6-8-2-9-0-5-6-8-3"><tspan
+         sodipodi:role="line"
+         style="font-size:1.76389px;text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="14.495409"
+         y="38.498138"
+         id="tspan8">to Point Reyes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="133.40338"
+       y="86.470024"
+       id="text3-6-7-3-6-7-6-4-6-8-6-8-2-9-0-5-6-8-3-6"><tspan
+         sodipodi:role="line"
+         style="font-size:1.76389px;text-align:start;text-anchor:start;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="133.40338"
+         y="86.470024"
+         id="tspan10">to Richmond</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="80.370628"
+       y="156.16943"
+       id="text3-6-7-3-6-7-9"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-4"
+         style="font-size:1.76389px;text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="80.370628"
+         y="156.16943">Tamalpais</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.76389px;text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="80.370628"
+         y="158.3743"
+         id="tspan4">High School</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="75.612534"
+       y="152.02498"
+       id="text3-6-7-3-6-7-9-3"><tspan
+         sodipodi:role="line"
+         style="font-size:1.76389px;text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="75.612534"
+         y="152.02498"
+         id="tspan4-0">Locust Ave</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="70.161781"
+       y="146.81729"
+       id="text3-6-7-3-6-7-9-3-0"><tspan
+         sodipodi:role="line"
+         style="font-size:1.76389px;text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="70.161781"
+         y="146.81729"
+         id="tspan4-0-9">Park Ave</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="65.022789"
+       y="141.52562"
+       id="text3-6-7-3-6-7-9-3-0-5"><tspan
+         sodipodi:role="line"
+         style="font-size:1.76389px;text-align:end;text-anchor:end;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="65.022789"
+         y="141.52562"
+         id="tspan4-0-9-9">Mill Valley</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="178.50545"
+       y="158.07974"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-2-4-3-1-3-0-1"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="178.50545"
+         y="158.07974">Novato</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="178.50545"
+       y="150.16519"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9-3-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-2-4-3-1-3-0-1-5"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="178.50545"
+         y="150.16519">Petaluma</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="178.50545"
+       y="142.10791"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9-3-9-2-9"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-2-4-3-1-3-0-1-5-4"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="178.50545"
+         y="142.10791">Cotati</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="178.50545"
+       y="134.33606"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9-3-9-2-5"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-2-4-3-1-3-0-1-5-7"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="178.50545"
+         y="134.33606">Rohnert Park</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="178.50545"
+       y="126.31829"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9-3-9-2-99"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-2-4-3-1-3-0-1-5-78"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="178.50545"
+         y="126.31829">Santa Rosa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="178.47017"
+       y="118.32108"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9-3-9-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-2-4-3-1-3-0-1-5-9"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="178.47017"
+         y="118.32108">North Santa Rosa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="178.44371"
+       y="110.28403"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9-3-9-2-1"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-2-4-3-1-3-0-1-5-96"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="178.44371"
+         y="110.28403">Sonoma County Airport</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="178.40843"
+       y="102.60368"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9-3-9-2-0"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-2-4-3-1-3-0-1-5-73"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="178.40843"
+         y="102.60368">Windsor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="178.40843"
+       y="94.422943"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9-3-9-2-0-5"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-2-4-3-1-3-0-1-5-73-8"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="178.40843"
+         y="94.422943">Healdsburg</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="178.43666"
+       y="86.73114"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9-3-9-2-0-8"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-2-4-3-1-3-0-1-5-73-9"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="178.43666"
+         y="86.73114">Geyserville</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="178.42255"
+       y="78.767387"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9-3-9-2-0-0"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-2-4-3-1-3-0-1-5-73-1"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="178.42255"
+         y="78.767387">Cloverdale</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="178.42255"
+       y="70.812454"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9-3-9-2-0-0-7"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-2-4-3-1-3-0-1-5-73-1-7"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="178.42255"
+         y="70.812454">Cloverdale</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="178.42255"
+       y="62.857521"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9-3-9-2-0-0-7-9"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-2-4-3-1-3-0-1-5-73-1-7-0"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="178.42255"
+         y="62.857521">Hopland</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="178.43666"
+       y="54.888523"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9-3-9-2-0-0-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-2-4-3-1-3-0-1-5-73-1-7-1"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="178.43666"
+         y="54.888523">Ukiah</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="178.43666"
+       y="46.896591"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9-3-9-2-0-0-7-5-4"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-2-4-3-1-3-0-1-5-73-1-7-1-6"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="178.43666"
+         y="46.896591">Redwood Valley</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="178.48788"
+       y="38.867329"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9-3-9-2-0-0-7-5-4-7"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-2-4-3-1-3-0-1-5-73-1-7-1-6-8"
+         style="font-size:1.76389px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="178.48788"
+         y="38.867329">Willits</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="176.85793"
+       y="27.108524"
+       id="text3-6-7-3-6-7-6-4-6-1-5-6-2-1-9-9-3-9-2-0-0-7-5-4-7-8"><tspan
+         sodipodi:role="line"
+         style="font-size:1.76389px;text-align:start;text-anchor:start;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="176.85793"
+         y="27.108524"
+         id="tspan16">to Fort Bragg,</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.76389px;text-align:start;text-anchor:start;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="176.85793"
+         y="29.313387"
+         id="tspan14">Mendocino,</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.76389px;text-align:start;text-anchor:start;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="176.85793"
+         y="31.51825"
+         id="tspan18">Eureka,</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.76389px;text-align:start;text-anchor:start;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="176.85793"
+         y="33.723114"
+         id="tspan19">Crescent City</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Key"
+     transform="translate(10.583333)">
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:#e6e6e6;stroke-width:1.2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       id="rect36"
+       width="88.635406"
+       height="109.80209"
+       x="2.6458328"
+       y="173.30208" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="93.486931"
+       y="20.812252"
+       id="text3-6-7-3-6-7-6-4-6-1-5-62"><tspan
+         sodipodi:role="line"
+         id="tspan3-5-4-1-4-2-7-4-2-8-1-1"
+         style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="93.486931"
+         y="20.812252">Northwestern Pacific</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="93.486931"
+         y="31.39559"
+         id="tspan32">Interurban Map (2024)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="27.309599"
+       y="190.13487"
+       id="text33"><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;stroke:none;stroke-width:2"
+         x="27.309599"
+         y="190.13487"
+         id="tspan35">every 20 min weekday | 30 min weekend</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="7.7378368"
+       y="182.91257"
+       id="text33-5"><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;text-align:start;text-anchor:start;stroke:none;stroke-width:2"
+         x="7.7378368"
+         y="182.91257"
+         id="tspan35-4">Light Rail</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="7.6411667"
+       y="209.47791"
+       id="text33-5-4"><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;text-align:start;text-anchor:start;stroke:none;stroke-width:2"
+         x="7.6411667"
+         y="209.47791"
+         id="tspan35-4-9">Heavy Rail</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="7.493"
+       y="227.25908"
+       id="text33-5-4-3"><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;text-align:start;text-anchor:start;stroke:none;stroke-width:2"
+         x="7.493"
+         y="227.25908"
+         id="tspan35-4-9-6">Ferries</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="7.4929991"
+       y="252.13161"
+       id="text33-5-4-3-3"><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;text-align:start;text-anchor:start;stroke:none;stroke-width:2"
+         x="7.4929991"
+         y="252.13161"
+         id="tspan35-4-9-6-5">Thruway Buses</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="27.309599"
+       y="194.24124"
+       id="text33-3"><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;stroke:none;stroke-width:2"
+         x="27.309599"
+         y="194.24124"
+         id="tspan35-7">every 20 min weekday | 30 min weekend</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="27.309599"
+       y="198.16153"
+       id="text33-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;stroke:none;stroke-width:2"
+         x="27.309599"
+         y="198.16153"
+         id="tspan35-1">every 30 min weekday | 45 min weekend</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="27.309599"
+       y="202.08182"
+       id="text33-3-7"><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;stroke:none;stroke-width:2"
+         x="27.309599"
+         y="202.08182"
+         id="tspan35-7-0">every 20 min weekday | 30 min weekend</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="27.309603"
+       y="215.07642"
+       id="text33-3-7-5"><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;stroke:none;stroke-width:2"
+         x="27.309603"
+         y="215.07642"
+         id="tspan35-7-0-3">every 30 min weekday  | 45 min weekend</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="27.309599"
+       y="236.24545"
+       id="text33-3-7-5-7"><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;stroke:none;stroke-width:2"
+         x="27.309599"
+         y="236.24545"
+         id="tspan35-7-0-3-0">every 20 min weekday | 30 min weekend</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="7.7556057"
+       y="232.62144"
+       id="text33-3-7-5-7-6"><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;stroke:none;stroke-width:2"
+         x="7.7556057"
+         y="232.62144"
+         id="tspan35-7-0-3-0-5">Sausalito - SF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="7.7681656"
+       y="261.64581"
+       id="text33-3-7-5-7-6-4"><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;stroke:none;stroke-width:2"
+         x="7.7681656"
+         y="261.64581"
+         id="tspan35-7-0-3-0-5-1">see North Bay Buses map for details</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;stroke:none;stroke-width:2"
+         x="7.7681656"
+         y="265.17358"
+         id="tspan38">San Rafael - Richmond</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;stroke:none;stroke-width:2"
+         x="7.7681656"
+         y="268.70135"
+         id="tspan41">Manor - Point Reyes</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;stroke:none;stroke-width:2"
+         x="7.7681656"
+         y="272.22913"
+         id="tspan37">Willits - Crescent City</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;stroke:none;stroke-width:2"
+         x="7.7681656"
+         y="275.75693"
+         id="tspan39">Willits - Mendocino</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;stroke:none;stroke-width:2"
+         x="7.7681656"
+         y="279.2847"
+         id="tspan40">Willits - Fort Bragg </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="7.7485504"
+       y="240.42537"
+       id="text33-3-7-5-7-6-3"><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;stroke:none;stroke-width:2"
+         x="7.7485504"
+         y="240.42537"
+         id="tspan35-7-0-3-0-5-3">Tiburon - SF</tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#71c837;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       d="M 7.9374991,189.17709 H 23.812496"
+       id="path35" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#80b3ff;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       d="M 7.9374991,193.14584 H 23.812496"
+       id="path35-8" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#c83737;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       d="M 7.9374991,197.11459 H 23.812496"
+       id="path35-0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffcc00;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       d="M 7.9374991,201.08334 H 23.812496"
+       id="path35-8-2" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff6600;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       d="M 7.9374981,214.31251 H 23.812495"
+       id="path35-8-2-5" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="27.309603"
+       y="219.04515"
+       id="text33-3-7-5-4"><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;stroke:none;stroke-width:2"
+         x="27.309603"
+         y="219.04515"
+         id="tspan35-7-0-3-3">every 2 hours weekday | 3 hours weekend</tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff6600;stroke-width:1.2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       d="M 7.9374991,218.28126 H 23.812496"
+       id="path35-8-2-5-9" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#b3b3b3;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       d="M 7.9374991,256.64584 H 23.812496"
+       id="path35-8-2-5-9-0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#e6e6e6;stroke-width:2;stroke-dasharray:1, 1;stroke-dashoffset:0;paint-order:fill markers stroke"
+       d="M 7.9374981,235.47918 H 23.812495"
+       id="path35-8-2-5-5" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="27.309599"
+       y="244.18297"
+       id="text33-3-7-5-7-8"><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;stroke:none;stroke-width:2"
+         x="27.309599"
+         y="244.18297"
+         id="tspan35-7-0-3-0-9">every 20 min weekday | 30 min weekend</tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#e6e6e6;stroke-width:2;stroke-dasharray:1, 1;stroke-dashoffset:0;paint-order:fill markers stroke"
+       d="M 7.9374981,243.41668 H 23.812495"
+       id="path35-8-2-5-5-0" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#e6e6e6;stroke-width:1.2;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+       x="42.521198"
+       y="228.86458"
+       id="text36"><tspan
+         sodipodi:role="line"
+         id="tspan36"
+         style="stroke-width:1.2"></tspan></text>
+  </g>
+</svg>

@@ -9,6 +9,7 @@ Here are some of my maps!
 ### 2024
 
 <center>
+[![](assets/maps/2024/marinrail/thumbnail.png){ width=200px }](assets/maps/2024/marinrail/map.png)
 [![](assets/maps/2024/sfeb_1931_better/thumbnail.png){ width=200px }](assets/maps/2024/sfeb_1931_better/map.png)
 [![](assets/maps/2024/sfeb_eastbay/thumbnail.png){ width=200px }](assets/maps/2024/sfeb_eastbay/map.png)
 [![](assets/maps/2024/sfeb_sf/thumbnail.png){ width=200px }](assets/maps/2024/sfeb_sf/map.png)
@@ -16,7 +17,6 @@ Here are some of my maps!
 [![](assets/maps/2024/sfeb_1931/thumbnail.png){ width=200px }](assets/maps/2024/sfeb_1931/map.png)
 [![](assets/maps/2024/sfeb_commuter/thumbnail.png){ width=200px }](assets/maps/2024/sfeb_commuter/map.png)
 [![](assets/maps/2024/usempire/thumbnail.png){ width=200px }](assets/maps/2024/usempire/map.png)
-[![](assets/maps/2024/placeholder/thumbnail.png){ width=200px }](assets/maps/2024/placeholder/map.png)
 [![](assets/maps/2024/placeholder/thumbnail.png){ width=200px }](assets/maps/2024/placeholder/map.png)
 </center>
 
