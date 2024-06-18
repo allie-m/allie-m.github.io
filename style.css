@@ -33,8 +33,9 @@ body {
 }
 
 table {
-    /* making sure that text in tables is the same size as everything else */
-    font-size: 18px;
+    /* to prevent the table text from rendering too small on mobile */
+    text-size-adjust: none;
+    -webkit-text-size-adjust: none;
 }
 
 /* links */
