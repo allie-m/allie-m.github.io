@@ -8,6 +8,7 @@
     --alert: #e53935;
 }*/
 
+/* colors :DD */
 /* inspired by https://github.com/charliegerard/pride-vscode-themes */
 :root {
     --page-bg: #202020;
@@ -29,6 +30,11 @@ body {
     max-width: 40em;
     margin: 0px auto;
     padding: 0em 1em 1em 1em;
+}
+
+table {
+    /* making sure that text in tables is the same size as everything else */
+    font-size: 18px;
 }
 
 /* links */

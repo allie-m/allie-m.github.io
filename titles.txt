@@ -4,6 +4,7 @@ projects = projects
 maps = maps
 
 blogposts/vlkfcnet = Misadventures in Vulkan Compute
+blogposts/finishing-high-school = finishing high school
 
 projects/projectstudio = 11th Grade Project Studio
 projects/some2 = My SoME2 Entry
