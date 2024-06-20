@@ -3,6 +3,8 @@ blog = blog
 projects = projects
 maps = maps
 
+photos = photos
+
 blogposts/vlkfcnet = Misadventures in Vulkan Compute
 blogposts/finishing-high-school = finishing high school
 
