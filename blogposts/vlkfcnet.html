@@ -4,7 +4,7 @@
     <!-- <link rel="icon" href="icon.ico"> -->
     <title>allie-m // Misadventures in Vulkan Compute</title>
     <link href="../style.css" rel="stylesheet" type="text/css"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=400, initial-scale=1">
 </head>
 <body>
     <div id="header">
@@ -99,7 +99,7 @@ the gradient, and finally do the backpropagation. In the background we
 have a pending CPU-GPU transfer op to move the latest randomized batch
 onto the GPU.</p>
 <p>This surely unassailable plan formed, I started programming.</p>
-<p><img src="../assets/blogposts/vlkfcnet/matmulattempt.png" /></p>
+<p><img src="../assets/blogposts/vlkfcnet/matmulattempt.png" class="fit-to-screen"/></p>
 <p>As it turned out, WGSL did not support atomic floating point
 addition, which was necessary for my matrix multiplication. I asked the
 wgpu developers on their matrix chat, and they said that it was a thing
@@ -122,7 +122,7 @@ messaging as I tried to track down everything that I needed to tweak to
 get it to work.</p>
 <p>Having eventually figured out that I needed to turn off release mode,
 I realized what Vulkan’s problem was.</p>
-<p><img src="../assets/blogposts/vlkfcnet/shaderfeatures.png" /></p>
+<p><img src="../assets/blogposts/vlkfcnet/shaderfeatures.png" class="fit-to-screen"/></p>
 <p>Oh. My GPU’s Vulkan driver didn’t support atomic floating point
 addition. Or, at least, that’s what I thought.</p>
 <p>Keen-eyed readers may notice that shaderSharedFloat32AtomicAdd
@@ -144,7 +144,7 @@ href="https://github.com/vulkano-rs/vulkano">vulkano</a>.</p>
 through the boilerplate necessary to compile a single shader that I
 realized I could have used shared memory float atomics with just wgpu.
 But, sunk cost fallacy. So I kept going.</p>
-<p><img src="../assets/blogposts/vlkfcnet/shaderfeatures2.png" /></p>
+<p><img src="../assets/blogposts/vlkfcnet/shaderfeatures2.png" class="fit-to-screen"/></p>
 <p>As it turned out, I had two different Vulkan drivers installed: AMD’s
 amdvlk, and Mesa’s vulkan-radeon. Only vulkan-radeon had support for any
 kind of atomic floating point addition, but amdvlk was being used by
@@ -161,8 +161,7 @@ matrix multiplication with some other stuff sprinkled on top.</p>
 <p>I spent a day dealing with an inscrutable bug: sometimes it would
 give the right results, sometimes partially right results, sometimes
 total garbage.</p>
-<p><img
-src="../assets/blogposts/vlkfcnet/uninitializedmemory.png" /></p>
+<p><img src="../assets/blogposts/vlkfcnet/uninitializedmemory.png" class="fit-to-screen"/></p>
 <p>Yeah, shared memory is by default uninitialized, not zeroed :P</p>
 <p>That indiscretion fixed, I had one shader down, three to go.
 Theoretically. I actually ended up needing five shaders in total: I
@@ -173,12 +172,11 @@ the other to do all the backpropagation.</p>
 push constants had flown out the window. If I wanted to change the batch
 size I’d just have to manually go change the values (which I did).</p>
 <p>But, after several more hours, I had implemented all the shaders.</p>
-<p><img
-src="../assets/blogposts/vlkfcnet/notcorrectlytransposing.png" /></p>
+<p><img src="../assets/blogposts/vlkfcnet/notcorrectlytransposing.png" class="fit-to-screen"/></p>
 <p>Oh. It’s not working.</p>
 <p>Two excruciating days of debugging later, I was able to get it to
 work.</p>
-<p><img src="../assets/blogposts/vlkfcnet/foundthebug.png" /></p>
+<p><img src="../assets/blogposts/vlkfcnet/foundthebug.png" class="fit-to-screen"/></p>
 <p>It turned out the problem was in my second gradient shader, I was not
 transposing a matrix correctly (mostly by not actually transposing
 it).</p>
@@ -203,7 +201,7 @@ was only the fact it could shuffle new batches while it processed
 previous ones which made the performance not significantly worse.</p>
 <p>By finagling the hyperparameters (changing the batch size to 512), I
 eked out a win of 260 milliseconds for the GPU for 5000 iterations.</p>
-<p><img src="../assets/blogposts/vlkfcnet/takethatcpu.png" /></p>
+<p><img src="../assets/blogposts/vlkfcnet/takethatcpu.png" class="fit-to-screen"/></p>
 <p>Why was it so slow? Well, the matrix multiplications involved are
 relatively small. Conducting 784 atomic float additions per workgroup is
 expensive, and the CPU linear algebra library I was using is very highly

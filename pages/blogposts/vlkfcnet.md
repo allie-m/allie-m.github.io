@@ -70,7 +70,7 @@ randomized batch onto the GPU.
 
 This surely unassailable plan formed, I started programming.
 
-![](../assets/blogposts/vlkfcnet/matmulattempt.png)
+<img src="../assets/blogposts/vlkfcnet/matmulattempt.png" class="fit-to-screen"/>
 
 As it turned out, WGSL did not support atomic floating point addition,
 which was necessary for my matrix multiplication. I asked the
@@ -97,7 +97,7 @@ needed to tweak to get it to work.
 Having eventually figured out that I needed to turn off release mode,
 I realized what Vulkan's problem was.
 
-![](../assets/blogposts/vlkfcnet/shaderfeatures.png)
+<img src="../assets/blogposts/vlkfcnet/shaderfeatures.png" class="fit-to-screen"/>
 
 Oh. My GPU's Vulkan driver didn't support atomic floating point addition. Or, at least, that's what I thought.
 
@@ -121,7 +121,7 @@ It was after I had deleted my forks and gotten about 3/4ths the way through the 
 necessary to compile a single shader that I realized I could have used shared memory
 float atomics with just wgpu. But, sunk cost fallacy. So I kept going.
 
-![](../assets/blogposts/vlkfcnet/shaderfeatures2.png)
+<img src="../assets/blogposts/vlkfcnet/shaderfeatures2.png" class="fit-to-screen"/>
 
 As it turned out, I had two different Vulkan drivers installed: AMD's amdvlk, and Mesa's vulkan-radeon.
 Only vulkan-radeon had support for any kind of atomic floating point addition, but amdvlk was being used by
@@ -140,7 +140,7 @@ sprinkled on top.
 I spent a day dealing with an inscrutable bug: sometimes it would give the right results,
 sometimes partially right results, sometimes total garbage.
 
-![](../assets/blogposts/vlkfcnet/uninitializedmemory.png)
+<img src="../assets/blogposts/vlkfcnet/uninitializedmemory.png" class="fit-to-screen"/>
 
 Yeah, shared memory is by default uninitialized, not zeroed :P
 
@@ -156,13 +156,13 @@ batch size I'd just have to manually go change the values (which I did).
 
 But, after several more hours, I had implemented all the shaders.
 
-![](../assets/blogposts/vlkfcnet/notcorrectlytransposing.png)
+<img src="../assets/blogposts/vlkfcnet/notcorrectlytransposing.png" class="fit-to-screen"/>
 
 Oh. It's not working.
 
 Two excruciating days of debugging later, I was able to get it to work.
 
-![](../assets/blogposts/vlkfcnet/foundthebug.png)
+<img src="../assets/blogposts/vlkfcnet/foundthebug.png" class="fit-to-screen"/>
 
 It turned out the problem was in my second gradient shader, I was not
 transposing a matrix correctly (mostly by not actually transposing it).
@@ -195,7 +195,7 @@ By finagling the hyperparameters (changing the batch size to 512),
 I eked out a win of 260 milliseconds for the GPU for 5000
 iterations.
 
-![](../assets/blogposts/vlkfcnet/takethatcpu.png)
+<img src="../assets/blogposts/vlkfcnet/takethatcpu.png" class="fit-to-screen"/>
 
 Why was it so slow?
 Well, the matrix multiplications involved are relatively small.
