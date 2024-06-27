@@ -28,6 +28,7 @@ template = '''<!DOCTYPE html>
     <!-- <link rel="icon" href="icon.ico"> -->
     <title>allie-m // %s</title>
     <link href="%sstyle.css" rel="stylesheet" type="text/css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
     <div id="header">
