@@ -3,11 +3,8 @@ import os
 # the world's worst static site generator
 # not like i need anything fancy though
 
-# TODO: implement RSS for my blog posts
-# (write to feed.xml)
-# see https://rosenzweig.io/feed.xml as an example
-
 rss_head = '''
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
         <title>immutably aliased</title>
@@ -21,11 +18,24 @@ rss_head = '''
 rss_item_template = '''
 <item>
     <title>%s</title>
-    <link>%s</link>
+    <link>https://allie-m.github.io/blogposts/%s</link>
     <description>%s</description>
+    <guid>%s</guid>
     <pubDate>%s</pubDate>
 </item>
 '''
+
+# TODO FINISH THIS
+def generate_rss():
+    dir_path = "blogposts"
+    with open("feed.xml", "w") as out:
+        contents = ""
+        for fname in os.listdir(dir_path):
+            fpath = dir_path + fname
+            with open(fpath, "r") as f:
+                body = f.read() # TODO fill in
+                contents += rss_item_template % "title" % "description" % "guid"
+        out.write(rss_head % contents)
 
 template = '''<!DOCTYPE html>
 <html lang="en">
