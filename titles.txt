@@ -1,14 +1,17 @@
 index = home
 blog = blog
 projects = projects
-maps = maps
+other = other categories
 
+maps = maps
 photos = photos
+personalblog = other blog
 
 blogposts/vlkfcnet = Misadventures in Vulkan Compute
-blogposts/finishing-high-school = finishing high school
 
 projects/projectstudio = 11th Grade Project Studio
 projects/some2 = My SoME2 Entry
+
+personalblogposts/finishing-high-school = finishing high school
 
 maps/1937subways = Alt History: 1937 Subways Plan

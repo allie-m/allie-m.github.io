@@ -4,9 +4,9 @@ Hi, I'm Allie!
 
 I like graphics programming, math, and public transportation.
 
-Have a look at my [projects](projects.html), [blog posts](blog.html), and/or [maps](maps.html).
+Have a look at my [projects](projects.html) and [blog posts](blog.html).
 
-See also some outdoor [photos](photos.html).
+See also my [maps](maps.html), [photos](photos.html), and [less filtered miscellanea](personalblog.html).
 
 <p>
 [Proof School](https://www.proofschool.org) '24\

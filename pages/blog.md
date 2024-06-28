@@ -1,7 +1,6 @@
-Blog posts!!
+Blog posts about (graphics) programming and also other things.
 
 | | |
 |:--- | --:|
-| [Finishing High School](blogposts/finishing-high-school.html) | June 17, 2024 |
-| | |
 | [Misadventures in Vulkan Compute](blogposts/vlkfcnet.html) | October 11, 2023 |
+| | |

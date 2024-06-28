@@ -1,4 +1,7 @@
-Here are some of my maps!
+Here are some of my maps, ordered reverse-chronologically.
+
+They're mostly alternate histories or alternate realities,
+with a few real maps and alternate futures mixed in.
 
 ## Collections
 

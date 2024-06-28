@@ -1,26 +1,31 @@
 import os
 
+# the world's worst static site generator
+# not like i need anything fancy though
+
 # TODO: implement RSS for my blog posts
-#
-# '''
-# <rss version="2.0">
-#     <channel>
-#         <title>allie-m</title>
-#         <link>https://allie-m.github.io/blog.html</link>
-#         <description>Graphics,</description>
-#         <language>en</language>
-#         %s
-#     </channel>
-# </rss>
-# '''
-# '''
-# <item>
-#     <title>%s</title>
-#     <link>%s</link>
-#     <description>%s</description>
-#     <pubDate>%s</pubDate>
-# </item>
-# '''
+# (write to feed.xml)
+# see https://rosenzweig.io/feed.xml as an example
+
+rss_head = '''
+<rss version="2.0">
+    <channel>
+        <title>immutably aliased</title>
+        <link>https://allie-m.github.io/blog.html</link>
+        <description>Graphics programming and also other things</description>
+        <language>en</language>
+        %s
+    </channel>
+</rss>
+'''
+rss_item_template = '''
+<item>
+    <title>%s</title>
+    <link>%s</link>
+    <description>%s</description>
+    <pubDate>%s</pubDate>
+</item>
+'''
 
 template = '''<!DOCTYPE html>
 <html lang="en">
@@ -45,7 +50,7 @@ template = '''<!DOCTYPE html>
                     <a href="%sprojects.html">projects</a>
                 </li>
                 <li>
-                    <a href="%smaps.html">maps</a>
+                    <a href="%sother.html">other</a>
                 </li>
             </ul>
         </div>
