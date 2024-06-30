@@ -19,5 +19,5 @@ Feel free to reach out!
 
 | | |
 |--|--|
-| email  | \| allielmahaffey@gmail.com |
+| email  | \| allielmno@gmail.com |
 | github | \| [allie-m](https://github.com/allie-m) |
